@@ -1,0 +1,78 @@
+name: Monthly Data Pipeline
+
+on:
+  # Runs at 02:00 UTC on the 1st of every month
+  schedule:
+    - cron: "0 2 1 * *"
+
+  # Allow manual trigger from GitHub UI (Actions tab → Run workflow)
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "Data source to fetch (leave blank for all)"
+        required: false
+        default: ""
+        type: choice
+        options:
+          - ""           # all sources
+          - singstat
+          - mas
+          - worldbank
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to commit data files back to the repo
+
+    steps:
+      # 1. Check out the full repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history so git log works correctly
+
+      # 2. Set up Python
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 4. Validate imports before doing real work
+      - name: Dry-run validation
+        run: python pipeline/run_pipeline.py --dry-run
+
+      # 5. Run the pipeline (all sources, or the one selected manually)
+      - name: Run data pipeline
+        run: |
+          if [ -n "${{ github.event.inputs.source }}" ]; then
+            python pipeline/run_pipeline.py --source ${{ github.event.inputs.source }}
+          else
+            python pipeline/run_pipeline.py
+          fi
+
+      # 6. Commit any new/updated data files back to the repo
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/raw/
+          git add data/processed/
+          git add data/pipeline_log.json || true   # ok if log doesn't exist yet
+
+          # Only commit if something actually changed
+          if git diff --staged --quiet; then
+            echo "No data changes — nothing to commit."
+          else
+            MONTH=$(date '+%Y-%m')
+            git commit -m "data: monthly refresh ${MONTH} [skip ci]"
+            git push
+            echo "Data committed and pushed."
+          fi
