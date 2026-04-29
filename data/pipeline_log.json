@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2026-04-28T09:49:03Z",
+    "duration_seconds": 16.9,
+    "datasets": {
+      "gdp_expenditure": {
+        "rows": 642,
+        "status": "ok"
+      },
+      "industrial_production": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "merchandise_exports": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "cpi": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "exchange_rates_monthly": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "interest_rates_monthly": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "sgd_money_supply_monthly": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "gdp_growth": {
+        "rows": 25,
+        "status": "ok"
+      },
+      "trade_openness": {
+        "rows": 25,
+        "status": "ok"
+      },
+      "manufacturing_va_pct": {
+        "rows": 25,
+        "status": "ok"
+      },
+      "services_va_pct": {
+        "rows": 25,
+        "status": "ok"
+      },
+      "fdi_inflows_pct_gdp": {
+        "rows": 25,
+        "status": "ok"
+      },
+      "governance_control_corruption": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "rule_of_law": {
+        "rows": 0,
+        "status": "empty"
+      }
+    }
+  }
+]

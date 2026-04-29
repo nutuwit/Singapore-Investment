@@ -72,7 +72,7 @@ SINGSTAT_TABLES = {
         "sortBy":         "key asc",
     },
     "industrial_production": {
-        "tableId":        "M212881",
+        "tableId":        "M354891",
         "seriesNoORrowNo": None,
         "limit":          3000,
         "sortBy":         "key asc",

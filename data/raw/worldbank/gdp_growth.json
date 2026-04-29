@@ -1,0 +1,152 @@
+[
+  {
+    "date": "2024",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 4.38802362461865
+  },
+  {
+    "date": "2023",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 1.82140694115385
+  },
+  {
+    "date": "2022",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 4.10800021897151
+  },
+  {
+    "date": "2021",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 9.7568044629903
+  },
+  {
+    "date": "2020",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": -3.81470885510713
+  },
+  {
+    "date": "2019",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 1.30804118153127
+  },
+  {
+    "date": "2018",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 3.4519759658687
+  },
+  {
+    "date": "2017",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 4.47689915845876
+  },
+  {
+    "date": "2016",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 3.74757848792792
+  },
+  {
+    "date": "2015",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 2.97679931634806
+  },
+  {
+    "date": "2014",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 3.93554027709007
+  },
+  {
+    "date": "2013",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 4.81763099120676
+  },
+  {
+    "date": "2012",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 4.43549759378537
+  },
+  {
+    "date": "2011",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 6.21493416858989
+  },
+  {
+    "date": "2010",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 14.5197497108994
+  },
+  {
+    "date": "2009",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 0.127953382778088
+  },
+  {
+    "date": "2008",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 1.86348345462035
+  },
+  {
+    "date": "2007",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 9.02151951268893
+  },
+  {
+    "date": "2006",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 9.00676607871758
+  },
+  {
+    "date": "2005",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 7.36632239250758
+  },
+  {
+    "date": "2004",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 9.93998268434957
+  },
+  {
+    "date": "2003",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 4.54825542643229
+  },
+  {
+    "date": "2002",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 3.92336076702013
+  },
+  {
+    "date": "2001",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": -1.07086275100448
+  },
+  {
+    "date": "2000",
+    "country": "SGP",
+    "indicator": "NY.GDP.MKTP.KD.ZG",
+    "value": 9.03831632555163
+  }
+]
