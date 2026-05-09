@@ -58,14 +58,15 @@ def run(sources: list[str] | None = None, dry_run: bool = False):
 
     if dry_run:
         print("[DRY RUN] Validating imports only...")
-        from pipeline.fetch_singstat  import fetch_all_singstat
-        from pipeline.fetch_mas       import fetch_all_mas
-        from pipeline.fetch_worldbank import fetch_all_worldbank
+        from pipeline.fetch_singstat          import fetch_all_singstat
+        from pipeline.fetch_mas               import fetch_all_mas
+        from pipeline.fetch_worldbank         import fetch_all_worldbank
+        from pipeline.fetch_tradingeconomics  import fetch_all_tradingeconomics
         print("[DRY RUN] All imports OK.")
         return
 
     all_results = {}
-    sources = sources or ["singstat", "mas", "worldbank"]
+    sources = sources or ["singstat", "mas", "worldbank", "tradingeconomics"]
 
     if "singstat" in sources:
         print("\n--- SingStat ---")
@@ -81,6 +82,11 @@ def run(sources: list[str] | None = None, dry_run: bool = False):
         print("\n--- World Bank ---")
         from pipeline.fetch_worldbank import fetch_all_worldbank
         all_results.update(fetch_all_worldbank())
+
+    if "tradingeconomics" in sources:
+        print("\n--- Trading Economics ---")
+        from pipeline.fetch_tradingeconomics import fetch_all_tradingeconomics
+        all_results.update(fetch_all_tradingeconomics())
 
     # Write a combined summary CSV per source group
     import pandas as pd
@@ -103,7 +109,8 @@ def run(sources: list[str] | None = None, dry_run: bool = False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--source",  nargs="+", choices=["singstat", "mas", "worldbank"],
+    parser.add_argument("--source",  nargs="+",
+                        choices=["singstat", "mas", "worldbank", "tradingeconomics"],
                         help="Run only specific sources")
     parser.add_argument("--dry-run", action="store_true",
                         help="Validate imports without fetching data")

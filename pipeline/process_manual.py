@@ -1,13 +1,14 @@
 """
-Manual data loader for sources that don't have a usable API:
+Manual data loader for sources that don't have a usable API.
+
+Currently:
   - UNCTAD FDI inflows (Excel download)
-  - Transparency International CPI (Excel download)
 
 Download instructions:
-  UNCTAD : https://unctadstat.unctad.org  → FDI → Inward → Download Excel
+  UNCTAD : https://unctadstat.unctad.org  -> FDI -> Inward -> Download Excel
            Save as: data/raw/manual/unctad_fdi.xlsx
-  TI CPI : https://www.transparency.org/en/cpi → Download CPI Timeseries Excel
-           Save as: data/raw/manual/ti_cpi.xlsx
+
+(TI CPI is now fetched automatically — see pipeline/fetch_ti_cpi.py)
 """
 
 import os
@@ -52,48 +53,9 @@ def load_unctad_fdi(filepath: str = "data/raw/manual/unctad_fdi.xlsx") -> pd.Dat
     return df
 
 
-def load_ti_cpi(filepath: str = "data/raw/manual/ti_cpi.xlsx") -> pd.DataFrame:
-    """
-    Parse Transparency International CPI timeseries Excel and extract Singapore row.
-    Returns tidy DataFrame: [date, cpi_score]
-    """
-    if not os.path.exists(filepath):
-        print(f"[SKIP] TI CPI file not found: {filepath}")
-        print("       Download from https://www.transparency.org/en/cpi and save to that path.")
-        return pd.DataFrame()
-
-    sheets = pd.read_excel(filepath, sheet_name=None)
-    sheet_name = next(
-        (k for k in sheets if "timeseries" in k.lower() or "cpi" in k.lower()),
-        list(sheets.keys())[0]
-    )
-    df = sheets[sheet_name]
-
-    mask   = df.iloc[:, 0].astype(str).str.contains("Singapore", case=False, na=False)
-    sg_row = df[mask]
-
-    if sg_row.empty:
-        print("[WARN] Singapore not found in TI CPI file.")
-        return pd.DataFrame()
-
-    year_cols = [c for c in sg_row.columns if str(c).isdigit()]
-    records   = [
-        {"date": str(yr), "cpi_score": float(sg_row[yr].values[0])}
-        for yr in year_cols
-        if pd.notna(sg_row[yr].values[0])
-    ]
-
-    df_out = pd.DataFrame(records)
-    out    = os.path.join(PROCESSED_DIR, "ti_cpi_singapore.csv")
-    df_out.to_csv(out, index=False)
-    print(f"[OK] TI CPI: {len(df_out)} rows -> {out}")
-    return df_out
-
-
 def load_all_manual() -> dict[str, pd.DataFrame]:
     return {
         "unctad_fdi": load_unctad_fdi(),
-        "ti_cpi":     load_ti_cpi(),
     }
 
 

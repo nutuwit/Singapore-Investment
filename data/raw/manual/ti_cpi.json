@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2025",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 84.0
+  },
+  {
+    "date": "2024",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 84.0
+  },
+  {
+    "date": "2023",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 83.0
+  },
+  {
+    "date": "2022",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 83.0
+  },
+  {
+    "date": "2021",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 85.0
+  },
+  {
+    "date": "2020",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 85.0
+  },
+  {
+    "date": "2019",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 85.0
+  },
+  {
+    "date": "2018",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 85.0
+  },
+  {
+    "date": "2017",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 84.0
+  },
+  {
+    "date": "2016",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 84.0
+  },
+  {
+    "date": "2015",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 85.0
+  },
+  {
+    "date": "2014",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 84.0
+  },
+  {
+    "date": "2013",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 86.0
+  },
+  {
+    "date": "2012",
+    "country": "SGP",
+    "indicator": "TI.CPI",
+    "value": 87.0
+  }
+]
