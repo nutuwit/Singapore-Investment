@@ -60,5 +60,67 @@
         "status": "empty"
       }
     }
+  },
+  {
+    "timestamp": "2026-05-01T05:39:20Z",
+    "duration_seconds": 13.3,
+    "datasets": {
+      "gdp_expenditure": {
+        "rows": 642,
+        "status": "ok"
+      },
+      "industrial_production": {
+        "rows": 990,
+        "status": "ok"
+      },
+      "merchandise_exports": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "cpi": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "exchange_rates_monthly": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "interest_rates_monthly": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "sgd_money_supply_monthly": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "gdp_growth": {
+        "rows": 25,
+        "status": "ok"
+      },
+      "trade_openness": {
+        "rows": 25,
+        "status": "ok"
+      },
+      "manufacturing_va_pct": {
+        "rows": 25,
+        "status": "ok"
+      },
+      "services_va_pct": {
+        "rows": 25,
+        "status": "ok"
+      },
+      "fdi_inflows_pct_gdp": {
+        "rows": 25,
+        "status": "ok"
+      },
+      "governance_control_corruption": {
+        "rows": 0,
+        "status": "empty"
+      },
+      "rule_of_law": {
+        "rows": 0,
+        "status": "empty"
+      }
+    }
   }
 ]
