@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Economic Dashboard for Investment</title>
+    
+    <!-- Using a clean, modern font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    
+    <style>
+        /* --- Base Reset & Variables --- */
+        :root {
+            --bg-color: #f8fafc;
+            --header-bg: #ffffff;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --border-color: #e2e8f0;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            /* This ensures the page takes up the full screen height */
+            height: 100vh; 
+            display: flex;
+            flex-direction: column;
+            overflow: hidden; /* Prevents double scrollbars (browser + iframe) */
+        }
+
+        /* --- Header Styling --- */
+        .dashboard-header {
+            background-color: var(--header-bg);
+            border-bottom: 1px solid var(--border-color);
+            padding: 16px 32px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+            z-index: 10; /* Keeps header above the iframe */
+        }
+
+        .dashboard-title {
+            font-size: 20px;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            color: var(--text-main);
+        }
+
+        .dashboard-meta {
+            font-size: 13px;
+            color: var(--text-muted);
+            font-weight: 600;
+        }
+
+        .status-dot {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background-color: #10b981; /* Green dot indicating 'Live' */
+            border-radius: 50%;
+            margin-right: 6px;
+        }
+
+        /* --- Streamlit Container --- */
+        .streamlit-container {
+            flex-grow: 1; /* Takes up all remaining space below header */
+            width: 100%;
+            background-color: var(--bg-color);
+            padding: 0; /* Removing padding so the app sits flush */
+        }
+
+        /* The actual iframe */
+        .streamlit-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top Navigation / Branding Bar -->
+    <header class="dashboard-header">
+        <div class="dashboard-title">Live Economic Dashboard for Investment</div>
+        <div class="dashboard-meta">
+            <span class="status-dot"></span> System Live & Connected
+        </div>
+    </header>
+
+    <!-- Main Container for your Streamlit App -->
+    <main class="streamlit-container">
+        
+        <!-- 
+            IMPORTANT: Replace the URL below with your actual Streamlit Community Cloud URL.
+            Keep the "?embed=true" at the end so it hides the default Streamlit menus!
+        -->
+        <iframe 
+            src="https://singapore-investment.streamlit.app/?embed=true" 
+            title="Singapore Economic Dashboard Visualization">
+        </iframe>
+
+    </main>
+
+</body>
+</html>
