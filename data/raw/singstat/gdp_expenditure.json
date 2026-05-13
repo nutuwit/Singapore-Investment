@@ -1,3854 +1,2186 @@
 [
   {
-    "date": "1984",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2019 1Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 8.3
+    "value": 126641.4
   },
   {
-    "date": "1985",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2019 2Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 2.9
+    "value": 126345.0
   },
   {
-    "date": "1986",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2019 3Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 4.6
+    "value": 129077.2
   },
   {
-    "date": "1987",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2019 4Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 7.1
+    "value": 131988.5
   },
   {
-    "date": "1988",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2020 1Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 10.6
+    "value": 126567.9
   },
   {
-    "date": "1989",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2020 2Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 9.4
+    "value": 108396.8
   },
   {
-    "date": "1990",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2020 3Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 9.8
+    "value": 120551.1
   },
   {
-    "date": "1991",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2020 4Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 7.2
+    "value": 129086.2
   },
   {
-    "date": "1992",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2021 1Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 4.7
+    "value": 137332.1
   },
   {
-    "date": "1993",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2021 2Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 11.7
+    "value": 144879.1
   },
   {
-    "date": "1994",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2021 3Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 10.0
+    "value": 149929.1
   },
   {
-    "date": "1995",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2021 4Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 5.3
+    "value": 160484.7
   },
   {
-    "date": "1996",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2022 1Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 2.7
+    "value": 169365.3
   },
   {
-    "date": "1997",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2022 2Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 3.2
+    "value": 184735.6
   },
   {
-    "date": "1998",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2022 3Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": -6.1
+    "value": 178946.2
   },
   {
-    "date": "1999",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2022 4Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 2.4
+    "value": 175935.9
   },
   {
-    "date": "2000",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2023 1Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 8.8
+    "value": 166415.4
   },
   {
-    "date": "2001",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2023 2Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": -6.2
+    "value": 168935.0
   },
   {
-    "date": "2002",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2023 3Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 4.5
+    "value": 170990.7
   },
   {
-    "date": "2003",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2023 4Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 3.9
+    "value": 180056.9
   },
   {
-    "date": "2004",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2024 1Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 12.4
+    "value": 179753.3
   },
   {
-    "date": "2005",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2024 2Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 4.8
+    "value": 186169.2
   },
   {
-    "date": "2006",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2024 3Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 4.1
+    "value": 196391.9
   },
   {
-    "date": "2007",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2024 4Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 6.3
+    "value": 203183.1
   },
   {
-    "date": "2008",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2025 1Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": -8.4
+    "value": 189709.8
   },
   {
-    "date": "2009",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2025 2Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 0.3
+    "value": 192490.0
   },
   {
-    "date": "2010",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2025 3Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 12.0
+    "value": 197686.6
   },
   {
-    "date": "2011",
-    "variable": "Total (Based On GDP At Current Market Prices)",
+    "date": "2025 4Q",
+    "variable": "GDP At Current Market Prices",
     "seriesNo": "1",
-    "value": 3.7
+    "value": 209642.8
   },
   {
-    "date": "2012",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": 0.9
-  },
-  {
-    "date": "2013",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": 0.3
-  },
-  {
-    "date": "2014",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": -0.1
-  },
-  {
-    "date": "2015",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": 3.9
-  },
-  {
-    "date": "2016",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": 3.6
-  },
-  {
-    "date": "2017",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": 7.6
-  },
-  {
-    "date": "2018",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": 6.3
-  },
-  {
-    "date": "2019",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": -0.8
-  },
-  {
-    "date": "2020",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": -3.7
-  },
-  {
-    "date": "2021",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": 24.8
-  },
-  {
-    "date": "2022",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": 14.2
-  },
-  {
-    "date": "2023",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": -7.7
-  },
-  {
-    "date": "2024",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": 9.8
-  },
-  {
-    "date": "2025",
-    "variable": "Total (Based On GDP At Current Market Prices)",
-    "seriesNo": "1",
-    "value": 1.6
-  },
-  {
-    "date": "1992",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2019 1Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 4.2
+    "value": 46112.2
   },
   {
-    "date": "1993",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2019 2Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 13.3
+    "value": 45671.1
   },
   {
-    "date": "1994",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2019 3Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 10.7
+    "value": 45332.7
   },
   {
-    "date": "1995",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2019 4Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 6.5
+    "value": 47148.0
   },
   {
-    "date": "1996",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2020 1Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 4.4
+    "value": 44236.3
   },
   {
-    "date": "1997",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2020 2Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 5.0
+    "value": 31545.8
   },
   {
-    "date": "1998",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2020 3Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": -5.7
+    "value": 38836.5
   },
   {
-    "date": "1999",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2020 4Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 2.5
+    "value": 41168.5
   },
   {
-    "date": "2000",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2021 1Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 9.3
+    "value": 42441.1
   },
   {
-    "date": "2001",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2021 2Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": -6.9
+    "value": 41107.8
   },
   {
-    "date": "2002",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2021 3Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 3.9
+    "value": 41784.9
   },
   {
-    "date": "2003",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2021 4Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 3.1
+    "value": 45225.1
   },
   {
-    "date": "2004",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2022 1Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 12.1
+    "value": 46027.2
   },
   {
-    "date": "2005",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2022 2Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 4.6
+    "value": 49224.0
   },
   {
-    "date": "2006",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2022 3Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 4.2
+    "value": 50514.5
   },
   {
-    "date": "2007",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2022 4Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 6.4
+    "value": 53452.2
   },
   {
-    "date": "2008",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2023 1Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": -8.6
+    "value": 53031.7
   },
   {
-    "date": "2009",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2023 2Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 0.6
+    "value": 53461.9
   },
   {
-    "date": "2010",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2023 3Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 12.9
+    "value": 52803.3
   },
   {
-    "date": "2011",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2023 4Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 3.7
+    "value": 57008.6
   },
   {
-    "date": "2012",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2024 1Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 1.4
+    "value": 57379.3
   },
   {
-    "date": "2013",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2024 2Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 1.1
+    "value": 58126.1
   },
   {
-    "date": "2014",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2024 3Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": -0.2
+    "value": 58267.9
   },
   {
-    "date": "2015",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2024 4Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 3.8
+    "value": 61114.1
   },
   {
-    "date": "2016",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2025 1Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 3.9
+    "value": 60311.2
   },
   {
-    "date": "2017",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2025 2Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 7.3
+    "value": 60562.6
   },
   {
-    "date": "2018",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2025 3Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": 5.9
+    "value": 60529.1
   },
   {
-    "date": "2019",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
+    "date": "2025 4Q",
+    "variable": "Private Consumption Expenditure",
     "seriesNo": "1.1",
-    "value": -0.9
+    "value": 64052.9
   },
   {
-    "date": "2020",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
-    "seriesNo": "1.1",
-    "value": -2.8
+    "date": "2019 1Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 16526.3
   },
   {
-    "date": "2021",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
-    "seriesNo": "1.1",
-    "value": 23.1
+    "date": "2019 2Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 10360.4
   },
   {
-    "date": "2022",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
-    "seriesNo": "1.1",
-    "value": 15.4
+    "date": "2019 3Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 12149.5
   },
   {
-    "date": "2023",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
-    "seriesNo": "1.1",
-    "value": -7.5
+    "date": "2019 4Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 13671.6
   },
   {
-    "date": "2024",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
-    "seriesNo": "1.1",
-    "value": 10.1
+    "date": "2020 1Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 17619.2
   },
   {
-    "date": "2025",
-    "variable": "Total (Based On GDP At Current Prices, Excluding Construction)",
-    "seriesNo": "1.1",
-    "value": 1.8
+    "date": "2020 2Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 12481.5
   },
   {
-    "date": "1992",
-    "variable": "Goods Producing Industries",
+    "date": "2020 3Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 14062.3
+  },
+  {
+    "date": "2020 4Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 14910.7
+  },
+  {
+    "date": "2021 1Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 19067.9
+  },
+  {
+    "date": "2021 2Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 12761.0
+  },
+  {
+    "date": "2021 3Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 14426.9
+  },
+  {
+    "date": "2021 4Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 16163.6
+  },
+  {
+    "date": "2022 1Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 19666.4
+  },
+  {
+    "date": "2022 2Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 13590.3
+  },
+  {
+    "date": "2022 3Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 14809.3
+  },
+  {
+    "date": "2022 4Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 16656.6
+  },
+  {
+    "date": "2023 1Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 21480.3
+  },
+  {
+    "date": "2023 2Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 13993.3
+  },
+  {
+    "date": "2023 3Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 15549.4
+  },
+  {
+    "date": "2023 4Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 16533.0
+  },
+  {
+    "date": "2024 1Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 24210.7
+  },
+  {
+    "date": "2024 2Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 15063.1
+  },
+  {
+    "date": "2024 3Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 17527.3
+  },
+  {
+    "date": "2024 4Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 20155.7
+  },
+  {
+    "date": "2025 1Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 23158.8
+  },
+  {
+    "date": "2025 2Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 16686.0
+  },
+  {
+    "date": "2025 3Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 19143.7
+  },
+  {
+    "date": "2025 4Q",
+    "variable": "Government Consumption Expenditure",
+    "seriesNo": "1.2",
+    "value": 21952.5
+  },
+  {
+    "date": "2019 1Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 5.2
+    "value": 28263.2
   },
   {
-    "date": "1993",
-    "variable": "Goods Producing Industries",
+    "date": "2019 2Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 11.8
+    "value": 29772.8
   },
   {
-    "date": "1994",
-    "variable": "Goods Producing Industries",
+    "date": "2019 3Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 7.5
+    "value": 29253.2
   },
   {
-    "date": "1995",
-    "variable": "Goods Producing Industries",
+    "date": "2019 4Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 4.6
+    "value": 29912.0
   },
   {
-    "date": "1996",
-    "variable": "Goods Producing Industries",
+    "date": "2020 1Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 0.9
+    "value": 29071.4
   },
   {
-    "date": "1997",
-    "variable": "Goods Producing Industries",
+    "date": "2020 2Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 0.7
+    "value": 21169.4
   },
   {
-    "date": "1998",
-    "variable": "Goods Producing Industries",
+    "date": "2020 3Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": -2.4
+    "value": 22956.6
   },
   {
-    "date": "1999",
-    "variable": "Goods Producing Industries",
+    "date": "2020 4Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 3.0
+    "value": 28566.4
   },
   {
-    "date": "2000",
-    "variable": "Goods Producing Industries",
+    "date": "2021 1Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 17.4
+    "value": 30758.3
   },
   {
-    "date": "2001",
-    "variable": "Goods Producing Industries",
+    "date": "2021 2Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": -9.3
+    "value": 31991.5
   },
   {
-    "date": "2002",
-    "variable": "Goods Producing Industries",
+    "date": "2021 3Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 10.5
+    "value": 32991.3
   },
   {
-    "date": "2003",
-    "variable": "Goods Producing Industries",
+    "date": "2021 4Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 6.8
+    "value": 35100.0
   },
   {
-    "date": "2004",
-    "variable": "Goods Producing Industries",
+    "date": "2022 1Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 20.0
+    "value": 34480.6
   },
   {
-    "date": "2005",
-    "variable": "Goods Producing Industries",
+    "date": "2022 2Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 3.0
+    "value": 35779.9
   },
   {
-    "date": "2006",
-    "variable": "Goods Producing Industries",
+    "date": "2022 3Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 1.4
+    "value": 37124.8
   },
   {
-    "date": "2007",
-    "variable": "Goods Producing Industries",
+    "date": "2022 4Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": -4.6
+    "value": 36814.4
   },
   {
-    "date": "2008",
-    "variable": "Goods Producing Industries",
+    "date": "2023 1Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": -16.5
+    "value": 36724.5
   },
   {
-    "date": "2009",
-    "variable": "Goods Producing Industries",
+    "date": "2023 2Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 4.5
+    "value": 37100.2
   },
   {
-    "date": "2010",
-    "variable": "Goods Producing Industries",
+    "date": "2023 3Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 13.4
+    "value": 37665.1
   },
   {
-    "date": "2011",
-    "variable": "Goods Producing Industries",
+    "date": "2023 4Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 0.4
+    "value": 38646.1
   },
   {
-    "date": "2012",
-    "variable": "Goods Producing Industries",
+    "date": "2024 1Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": -0.4
+    "value": 37157.7
   },
   {
-    "date": "2013",
-    "variable": "Goods Producing Industries",
+    "date": "2024 2Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": -7.0
+    "value": 39738.6
   },
   {
-    "date": "2014",
-    "variable": "Goods Producing Industries",
+    "date": "2024 3Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 4.0
+    "value": 41511.0
   },
   {
-    "date": "2015",
-    "variable": "Goods Producing Industries",
+    "date": "2024 4Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 7.1
+    "value": 42633.9
   },
   {
-    "date": "2016",
-    "variable": "Goods Producing Industries",
+    "date": "2025 1Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 0.9
+    "value": 41053.3
   },
   {
-    "date": "2017",
-    "variable": "Goods Producing Industries",
+    "date": "2025 2Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 14.4
+    "value": 41928.6
   },
   {
-    "date": "2018",
-    "variable": "Goods Producing Industries",
+    "date": "2025 3Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": 18.7
+    "value": 44512.1
   },
   {
-    "date": "2019",
-    "variable": "Goods Producing Industries",
+    "date": "2025 4Q",
+    "variable": "Gross Fixed Capital Formation",
     "seriesNo": "1.3",
-    "value": -4.5
+    "value": 46869.8
   },
   {
-    "date": "2020",
-    "variable": "Goods Producing Industries",
-    "seriesNo": "1.3",
-    "value": -5.3
-  },
-  {
-    "date": "2021",
-    "variable": "Goods Producing Industries",
-    "seriesNo": "1.3",
-    "value": 37.9
-  },
-  {
-    "date": "2022",
-    "variable": "Goods Producing Industries",
-    "seriesNo": "1.3",
-    "value": 6.1
-  },
-  {
-    "date": "2023",
-    "variable": "Goods Producing Industries",
-    "seriesNo": "1.3",
-    "value": -16.8
-  },
-  {
-    "date": "2024",
-    "variable": "Goods Producing Industries",
-    "seriesNo": "1.3",
-    "value": 6.8
-  },
-  {
-    "date": "2025",
-    "variable": "Goods Producing Industries",
-    "seriesNo": "1.3",
-    "value": 6.4
-  },
-  {
-    "date": "1992",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 3.9
-  },
-  {
-    "date": "1993",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 18.2
-  },
-  {
-    "date": "1994",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 9.4
-  },
-  {
-    "date": "1995",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 8.5
-  },
-  {
-    "date": "1996",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 5.4
-  },
-  {
-    "date": "1997",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 5.7
-  },
-  {
-    "date": "1998",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 1.0
-  },
-  {
-    "date": "1999",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 6.5
-  },
-  {
-    "date": "2000",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 23.9
-  },
-  {
-    "date": "2001",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": -14.1
-  },
-  {
-    "date": "2002",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 11.7
-  },
-  {
-    "date": "2003",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 5.4
-  },
-  {
-    "date": "2004",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 20.3
-  },
-  {
-    "date": "2005",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 2.2
-  },
-  {
-    "date": "2006",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 0.7
-  },
-  {
-    "date": "2007",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": -5.8
-  },
-  {
-    "date": "2008",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": -19.6
-  },
-  {
-    "date": "2009",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 7.9
-  },
-  {
-    "date": "2010",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 19.3
-  },
-  {
-    "date": "2011",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 0.9
-  },
-  {
-    "date": "2012",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 1.4
-  },
-  {
-    "date": "2013",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": -5.1
-  },
-  {
-    "date": "2014",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 5.7
-  },
-  {
-    "date": "2015",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 9.2
-  },
-  {
-    "date": "2016",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 3.7
-  },
-  {
-    "date": "2017",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 18.0
-  },
-  {
-    "date": "2018",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 21.0
-  },
-  {
-    "date": "2019",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": -5.2
-  },
-  {
-    "date": "2020",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": -1.0
-  },
-  {
-    "date": "2021",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 35.7
-  },
-  {
-    "date": "2022",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 8.2
-  },
-  {
-    "date": "2023",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": -20.9
-  },
-  {
-    "date": "2024",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 9.2
-  },
-  {
-    "date": "2025",
-    "variable": "Manufacturing",
-    "seriesNo": "1.3.1",
-    "value": 9.7
-  },
-  {
-    "date": "1992",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 16.5
-  },
-  {
-    "date": "1993",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -4.4
-  },
-  {
-    "date": "1994",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 4.4
-  },
-  {
-    "date": "1995",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -5.1
-  },
-  {
-    "date": "1996",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -1.9
-  },
-  {
-    "date": "1997",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -3.7
-  },
-  {
-    "date": "1998",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -5.9
-  },
-  {
-    "date": "1999",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -9.2
-  },
-  {
-    "date": "2000",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -8.2
-  },
-  {
-    "date": "2001",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -2.7
-  },
-  {
-    "date": "2002",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -3.9
-  },
-  {
-    "date": "2003",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 0.6
-  },
-  {
-    "date": "2004",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 2.2
-  },
-  {
-    "date": "2005",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 2.0
-  },
-  {
-    "date": "2006",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 1.3
-  },
-  {
-    "date": "2007",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 11.3
-  },
-  {
-    "date": "2008",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 21.7
-  },
-  {
-    "date": "2009",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 11.1
-  },
-  {
-    "date": "2010",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -6.3
-  },
-  {
-    "date": "2011",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 0.2
-  },
-  {
-    "date": "2012",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 1.7
-  },
-  {
-    "date": "2013",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -5.0
-  },
-  {
-    "date": "2014",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 6.1
-  },
-  {
-    "date": "2015",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 4.9
-  },
-  {
-    "date": "2016",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -3.7
-  },
-  {
-    "date": "2017",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -2.6
-  },
-  {
-    "date": "2018",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 3.6
-  },
-  {
-    "date": "2019",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 0.3
-  },
-  {
-    "date": "2020",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": -36.2
-  },
-  {
-    "date": "2021",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 66.8
-  },
-  {
-    "date": "2022",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 8.4
-  },
-  {
-    "date": "2023",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 6.9
-  },
-  {
-    "date": "2024",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 6.4
-  },
-  {
-    "date": "2025",
-    "variable": "Construction",
-    "seriesNo": "1.3.2",
-    "value": 3.5
-  },
-  {
-    "date": "1992",
-    "variable": "Services Producing Industries",
+    "date": "2019 1Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 3.0
+    "value": 1512.2
   },
   {
-    "date": "1993",
-    "variable": "Services Producing Industries",
+    "date": "2019 2Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 10.4
+    "value": 2224.8
   },
   {
-    "date": "1994",
-    "variable": "Services Producing Industries",
+    "date": "2019 3Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 9.0
+    "value": 1555.2
   },
   {
-    "date": "1995",
-    "variable": "Services Producing Industries",
+    "date": "2019 4Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 5.5
+    "value": 2634.5
   },
   {
-    "date": "1996",
-    "variable": "Services Producing Industries",
+    "date": "2020 1Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 4.5
+    "value": 2323.4
   },
   {
-    "date": "1997",
-    "variable": "Services Producing Industries",
+    "date": "2020 2Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 4.6
+    "value": 2808.2
   },
   {
-    "date": "1998",
-    "variable": "Services Producing Industries",
+    "date": "2020 3Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": -6.9
+    "value": 2208.3
   },
   {
-    "date": "1999",
-    "variable": "Services Producing Industries",
+    "date": "2020 4Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 1.1
+    "value": 2018.2
   },
   {
-    "date": "2000",
-    "variable": "Services Producing Industries",
+    "date": "2021 1Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 3.8
+    "value": 2172.6
   },
   {
-    "date": "2001",
-    "variable": "Services Producing Industries",
+    "date": "2021 2Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": -3.4
+    "value": 2702.6
   },
   {
-    "date": "2002",
-    "variable": "Services Producing Industries",
+    "date": "2021 3Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 3.4
+    "value": 3448.4
   },
   {
-    "date": "2003",
-    "variable": "Services Producing Industries",
+    "date": "2021 4Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 2.4
+    "value": 3763.3
   },
   {
-    "date": "2004",
-    "variable": "Services Producing Industries",
+    "date": "2022 1Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 10.5
+    "value": 2854.0
   },
   {
-    "date": "2005",
-    "variable": "Services Producing Industries",
+    "date": "2022 2Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 6.6
+    "value": 3956.7
   },
   {
-    "date": "2006",
-    "variable": "Services Producing Industries",
+    "date": "2022 3Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 6.0
+    "value": 1663.7
   },
   {
-    "date": "2007",
-    "variable": "Services Producing Industries",
+    "date": "2022 4Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 9.2
+    "value": 2445.6
   },
   {
-    "date": "2008",
-    "variable": "Services Producing Industries",
+    "date": "2023 1Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": -5.2
+    "value": -579.2
   },
   {
-    "date": "2009",
-    "variable": "Services Producing Industries",
+    "date": "2023 2Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": -1.0
+    "value": -2087.8
   },
   {
-    "date": "2010",
-    "variable": "Services Producing Industries",
+    "date": "2023 3Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 10.7
+    "value": -503.8
   },
   {
-    "date": "2011",
-    "variable": "Services Producing Industries",
+    "date": "2023 4Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 4.0
+    "value": -1925.4
   },
   {
-    "date": "2012",
-    "variable": "Services Producing Industries",
+    "date": "2024 1Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 0.8
+    "value": -906.8
   },
   {
-    "date": "2013",
-    "variable": "Services Producing Industries",
+    "date": "2024 2Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 2.8
+    "value": 1426.4
   },
   {
-    "date": "2014",
-    "variable": "Services Producing Industries",
+    "date": "2024 3Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": -1.1
+    "value": 2024.8
   },
   {
-    "date": "2015",
-    "variable": "Services Producing Industries",
+    "date": "2024 4Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 2.5
+    "value": 3668.6
   },
   {
-    "date": "2016",
-    "variable": "Services Producing Industries",
+    "date": "2025 1Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 4.5
+    "value": 1578.1
   },
   {
-    "date": "2017",
-    "variable": "Services Producing Industries",
+    "date": "2025 2Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 5.6
+    "value": -1854.3
   },
   {
-    "date": "2018",
-    "variable": "Services Producing Industries",
+    "date": "2025 3Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 3.7
+    "value": 1194.5
   },
   {
-    "date": "2019",
-    "variable": "Services Producing Industries",
+    "date": "2025 4Q",
+    "variable": "Changes In Inventories",
     "seriesNo": "1.4",
-    "value": 0.7
+    "value": 2254.7
   },
   {
-    "date": "2020",
-    "variable": "Services Producing Industries",
-    "seriesNo": "1.4",
-    "value": -2.9
+    "date": "2019 1Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 34769.8
   },
   {
-    "date": "2021",
-    "variable": "Services Producing Industries",
-    "seriesNo": "1.4",
-    "value": 20.8
+    "date": "2019 2Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 38357.5
   },
   {
-    "date": "2022",
-    "variable": "Services Producing Industries",
-    "seriesNo": "1.4",
-    "value": 18.7
+    "date": "2019 3Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 39840.1
   },
   {
-    "date": "2023",
-    "variable": "Services Producing Industries",
-    "seriesNo": "1.4",
-    "value": -6.3
+    "date": "2019 4Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 37999.4
   },
   {
-    "date": "2024",
-    "variable": "Services Producing Industries",
-    "seriesNo": "1.4",
-    "value": 10.2
+    "date": "2020 1Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 32094.3
   },
   {
-    "date": "2025",
-    "variable": "Services Producing Industries",
-    "seriesNo": "1.4",
-    "value": -0.4
+    "date": "2020 2Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 38681.0
   },
   {
-    "date": "1992",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": -2.1
+    "date": "2020 3Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 40558.4
   },
   {
-    "date": "1993",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 17.7
+    "date": "2020 4Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 40246.9
   },
   {
-    "date": "1994",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 10.3
+    "date": "2021 1Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 41956.8
   },
   {
-    "date": "1995",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 8.9
+    "date": "2021 2Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 55133.2
   },
   {
-    "date": "1996",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 7.5
+    "date": "2021 3Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 55985.9
   },
   {
-    "date": "1997",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 1.1
+    "date": "2021 4Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 58997.0
   },
   {
-    "date": "1998",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": -6.9
+    "date": "2022 1Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 64563.1
   },
   {
-    "date": "1999",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 15.4
+    "date": "2022 2Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 78548.3
   },
   {
-    "date": "2000",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 8.6
+    "date": "2022 3Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 73243.2
   },
   {
-    "date": "2001",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": -6.2
+    "date": "2022 4Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 65639.1
   },
   {
-    "date": "2002",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 11.5
+    "date": "2023 1Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 54771.1
   },
   {
-    "date": "2003",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 3.2
+    "date": "2023 2Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 65990.7
   },
   {
-    "date": "2004",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 19.4
+    "date": "2023 3Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 64865.2
   },
   {
-    "date": "2005",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 21.0
+    "date": "2023 4Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 69430.3
   },
   {
-    "date": "2006",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 16.5
+    "date": "2024 1Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 60076.5
   },
   {
-    "date": "2007",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 10.7
+    "date": "2024 2Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 69227.9
   },
   {
-    "date": "2008",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": -12.4
+    "date": "2024 3Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 73704.5
   },
   {
-    "date": "2009",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 10.8
+    "date": "2024 4Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 72664.6
   },
   {
-    "date": "2010",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 14.7
+    "date": "2025 1Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 60868.4
   },
   {
-    "date": "2011",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 11.4
+    "date": "2025 2Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 72389.9
   },
   {
-    "date": "2012",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": -3.4
+    "date": "2025 3Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 70503.2
   },
   {
-    "date": "2013",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": -1.6
+    "date": "2025 4Q",
+    "variable": "Net Exports Of Goods & Services",
+    "seriesNo": "1.5",
+    "value": 75707.7
   },
   {
-    "date": "2014",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": -8.1
+    "date": "2019 1Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 218141.8
   },
   {
-    "date": "2015",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 0.2
+    "date": "2019 2Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 227456.1
   },
   {
-    "date": "2016",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 13.0
+    "date": "2019 3Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 228615.3
   },
   {
-    "date": "2017",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 10.8
+    "date": "2019 4Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 234728.8
   },
   {
-    "date": "2018",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 8.3
+    "date": "2020 1Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 229171.6
   },
   {
-    "date": "2019",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 2.3
+    "date": "2020 2Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 200581.0
   },
   {
-    "date": "2020",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 3.2
+    "date": "2020 3Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 218693.2
   },
   {
-    "date": "2021",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 31.5
+    "date": "2020 4Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 229556.0
   },
   {
-    "date": "2022",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 30.8
+    "date": "2021 1Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 248177.2
   },
   {
-    "date": "2023",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": -6.5
+    "date": "2021 2Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 262081.8
   },
   {
-    "date": "2024",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 7.4
+    "date": "2021 3Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 270936.4
   },
   {
-    "date": "2025",
-    "variable": "Wholesale & Retail Trade",
-    "seriesNo": "1.4.1",
-    "value": 3.6
+    "date": "2021 4Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 292399.9
   },
   {
-    "date": "2010",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 16.1
+    "date": "2022 1Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 309235.2
   },
   {
-    "date": "2011",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 11.7
+    "date": "2022 2Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 343495.6
   },
   {
-    "date": "2012",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": -3.1
+    "date": "2022 3Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 343356.0
   },
   {
-    "date": "2013",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": -1.6
+    "date": "2022 4Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 315607.3
   },
   {
-    "date": "2014",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": -8.5
+    "date": "2023 1Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 297665.8
   },
   {
-    "date": "2015",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": -0.9
+    "date": "2023 2Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 305778.8
   },
   {
-    "date": "2016",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 13.4
+    "date": "2023 3Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 312101.7
   },
   {
-    "date": "2017",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 11.5
+    "date": "2023 4Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 322921.7
   },
   {
-    "date": "2018",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 8.6
+    "date": "2024 1Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 319573.8
   },
   {
-    "date": "2019",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 2.8
+    "date": "2024 2Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 329764.4
   },
   {
-    "date": "2020",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 5.3
+    "date": "2024 3Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 337217.9
   },
   {
-    "date": "2021",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 33.9
+    "date": "2024 4Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 350430.1
   },
   {
-    "date": "2022",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 32.3
+    "date": "2025 1Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 333865.4
   },
   {
-    "date": "2023",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": -7.0
+    "date": "2025 2Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 344594.4
   },
   {
-    "date": "2024",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 7.5
+    "date": "2025 3Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 352268.9
   },
   {
-    "date": "2025",
-    "variable": "Wholesale Trade",
-    "seriesNo": "1.4.1.1",
-    "value": 3.5
+    "date": "2025 4Q",
+    "variable": "Exports Of Goods And Services",
+    "seriesNo": "1.5.1",
+    "value": 373460.7
   },
   {
-    "date": "2010",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 2.2
+    "date": "2019 1Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 142858.6
   },
   {
-    "date": "2011",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 8.6
+    "date": "2019 2Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 150628.9
   },
   {
-    "date": "2012",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": -1.2
+    "date": "2019 3Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 150578.4
   },
   {
-    "date": "2013",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": -1.7
+    "date": "2019 4Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 154386.8
   },
   {
-    "date": "2014",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": -0.1
+    "date": "2020 1Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 147323.2
   },
   {
-    "date": "2015",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 5.6
+    "date": "2020 2Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 130009.3
   },
   {
-    "date": "2016",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 6.4
+    "date": "2020 3Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 144854.9
   },
   {
-    "date": "2017",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 3.1
+    "date": "2020 4Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 151848.7
   },
   {
-    "date": "2018",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 2.0
+    "date": "2021 1Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 155455.8
   },
   {
-    "date": "2019",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": -4.6
+    "date": "2021 2Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 166811.2
   },
   {
-    "date": "2020",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": -16.9
+    "date": "2021 3Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 174592.8
   },
   {
-    "date": "2021",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 18.7
+    "date": "2021 4Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 190534.6
   },
   {
-    "date": "2022",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 10.8
+    "date": "2022 1Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 195481.8
   },
   {
-    "date": "2023",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 5.6
+    "date": "2022 2Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 226531.3
   },
   {
-    "date": "2024",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 3.8
+    "date": "2022 3Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 223976.4
   },
   {
-    "date": "2025",
-    "variable": "Retail Trade",
-    "seriesNo": "1.4.1.2",
-    "value": 3.9
+    "date": "2022 4Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 192801.1
   },
   {
-    "date": "1992",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -3.7
+    "date": "2023 1Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 184501.6
   },
   {
-    "date": "1993",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 7.0
+    "date": "2023 2Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 190728.8
   },
   {
-    "date": "1994",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 10.2
+    "date": "2023 3Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 192307.6
   },
   {
-    "date": "1995",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 5.1
+    "date": "2023 4Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 199620.7
   },
   {
-    "date": "1996",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -0.4
+    "date": "2024 1Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 189471.1
   },
   {
-    "date": "1997",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 1.8
+    "date": "2024 2Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 198411.0
   },
   {
-    "date": "1998",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -3.8
+    "date": "2024 3Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 202437.6
   },
   {
-    "date": "1999",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 7.8
+    "date": "2024 4Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 212933.3
   },
   {
-    "date": "2000",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 5.6
+    "date": "2025 1Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 196209.9
   },
   {
-    "date": "2001",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -11.5
+    "date": "2025 2Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 208690.9
   },
   {
-    "date": "2002",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -1.8
+    "date": "2025 3Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 214277.5
   },
   {
-    "date": "2003",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 12.5
+    "date": "2025 4Q",
+    "variable": "Exports Of Goods",
+    "seriesNo": "1.5.1.1",
+    "value": 232813.0
   },
   {
-    "date": "2004",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 19.5
+    "date": "2019 1Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 75283.2
   },
   {
-    "date": "2005",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 4.3
+    "date": "2019 2Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 76827.2
   },
   {
-    "date": "2006",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -2.6
+    "date": "2019 3Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 78036.9
   },
   {
-    "date": "2007",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 15.4
+    "date": "2019 4Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 80342.0
   },
   {
-    "date": "2008",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -4.7
+    "date": "2020 1Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 81848.4
   },
   {
-    "date": "2009",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -15.3
+    "date": "2020 2Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 70571.7
   },
   {
-    "date": "2010",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 15.8
+    "date": "2020 3Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 73838.3
   },
   {
-    "date": "2011",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -15.2
+    "date": "2020 4Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 77707.3
   },
   {
-    "date": "2012",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 3.1
+    "date": "2021 1Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 92721.4
   },
   {
-    "date": "2013",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 0.4
+    "date": "2021 2Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 95270.6
   },
   {
-    "date": "2014",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 5.9
+    "date": "2021 3Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 96343.6
   },
   {
-    "date": "2015",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 8.4
+    "date": "2021 4Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 101865.3
   },
   {
-    "date": "2016",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -7.7
+    "date": "2022 1Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 113753.4
   },
   {
-    "date": "2017",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 12.8
+    "date": "2022 2Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 116964.3
   },
   {
-    "date": "2018",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -6.3
+    "date": "2022 3Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 119379.6
   },
   {
-    "date": "2019",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 0.0
+    "date": "2022 4Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 122806.2
   },
   {
-    "date": "2020",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -4.3
+    "date": "2023 1Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 113164.2
   },
   {
-    "date": "2021",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 82.9
+    "date": "2023 2Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 115050.0
   },
   {
-    "date": "2022",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 52.6
+    "date": "2023 3Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 119794.1
   },
   {
-    "date": "2023",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -37.6
+    "date": "2023 4Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 123301.0
   },
   {
-    "date": "2024",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": 43.8
+    "date": "2024 1Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 130102.7
   },
   {
-    "date": "2025",
-    "variable": "Transportation & Storage",
-    "seriesNo": "1.4.2",
-    "value": -23.5
+    "date": "2024 2Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 131353.4
   },
   {
-    "date": "1992",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 4.5
+    "date": "2024 3Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 134780.3
   },
   {
-    "date": "1993",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 7.6
+    "date": "2024 4Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 137496.8
   },
   {
-    "date": "1994",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 2.0
+    "date": "2025 1Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 137655.5
   },
   {
-    "date": "1995",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 7.0
+    "date": "2025 2Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 135903.5
   },
   {
-    "date": "1996",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 3.4
+    "date": "2025 3Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 137991.4
   },
   {
-    "date": "1997",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 3.8
+    "date": "2025 4Q",
+    "variable": "Exports Of Services",
+    "seriesNo": "1.5.1.2",
+    "value": 140647.7
   },
   {
-    "date": "1998",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": -7.8
+    "date": "2019 1Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 183372.0
   },
   {
-    "date": "1999",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 3.0
+    "date": "2019 2Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 189098.6
   },
   {
-    "date": "2000",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 3.8
+    "date": "2019 3Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 188775.2
   },
   {
-    "date": "2001",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": -0.9
+    "date": "2019 4Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 196729.4
   },
   {
-    "date": "2002",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": -3.3
+    "date": "2020 1Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 197077.3
   },
   {
-    "date": "2003",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": -7.1
+    "date": "2020 2Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 161900.0
   },
   {
-    "date": "2004",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 7.0
+    "date": "2020 3Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 178134.8
   },
   {
-    "date": "2005",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 0.0
+    "date": "2020 4Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 189309.1
   },
   {
-    "date": "2006",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 1.4
+    "date": "2021 1Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 206220.4
   },
   {
-    "date": "2007",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 2.1
+    "date": "2021 2Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 206948.6
   },
   {
-    "date": "2008",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": -0.6
+    "date": "2021 3Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 214950.5
   },
   {
-    "date": "2009",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": -10.4
+    "date": "2021 4Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 233402.9
   },
   {
-    "date": "2010",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 15.5
+    "date": "2022 1Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 244672.1
   },
   {
-    "date": "2011",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 12.2
+    "date": "2022 2Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 264947.3
   },
   {
-    "date": "2012",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 5.1
+    "date": "2022 3Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 270112.8
   },
   {
-    "date": "2013",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 0.4
+    "date": "2022 4Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 249968.2
   },
   {
-    "date": "2014",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 1.1
+    "date": "2023 1Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 242894.7
   },
   {
-    "date": "2015",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": -2.0
+    "date": "2023 2Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 239788.1
   },
   {
-    "date": "2016",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 2.3
+    "date": "2023 3Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 247236.5
   },
   {
-    "date": "2017",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 0.9
+    "date": "2023 4Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 253491.4
   },
   {
-    "date": "2018",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 3.3
+    "date": "2024 1Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 259497.3
   },
   {
-    "date": "2019",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": -0.2
+    "date": "2024 2Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 260536.5
   },
   {
-    "date": "2020",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": -23.7
+    "date": "2024 3Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 263513.4
   },
   {
-    "date": "2021",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 5.6
+    "date": "2024 4Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 277765.5
   },
   {
-    "date": "2022",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 31.4
+    "date": "2025 1Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 272997.0
   },
   {
-    "date": "2023",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 14.3
+    "date": "2025 2Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 272204.5
   },
   {
-    "date": "2024",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 3.5
+    "date": "2025 3Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 281765.7
   },
   {
-    "date": "2025",
-    "variable": "Accommodation & Food Services",
-    "seriesNo": "1.4.3",
-    "value": 1.3
+    "date": "2025 4Q",
+    "variable": "Imports Of Goods And Services",
+    "seriesNo": "1.5.2",
+    "value": 297753.0
   },
   {
-    "date": "2010",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 16.7
+    "date": "2019 1Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 113701.9
   },
   {
-    "date": "2011",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 19.3
+    "date": "2019 2Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 117106.5
   },
   {
-    "date": "2012",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 1.6
+    "date": "2019 3Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 117864.8
   },
   {
-    "date": "2013",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": -1.0
+    "date": "2019 4Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 122757.0
   },
   {
-    "date": "2014",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 1.8
+    "date": "2020 1Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 116897.7
   },
   {
-    "date": "2015",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 0.3
+    "date": "2020 2Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 94679.1
   },
   {
-    "date": "2016",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 1.0
+    "date": "2020 3Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 107812.2
   },
   {
-    "date": "2017",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 5.4
+    "date": "2020 4Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 113933.5
   },
   {
-    "date": "2018",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 6.7
+    "date": "2021 1Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 125479.4
   },
   {
-    "date": "2019",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 1.3
+    "date": "2021 2Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 124495.8
   },
   {
-    "date": "2020",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": -35.6
+    "date": "2021 3Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 131172.2
   },
   {
-    "date": "2021",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 9.3
+    "date": "2021 4Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 145197.0
   },
   {
-    "date": "2022",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 60.0
+    "date": "2022 1Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 145714.3
   },
   {
-    "date": "2023",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 21.7
+    "date": "2022 2Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 162083.9
   },
   {
-    "date": "2024",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 2.7
+    "date": "2022 3Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 164064.5
   },
   {
-    "date": "2025",
-    "variable": "Accommodation",
-    "seriesNo": "1.4.3.1",
-    "value": 1.3
+    "date": "2022 4Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 144338.5
   },
   {
-    "date": "2010",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 9.2
+    "date": "2023 1Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 137955.7
   },
   {
-    "date": "2011",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 5.8
+    "date": "2023 2Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 132347.5
   },
   {
-    "date": "2012",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 8.2
+    "date": "2023 3Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 139620.4
   },
   {
-    "date": "2013",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 3.8
+    "date": "2023 4Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 140896.5
   },
   {
-    "date": "2014",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 1.3
+    "date": "2024 1Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 141258.2
   },
   {
-    "date": "2015",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": -1.4
+    "date": "2024 2Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 140242.2
   },
   {
-    "date": "2016",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 2.8
+    "date": "2024 3Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 141332.9
   },
   {
-    "date": "2017",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": -0.3
+    "date": "2024 4Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 150839.9
   },
   {
-    "date": "2018",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 1.3
+    "date": "2025 1Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 147281.1
   },
   {
-    "date": "2019",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 0.1
+    "date": "2025 2Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 148575.9
   },
   {
-    "date": "2020",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": -11.3
+    "date": "2025 3Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 157551.1
   },
   {
-    "date": "2021",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 9.0
+    "date": "2025 4Q",
+    "variable": "Imports Of Goods",
+    "seriesNo": "1.5.2.1",
+    "value": 168217.0
   },
   {
-    "date": "2022",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 18.7
+    "date": "2019 1Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 69670.1
   },
   {
-    "date": "2023",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 5.9
+    "date": "2019 2Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 71992.1
   },
   {
-    "date": "2024",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 1.6
+    "date": "2019 3Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 70910.4
   },
   {
-    "date": "2025",
-    "variable": "Food & Beverage Services",
-    "seriesNo": "1.4.3.2",
-    "value": 0.3
+    "date": "2019 4Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 73972.4
   },
   {
-    "date": "1992",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 9.0
+    "date": "2020 1Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 80179.6
   },
   {
-    "date": "1993",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 12.6
+    "date": "2020 2Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 67220.9
   },
   {
-    "date": "1994",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 6.3
+    "date": "2020 3Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 70322.6
   },
   {
-    "date": "1995",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 8.6
+    "date": "2020 4Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 75375.6
   },
   {
-    "date": "1996",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 0.8
+    "date": "2021 1Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 80741.0
   },
   {
-    "date": "1997",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 5.0
+    "date": "2021 2Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 82452.8
   },
   {
-    "date": "1998",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": -3.2
+    "date": "2021 3Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 83778.3
   },
   {
-    "date": "1999",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 8.9
+    "date": "2021 4Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 88205.9
   },
   {
-    "date": "2000",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 0.8
+    "date": "2022 1Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 98957.8
   },
   {
-    "date": "2001",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 8.2
+    "date": "2022 2Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 102863.4
   },
   {
-    "date": "2002",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 0.2
+    "date": "2022 3Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 106048.3
   },
   {
-    "date": "2003",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 9.5
+    "date": "2022 4Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 105629.7
   },
   {
-    "date": "2004",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 5.7
+    "date": "2023 1Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 104939.0
   },
   {
-    "date": "2005",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 4.0
+    "date": "2023 2Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 107440.6
   },
   {
-    "date": "2006",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": -2.7
+    "date": "2023 3Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 107616.1
   },
   {
-    "date": "2007",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": -1.2
+    "date": "2023 4Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 112594.9
   },
   {
-    "date": "2008",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": -2.4
+    "date": "2024 1Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 118239.1
   },
   {
-    "date": "2009",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": -0.4
+    "date": "2024 2Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 120294.3
   },
   {
-    "date": "2010",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 1.4
+    "date": "2024 3Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 122180.5
   },
   {
-    "date": "2011",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 1.0
+    "date": "2024 4Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 126925.6
   },
   {
-    "date": "2012",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 3.7
+    "date": "2025 1Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 125715.9
   },
   {
-    "date": "2013",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 3.5
+    "date": "2025 2Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 123628.6
   },
   {
-    "date": "2014",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 2.3
+    "date": "2025 3Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 124214.6
   },
   {
-    "date": "2015",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": -4.3
+    "date": "2025 4Q",
+    "variable": "Imports Of Services",
+    "seriesNo": "1.5.2.2",
+    "value": 129536.0
   },
   {
-    "date": "2016",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 8.7
+    "date": "2019 1Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": -542.4
   },
   {
-    "date": "2017",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 1.8
+    "date": "2019 2Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": -41.6
   },
   {
-    "date": "2018",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 1.5
+    "date": "2019 3Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 946.5
   },
   {
-    "date": "2019",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 8.1
+    "date": "2019 4Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 623.0
   },
   {
-    "date": "2020",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 12.3
+    "date": "2020 1Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 1223.3
   },
   {
-    "date": "2021",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 9.2
+    "date": "2020 2Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 1710.9
   },
   {
-    "date": "2022",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": -3.9
+    "date": "2020 3Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 1929.0
   },
   {
-    "date": "2023",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 10.4
+    "date": "2020 4Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 2175.5
   },
   {
-    "date": "2024",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 20.8
+    "date": "2021 1Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 935.3
   },
   {
-    "date": "2025",
-    "variable": "Information & Communications",
-    "seriesNo": "1.4.4",
-    "value": 12.5
+    "date": "2021 2Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 1183.0
   },
   {
-    "date": "1992",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 7.9
+    "date": "2021 3Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 1291.8
   },
   {
-    "date": "1993",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 7.4
+    "date": "2021 4Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 1235.7
   },
   {
-    "date": "1994",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -2.9
+    "date": "2022 1Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 1773.9
   },
   {
-    "date": "1995",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -5.8
+    "date": "2022 2Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 3636.4
   },
   {
-    "date": "1996",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 0.4
+    "date": "2022 3Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 1590.7
   },
   {
-    "date": "1997",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 13.3
+    "date": "2022 4Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 927.9
   },
   {
-    "date": "1998",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -8.0
+    "date": "2023 1Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 987.0
   },
   {
-    "date": "1999",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -10.7
+    "date": "2023 2Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 476.7
   },
   {
-    "date": "2000",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -8.4
+    "date": "2023 3Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 611.5
   },
   {
-    "date": "2001",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -1.9
+    "date": "2023 4Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 364.3
   },
   {
-    "date": "2002",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 4.5
+    "date": "2024 1Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 1835.9
   },
   {
-    "date": "2003",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -0.1
+    "date": "2024 2Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 2587.1
   },
   {
-    "date": "2004",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 4.8
+    "date": "2024 3Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 3356.4
   },
   {
-    "date": "2005",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -2.4
+    "date": "2024 4Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 2946.2
   },
   {
-    "date": "2006",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 8.6
+    "date": "2025 1Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 2739.9
   },
   {
-    "date": "2007",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 7.3
+    "date": "2025 2Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 2777.2
   },
   {
-    "date": "2008",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -10.8
+    "date": "2025 3Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": 1804.0
   },
   {
-    "date": "2009",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 1.4
-  },
-  {
-    "date": "2010",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 5.1
-  },
-  {
-    "date": "2011",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -2.0
-  },
-  {
-    "date": "2012",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 2.5
-  },
-  {
-    "date": "2013",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 9.9
-  },
-  {
-    "date": "2014",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 2.7
-  },
-  {
-    "date": "2015",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 5.2
-  },
-  {
-    "date": "2016",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 1.9
-  },
-  {
-    "date": "2017",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 6.3
-  },
-  {
-    "date": "2018",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 8.1
-  },
-  {
-    "date": "2019",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 4.1
-  },
-  {
-    "date": "2020",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": -0.7
-  },
-  {
-    "date": "2021",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 6.1
-  },
-  {
-    "date": "2022",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 5.0
-  },
-  {
-    "date": "2023",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 7.8
-  },
-  {
-    "date": "2024",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 4.4
-  },
-  {
-    "date": "2025",
-    "variable": "Finance & Insurance",
-    "seriesNo": "1.4.5",
-    "value": 2.7
-  },
-  {
-    "date": "1992",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 9.3
-  },
-  {
-    "date": "1993",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 7.4
-  },
-  {
-    "date": "1994",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 17.9
-  },
-  {
-    "date": "1995",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 8.6
-  },
-  {
-    "date": "1996",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 6.4
-  },
-  {
-    "date": "1997",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 1.7
-  },
-  {
-    "date": "1998",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": -11.3
-  },
-  {
-    "date": "1999",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": -4.7
-  },
-  {
-    "date": "2000",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 0.6
-  },
-  {
-    "date": "2001",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": -9.0
-  },
-  {
-    "date": "2002",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 3.9
-  },
-  {
-    "date": "2003",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": -0.4
-  },
-  {
-    "date": "2004",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 4.7
-  },
-  {
-    "date": "2005",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 3.8
-  },
-  {
-    "date": "2006",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 1.0
-  },
-  {
-    "date": "2007",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 11.3
-  },
-  {
-    "date": "2008",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 3.2
-  },
-  {
-    "date": "2009",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": -3.8
-  },
-  {
-    "date": "2010",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 11.2
-  },
-  {
-    "date": "2011",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 7.2
-  },
-  {
-    "date": "2012",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 2.3
-  },
-  {
-    "date": "2013",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 3.8
-  },
-  {
-    "date": "2014",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": -1.8
-  },
-  {
-    "date": "2015",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 4.6
-  },
-  {
-    "date": "2016",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 5.6
-  },
-  {
-    "date": "2017",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 0.0
-  },
-  {
-    "date": "2018",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 1.5
-  },
-  {
-    "date": "2019",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": -5.6
-  },
-  {
-    "date": "2020",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": -12.4
-  },
-  {
-    "date": "2021",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 9.1
-  },
-  {
-    "date": "2022",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 9.3
-  },
-  {
-    "date": "2023",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": -1.1
-  },
-  {
-    "date": "2024",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 4.3
-  },
-  {
-    "date": "2025",
-    "variable": "Real Estate, Professional Services And Administrative & Support Services",
-    "seriesNo": "1.4.6",
-    "value": 5.3
-  },
-  {
-    "date": "2010",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 23.6
-  },
-  {
-    "date": "2011",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 11.0
-  },
-  {
-    "date": "2012",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 0.0
-  },
-  {
-    "date": "2013",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 12.9
-  },
-  {
-    "date": "2014",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": -5.2
-  },
-  {
-    "date": "2015",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 1.2
-  },
-  {
-    "date": "2016",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 1.1
-  },
-  {
-    "date": "2017",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": -9.9
-  },
-  {
-    "date": "2018",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 3.9
-  },
-  {
-    "date": "2019",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 2.1
-  },
-  {
-    "date": "2020",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": -15.1
-  },
-  {
-    "date": "2021",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 27.8
-  },
-  {
-    "date": "2022",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 8.6
-  },
-  {
-    "date": "2023",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 2.8
-  },
-  {
-    "date": "2024",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 2.7
-  },
-  {
-    "date": "2025",
-    "variable": "Real Estate",
-    "seriesNo": "1.4.6.1",
-    "value": 9.8
-  },
-  {
-    "date": "2010",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 3.9
-  },
-  {
-    "date": "2011",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 1.2
-  },
-  {
-    "date": "2012",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 1.6
-  },
-  {
-    "date": "2013",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": -3.1
-  },
-  {
-    "date": "2014",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": -3.9
-  },
-  {
-    "date": "2015",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 6.2
-  },
-  {
-    "date": "2016",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 4.1
-  },
-  {
-    "date": "2017",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 5.0
-  },
-  {
-    "date": "2018",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 0.2
-  },
-  {
-    "date": "2019",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 4.9
-  },
-  {
-    "date": "2020",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": -7.1
-  },
-  {
-    "date": "2021",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 8.3
-  },
-  {
-    "date": "2022",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 7.8
-  },
-  {
-    "date": "2023",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 1.2
-  },
-  {
-    "date": "2024",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 5.4
-  },
-  {
-    "date": "2025",
-    "variable": "Professional Services",
-    "seriesNo": "1.4.6.2",
-    "value": 5.8
-  },
-  {
-    "date": "2010",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 12.9
-  },
-  {
-    "date": "2011",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 14.8
-  },
-  {
-    "date": "2012",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 5.6
-  },
-  {
-    "date": "2013",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 6.7
-  },
-  {
-    "date": "2014",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 7.4
-  },
-  {
-    "date": "2015",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 10.6
-  },
-  {
-    "date": "2016",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 16.3
-  },
-  {
-    "date": "2017",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 2.5
-  },
-  {
-    "date": "2018",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 2.2
-  },
-  {
-    "date": "2019",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": -20.8
-  },
-  {
-    "date": "2020",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": -16.9
-  },
-  {
-    "date": "2021",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": -3.1
-  },
-  {
-    "date": "2022",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 10.2
-  },
-  {
-    "date": "2023",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": -10.5
-  },
-  {
-    "date": "2024",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 2.7
-  },
-  {
-    "date": "2025",
-    "variable": "Administrative & Support Services",
-    "seriesNo": "1.4.6.3",
-    "value": 2.3
-  },
-  {
-    "date": "1992",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 2.5
-  },
-  {
-    "date": "1993",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 6.3
-  },
-  {
-    "date": "1994",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 9.5
-  },
-  {
-    "date": "1995",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 2.6
-  },
-  {
-    "date": "1996",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 5.7
-  },
-  {
-    "date": "1997",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 0.8
-  },
-  {
-    "date": "1998",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": -4.8
-  },
-  {
-    "date": "1999",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": -3.0
-  },
-  {
-    "date": "2000",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 8.9
-  },
-  {
-    "date": "2001",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 4.8
-  },
-  {
-    "date": "2002",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 4.1
-  },
-  {
-    "date": "2003",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": -1.1
-  },
-  {
-    "date": "2004",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 4.7
-  },
-  {
-    "date": "2005",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": -0.2
-  },
-  {
-    "date": "2006",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 2.7
-  },
-  {
-    "date": "2007",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 1.5
-  },
-  {
-    "date": "2008",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 0.4
-  },
-  {
-    "date": "2009",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": -1.5
-  },
-  {
-    "date": "2010",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 13.1
-  },
-  {
-    "date": "2011",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 6.6
-  },
-  {
-    "date": "2012",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 1.2
-  },
-  {
-    "date": "2013",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 3.9
-  },
-  {
-    "date": "2014",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 1.7
-  },
-  {
-    "date": "2015",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 1.3
-  },
-  {
-    "date": "2016",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 3.1
-  },
-  {
-    "date": "2017",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 3.5
-  },
-  {
-    "date": "2018",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 2.2
-  },
-  {
-    "date": "2019",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 0.8
-  },
-  {
-    "date": "2020",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": -8.8
-  },
-  {
-    "date": "2021",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 7.8
-  },
-  {
-    "date": "2022",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 5.1
-  },
-  {
-    "date": "2023",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 4.6
-  },
-  {
-    "date": "2024",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 3.3
-  },
-  {
-    "date": "2025",
-    "variable": "Other Services Industries",
-    "seriesNo": "1.4.7",
-    "value": 2.7
-  },
-  {
-    "date": "2010",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 11.4
-  },
-  {
-    "date": "2011",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 8.0
-  },
-  {
-    "date": "2012",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 0.0
-  },
-  {
-    "date": "2013",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 10.6
-  },
-  {
-    "date": "2014",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 2.9
-  },
-  {
-    "date": "2015",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 7.8
-  },
-  {
-    "date": "2016",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 5.5
-  },
-  {
-    "date": "2017",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 4.4
-  },
-  {
-    "date": "2018",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 4.2
-  },
-  {
-    "date": "2019",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 3.3
-  },
-  {
-    "date": "2020",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": -4.1
-  },
-  {
-    "date": "2021",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 6.8
-  },
-  {
-    "date": "2022",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 6.9
-  },
-  {
-    "date": "2023",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 3.7
-  },
-  {
-    "date": "2024",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 2.8
-  },
-  {
-    "date": "2025",
-    "variable": "Public Administration & Defence",
-    "seriesNo": "1.4.7.1",
-    "value": 4.3
-  },
-  {
-    "date": "2010",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 3.5
-  },
-  {
-    "date": "2011",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": -0.2
-  },
-  {
-    "date": "2012",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": -1.4
-  },
-  {
-    "date": "2013",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 3.8
-  },
-  {
-    "date": "2014",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": -0.8
-  },
-  {
-    "date": "2015",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 2.0
-  },
-  {
-    "date": "2016",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 1.1
-  },
-  {
-    "date": "2017",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 1.9
-  },
-  {
-    "date": "2018",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 3.1
-  },
-  {
-    "date": "2019",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": -5.2
-  },
-  {
-    "date": "2020",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": -3.0
-  },
-  {
-    "date": "2021",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 3.9
-  },
-  {
-    "date": "2022",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 1.2
-  },
-  {
-    "date": "2023",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 4.3
-  },
-  {
-    "date": "2024",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 6.4
-  },
-  {
-    "date": "2025",
-    "variable": "Education",
-    "seriesNo": "1.4.7.2",
-    "value": 2.0
-  },
-  {
-    "date": "2010",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 6.2
-  },
-  {
-    "date": "2011",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": -0.6
-  },
-  {
-    "date": "2012",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 3.0
-  },
-  {
-    "date": "2013",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": -0.4
-  },
-  {
-    "date": "2014",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 4.4
-  },
-  {
-    "date": "2015",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": -1.2
-  },
-  {
-    "date": "2016",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 7.0
-  },
-  {
-    "date": "2017",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 1.8
-  },
-  {
-    "date": "2018",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 1.2
-  },
-  {
-    "date": "2019",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 3.2
-  },
-  {
-    "date": "2020",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": -6.9
-  },
-  {
-    "date": "2021",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 4.5
-  },
-  {
-    "date": "2022",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 4.9
-  },
-  {
-    "date": "2023",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 8.7
-  },
-  {
-    "date": "2024",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 2.1
-  },
-  {
-    "date": "2025",
-    "variable": "Health & Social Services",
-    "seriesNo": "1.4.7.3",
-    "value": 3.1
-  },
-  {
-    "date": "2010",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": 67.6
-  },
-  {
-    "date": "2011",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": 16.2
-  },
-  {
-    "date": "2012",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": -2.7
-  },
-  {
-    "date": "2013",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": -1.6
-  },
-  {
-    "date": "2014",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": 2.0
-  },
-  {
-    "date": "2015",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": -9.1
-  },
-  {
-    "date": "2016",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": -1.6
-  },
-  {
-    "date": "2017",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": 14.5
-  },
-  {
-    "date": "2018",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": 0.9
-  },
-  {
-    "date": "2019",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": -0.3
-  },
-  {
-    "date": "2020",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": -38.9
-  },
-  {
-    "date": "2021",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": 29.6
-  },
-  {
-    "date": "2022",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": 27.8
-  },
-  {
-    "date": "2023",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": 7.2
-  },
-  {
-    "date": "2024",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": 4.7
-  },
-  {
-    "date": "2025",
-    "variable": "Arts, Entertainment & Recreation",
-    "seriesNo": "1.4.7.4",
-    "value": 8.6
-  },
-  {
-    "date": "2010",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 1.5
-  },
-  {
-    "date": "2011",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 6.0
-  },
-  {
-    "date": "2012",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 4.0
-  },
-  {
-    "date": "2013",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 1.8
-  },
-  {
-    "date": "2014",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 0.0
-  },
-  {
-    "date": "2015",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 3.0
-  },
-  {
-    "date": "2016",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 2.3
-  },
-  {
-    "date": "2017",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 2.1
-  },
-  {
-    "date": "2018",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 2.0
-  },
-  {
-    "date": "2019",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 5.6
-  },
-  {
-    "date": "2020",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": -13.0
-  },
-  {
-    "date": "2021",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 5.7
-  },
-  {
-    "date": "2022",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 6.0
-  },
-  {
-    "date": "2023",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 4.7
-  },
-  {
-    "date": "2024",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 3.7
-  },
-  {
-    "date": "2025",
-    "variable": "Other Services - Others",
-    "seriesNo": "1.4.7.5",
-    "value": 0.2
+    "date": "2025 4Q",
+    "variable": "Statistical Discrepancy",
+    "seriesNo": "1.6",
+    "value": -1194.8
   }
 ]

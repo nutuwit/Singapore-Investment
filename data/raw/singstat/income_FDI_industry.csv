@@ -1,0 +1,233 @@
+date,variable,seriesNo,value
+2019,Total,1,188229.4
+2020,Total,1,191026.9
+2021,Total,1,289352.9
+2022,Total,1,337101.8
+2023,Total,1,335468.4
+2024,Total,1,378832.5
+2019,Manufacturing,1.1,56531.7
+2020,Manufacturing,1.1,41654.2
+2021,Manufacturing,1.1,66966.8
+2022,Manufacturing,1.1,75706.8
+2023,Manufacturing,1.1,49269.8
+2024,Manufacturing,1.1,54277.0
+2019,"Food, Beverages & Tobacco",1.1.1,5683.4
+2020,"Food, Beverages & Tobacco",1.1.1,3340.5
+2021,"Food, Beverages & Tobacco",1.1.1,3041.6
+2022,"Food, Beverages & Tobacco",1.1.1,4662.6
+2023,"Food, Beverages & Tobacco",1.1.1,2241.2
+2024,"Food, Beverages & Tobacco",1.1.1,3807.3
+2019,"Paper, Paper Products & Printing",1.1.2,39.6
+2020,"Paper, Paper Products & Printing",1.1.2,109.1
+2021,"Paper, Paper Products & Printing",1.1.2,5.6
+2022,"Paper, Paper Products & Printing",1.1.2,-23.0
+2023,"Paper, Paper Products & Printing",1.1.2,85.6
+2024,"Paper, Paper Products & Printing",1.1.2,-36.3
+2021,Refined Petroleum Products,1.1.3,11484.7
+2022,Refined Petroleum Products,1.1.3,5443.4
+2023,Refined Petroleum Products,1.1.3,7515.0
+2024,Refined Petroleum Products,1.1.3,9629.0
+2019,Chemical & Chemical Products,1.1.4,4522.7
+2020,Chemical & Chemical Products,1.1.4,4801.6
+2021,Chemical & Chemical Products,1.1.4,6733.2
+2022,Chemical & Chemical Products,1.1.4,5089.7
+2023,Chemical & Chemical Products,1.1.4,4326.7
+2024,Chemical & Chemical Products,1.1.4,1154.6
+2019,Pharmaceutical & Biological Products,1.1.5,5458.6
+2020,Pharmaceutical & Biological Products,1.1.5,6435.0
+2021,Pharmaceutical & Biological Products,1.1.5,5926.2
+2022,Pharmaceutical & Biological Products,1.1.5,5897.5
+2023,Pharmaceutical & Biological Products,1.1.5,6949.7
+2024,Pharmaceutical & Biological Products,1.1.5,105.7
+2019,Rubber & Plastic Products,1.1.6,160.3
+2020,Rubber & Plastic Products,1.1.6,158.0
+2021,Rubber & Plastic Products,1.1.6,165.8
+2022,Rubber & Plastic Products,1.1.6,324.0
+2023,Rubber & Plastic Products,1.1.6,250.0
+2024,Rubber & Plastic Products,1.1.6,427.9
+2019,Basic Metals,1.1.7,-9.2
+2020,Basic Metals,1.1.7,1.9
+2021,Basic Metals,1.1.7,6.6
+2022,Basic Metals,1.1.7,5.6
+2023,Basic Metals,1.1.7,0.3
+2024,Basic Metals,1.1.7,6.7
+2019,Fabricated Metal Products,1.1.8,301.4
+2020,Fabricated Metal Products,1.1.8,272.7
+2021,Fabricated Metal Products,1.1.8,396.0
+2022,Fabricated Metal Products,1.1.8,413.7
+2023,Fabricated Metal Products,1.1.8,165.0
+2024,Fabricated Metal Products,1.1.8,230.7
+2019,Machinery & Equipment,1.1.9,1259.9
+2020,Machinery & Equipment,1.1.9,1195.5
+2021,Machinery & Equipment,1.1.9,1359.8
+2022,Machinery & Equipment,1.1.9,3582.4
+2023,Machinery & Equipment,1.1.9,369.3
+2024,Machinery & Equipment,1.1.9,2266.5
+2019,Electrical Machinery & Apparatus,1.1.10,211.3
+2020,Electrical Machinery & Apparatus,1.1.10,252.6
+2021,Electrical Machinery & Apparatus,1.1.10,282.2
+2022,Electrical Machinery & Apparatus,1.1.10,309.6
+2023,Electrical Machinery & Apparatus,1.1.10,309.8
+2024,Electrical Machinery & Apparatus,1.1.10,325.9
+2019,"Computer, Electronic And Optical Products",1.1.11,27989.9
+2020,"Computer, Electronic And Optical Products",1.1.11,19728.8
+2021,"Computer, Electronic And Optical Products",1.1.11,33729.6
+2022,"Computer, Electronic And Optical Products",1.1.11,43942.4
+2023,"Computer, Electronic And Optical Products",1.1.11,20893.8
+2024,"Computer, Electronic And Optical Products",1.1.11,30783.0
+2019,Semiconductor Devices,1.1.11.1,21542.0
+2020,Semiconductor Devices,1.1.11.1,13458.8
+2021,Semiconductor Devices,1.1.11.1,27204.8
+2022,Semiconductor Devices,1.1.11.1,37251.9
+2023,Semiconductor Devices,1.1.11.1,14706.1
+2024,Semiconductor Devices,1.1.11.1,20495.3
+2019,Computers & Peripheral Equipment,1.1.11.2,3309.2
+2020,Computers & Peripheral Equipment,1.1.11.2,2999.1
+2021,Computers & Peripheral Equipment,1.1.11.2,3342.6
+2022,Computers & Peripheral Equipment,1.1.11.2,3668.4
+2023,Computers & Peripheral Equipment,1.1.11.2,2139.2
+2024,Computers & Peripheral Equipment,1.1.11.2,6622.5
+2019,"Instrumentation, Photographic & Optical Goods",1.1.11.3,1217.5
+2020,"Instrumentation, Photographic & Optical Goods",1.1.11.3,1480.6
+2021,"Instrumentation, Photographic & Optical Goods",1.1.11.3,914.4
+2022,"Instrumentation, Photographic & Optical Goods",1.1.11.3,815.0
+2023,"Instrumentation, Photographic & Optical Goods",1.1.11.3,306.4
+2024,"Instrumentation, Photographic & Optical Goods",1.1.11.3,92.7
+2019,Other Electronics Nec,1.1.11.4,1921.2
+2020,Other Electronics Nec,1.1.11.4,1790.4
+2021,Other Electronics Nec,1.1.11.4,2267.9
+2022,Other Electronics Nec,1.1.11.4,2207.1
+2023,Other Electronics Nec,1.1.11.4,3742.0
+2024,Other Electronics Nec,1.1.11.4,3572.5
+2019,Transport Equipment,1.1.12,2852.5
+2020,Transport Equipment,1.1.12,432.5
+2021,Transport Equipment,1.1.12,650.5
+2022,Transport Equipment,1.1.12,3149.5
+2023,Transport Equipment,1.1.12,3720.0
+2024,Transport Equipment,1.1.12,4365.3
+2019,Construction,1.2,253.3
+2020,Construction,1.2,-614.0
+2021,Construction,1.2,-327.9
+2022,Construction,1.2,-345.3
+2023,Construction,1.2,69.9
+2024,Construction,1.2,184.1
+2019,Wholesale & Retail Trade,1.3,47681.9
+2020,Wholesale & Retail Trade,1.3,46531.7
+2021,Wholesale & Retail Trade,1.3,71241.3
+2022,Wholesale & Retail Trade,1.3,94020.8
+2023,Wholesale & Retail Trade,1.3,105621.2
+2024,Wholesale & Retail Trade,1.3,100522.7
+2019,Wholesale Trade,1.3.1,47574.1
+2020,Wholesale Trade,1.3.1,46525.7
+2021,Wholesale Trade,1.3.1,70991.7
+2022,Wholesale Trade,1.3.1,93903.0
+2023,Wholesale Trade,1.3.1,105403.7
+2024,Wholesale Trade,1.3.1,100126.1
+2019,Retail Trade,1.3.2,107.8
+2020,Retail Trade,1.3.2,6.0
+2021,Retail Trade,1.3.2,249.7
+2022,Retail Trade,1.3.2,117.8
+2023,Retail Trade,1.3.2,217.4
+2024,Retail Trade,1.3.2,396.5
+2019,Accommodation & Food Services,1.4,222.9
+2020,Accommodation & Food Services,1.4,-125.4
+2021,Accommodation & Food Services,1.4,-231.3
+2022,Accommodation & Food Services,1.4,399.9
+2023,Accommodation & Food Services,1.4,231.5
+2024,Accommodation & Food Services,1.4,423.7
+2019,Transportation & Storage,1.5,3309.5
+2020,Transportation & Storage,1.5,10932.2
+2021,Transportation & Storage,1.5,42961.1
+2022,Transportation & Storage,1.5,62951.8
+2023,Transportation & Storage,1.5,7153.7
+2024,Transportation & Storage,1.5,28976.0
+2019,Water Transport & Supporting Services,1.5.1,2774.9
+2020,Water Transport & Supporting Services,1.5.1,9518.5
+2021,Water Transport & Supporting Services,1.5.1,41691.3
+2022,Water Transport & Supporting Services,1.5.1,60882.7
+2023,Water Transport & Supporting Services,1.5.1,5410.0
+2024,Water Transport & Supporting Services,1.5.1,27108.1
+2019,Freight Water Transport,1.5.1.1,2444.8
+2020,Freight Water Transport,1.5.1.1,8975.3
+2021,Freight Water Transport,1.5.1.1,40921.5
+2022,Freight Water Transport,1.5.1.1,60082.6
+2023,Freight Water Transport,1.5.1.1,4698.3
+2024,Freight Water Transport,1.5.1.1,25833.3
+2019,Other Water Transport Nec,1.5.1.2,330.1
+2020,Other Water Transport Nec,1.5.1.2,543.3
+2021,Other Water Transport Nec,1.5.1.2,769.8
+2022,Other Water Transport Nec,1.5.1.2,800.1
+2023,Other Water Transport Nec,1.5.1.2,711.7
+2024,Other Water Transport Nec,1.5.1.2,1274.8
+2019,Land & Air Transport & Supporting Services,1.5.2,-253.6
+2020,Land & Air Transport & Supporting Services,1.5.2,274.3
+2021,Land & Air Transport & Supporting Services,1.5.2,135.6
+2022,Land & Air Transport & Supporting Services,1.5.2,116.3
+2023,Land & Air Transport & Supporting Services,1.5.2,532.5
+2024,Land & Air Transport & Supporting Services,1.5.2,535.8
+2019,"Warehousing, Post & Courier Services",1.5.3,788.2
+2020,"Warehousing, Post & Courier Services",1.5.3,1139.4
+2021,"Warehousing, Post & Courier Services",1.5.3,1134.2
+2022,"Warehousing, Post & Courier Services",1.5.3,1952.7
+2023,"Warehousing, Post & Courier Services",1.5.3,1211.2
+2024,"Warehousing, Post & Courier Services",1.5.3,1332.1
+2019,Information & Communications,1.6,173.4
+2020,Information & Communications,1.6,-1465.3
+2021,Information & Communications,1.6,-1886.9
+2022,Information & Communications,1.6,-4507.2
+2023,Information & Communications,1.6,439.4
+2024,Information & Communications,1.6,3743.6
+2019,Finance & Insurance,1.7,68042.8
+2020,Finance & Insurance,1.7,89547.0
+2021,Finance & Insurance,1.7,106341.1
+2022,Finance & Insurance,1.7,96883.1
+2023,Finance & Insurance,1.7,157586.0
+2024,Finance & Insurance,1.7,167188.0
+2019,Financial Services,1.7.1,72107.2
+2020,Financial Services,1.7.1,92413.4
+2021,Financial Services,1.7.1,106037.6
+2022,Financial Services,1.7.1,94106.3
+2023,Financial Services,1.7.1,154189.1
+2024,Financial Services,1.7.1,162591.2
+2019,Banks,1.7.1.1,2852.7
+2020,Banks,1.7.1.1,3759.2
+2021,Banks,1.7.1.1,5756.9
+2022,Banks,1.7.1.1,7402.5
+2023,Banks,1.7.1.1,8448.8
+2024,Banks,1.7.1.1,11360.2
+2019,Holding Companies,1.7.1.2,56182.9
+2020,Holding Companies,1.7.1.2,78455.8
+2021,Holding Companies,1.7.1.2,89823.2
+2022,Holding Companies,1.7.1.2,78128.8
+2023,Holding Companies,1.7.1.2,126811.3
+2024,Holding Companies,1.7.1.2,133217.9
+2019,Other Financial Services,1.7.1.3,13071.6
+2020,Other Financial Services,1.7.1.3,10198.4
+2021,Other Financial Services,1.7.1.3,10457.4
+2022,Other Financial Services,1.7.1.3,8574.9
+2023,Other Financial Services,1.7.1.3,18929.0
+2024,Other Financial Services,1.7.1.3,18013.1
+2019,Insurance Services,1.7.2,-4064.4
+2020,Insurance Services,1.7.2,-2866.4
+2021,Insurance Services,1.7.2,303.5
+2022,Insurance Services,1.7.2,2776.8
+2023,Insurance Services,1.7.2,3396.9
+2024,Insurance Services,1.7.2,4596.8
+2019,Real Estate,1.8,2207.1
+2020,Real Estate,1.8,544.0
+2021,Real Estate,1.8,1085.8
+2022,Real Estate,1.8,2544.5
+2023,Real Estate,1.8,821.9
+2024,Real Estate,1.8,2685.0
+2019,Professional And Administrative & Support Services,1.9,8940.8
+2020,Professional And Administrative & Support Services,1.9,4274.0
+2021,Professional And Administrative & Support Services,1.9,2799.6
+2022,Professional And Administrative & Support Services,1.9,6850.8
+2023,Professional And Administrative & Support Services,1.9,9914.5
+2024,Professional And Administrative & Support Services,1.9,17788.6
+2019,Others,1.10,865.8
+2020,Others,1.10,-251.6
+2021,Others,1.10,403.2
+2022,Others,1.10,2596.7
+2023,Others,1.10,4360.4
+2024,Others,1.10,3043.9

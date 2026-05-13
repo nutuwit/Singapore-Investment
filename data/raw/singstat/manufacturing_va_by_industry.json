@@ -1,0 +1,926 @@
+[
+  {
+    "date": "2019",
+    "variable": "Total Manufacturing",
+    "seriesNo": "1",
+    "value": 92204.3
+  },
+  {
+    "date": "2020",
+    "variable": "Total Manufacturing",
+    "seriesNo": "1",
+    "value": 88614.6
+  },
+  {
+    "date": "2021",
+    "variable": "Total Manufacturing",
+    "seriesNo": "1",
+    "value": 115076.2
+  },
+  {
+    "date": "2022",
+    "variable": "Total Manufacturing",
+    "seriesNo": "1",
+    "value": 135951.6
+  },
+  {
+    "date": "2023",
+    "variable": "Total Manufacturing",
+    "seriesNo": "1",
+    "value": 108605.9
+  },
+  {
+    "date": "2024",
+    "variable": "Total Manufacturing",
+    "seriesNo": "1",
+    "value": 116595.3
+  },
+  {
+    "date": "2025",
+    "variable": "Total Manufacturing",
+    "seriesNo": "1",
+    "value": 132813.8
+  },
+  {
+    "date": "2019",
+    "variable": "Food, Beverage & Tobacco",
+    "seriesNo": "1.10",
+    "value": 4415.4
+  },
+  {
+    "date": "2020",
+    "variable": "Food, Beverage & Tobacco",
+    "seriesNo": "1.10",
+    "value": 3962.0
+  },
+  {
+    "date": "2021",
+    "variable": "Food, Beverage & Tobacco",
+    "seriesNo": "1.10",
+    "value": 4182.4
+  },
+  {
+    "date": "2022",
+    "variable": "Food, Beverage & Tobacco",
+    "seriesNo": "1.10",
+    "value": 4613.3
+  },
+  {
+    "date": "2023",
+    "variable": "Food, Beverage & Tobacco",
+    "seriesNo": "1.10",
+    "value": 4067.1
+  },
+  {
+    "date": "2024",
+    "variable": "Food, Beverage & Tobacco",
+    "seriesNo": "1.10",
+    "value": 6790.1
+  },
+  {
+    "date": "2025",
+    "variable": "Food, Beverage & Tobacco",
+    "seriesNo": "1.10",
+    "value": 6551.7
+  },
+  {
+    "date": "2019",
+    "variable": "Textiles & Textile Manufactures",
+    "seriesNo": "1.13",
+    "value": 23.1
+  },
+  {
+    "date": "2020",
+    "variable": "Textiles & Textile Manufactures",
+    "seriesNo": "1.13",
+    "value": 11.6
+  },
+  {
+    "date": "2021",
+    "variable": "Textiles & Textile Manufactures",
+    "seriesNo": "1.13",
+    "value": 12.3
+  },
+  {
+    "date": "2022",
+    "variable": "Textiles & Textile Manufactures",
+    "seriesNo": "1.13",
+    "value": 14.0
+  },
+  {
+    "date": "2023",
+    "variable": "Textiles & Textile Manufactures",
+    "seriesNo": "1.13",
+    "value": 19.8
+  },
+  {
+    "date": "2024",
+    "variable": "Textiles & Textile Manufactures",
+    "seriesNo": "1.13",
+    "value": 16.8
+  },
+  {
+    "date": "2025",
+    "variable": "Textiles & Textile Manufactures",
+    "seriesNo": "1.13",
+    "value": 17.2
+  },
+  {
+    "date": "2019",
+    "variable": "Wearing Apparel",
+    "seriesNo": "1.14",
+    "value": 96.7
+  },
+  {
+    "date": "2020",
+    "variable": "Wearing Apparel",
+    "seriesNo": "1.14",
+    "value": 79.8
+  },
+  {
+    "date": "2021",
+    "variable": "Wearing Apparel",
+    "seriesNo": "1.14",
+    "value": 75.2
+  },
+  {
+    "date": "2022",
+    "variable": "Wearing Apparel",
+    "seriesNo": "1.14",
+    "value": 105.8
+  },
+  {
+    "date": "2023",
+    "variable": "Wearing Apparel",
+    "seriesNo": "1.14",
+    "value": 80.8
+  },
+  {
+    "date": "2024",
+    "variable": "Wearing Apparel",
+    "seriesNo": "1.14",
+    "value": 109.5
+  },
+  {
+    "date": "2025",
+    "variable": "Wearing Apparel",
+    "seriesNo": "1.14",
+    "value": 99.3
+  },
+  {
+    "date": "2019",
+    "variable": "Leather, Leather Products & Footwear",
+    "seriesNo": "1.15",
+    "value": 52.7
+  },
+  {
+    "date": "2020",
+    "variable": "Leather, Leather Products & Footwear",
+    "seriesNo": "1.15",
+    "value": 30.7
+  },
+  {
+    "date": "2021",
+    "variable": "Leather, Leather Products & Footwear",
+    "seriesNo": "1.15",
+    "value": 42.6
+  },
+  {
+    "date": "2022",
+    "variable": "Leather, Leather Products & Footwear",
+    "seriesNo": "1.15",
+    "value": 42.1
+  },
+  {
+    "date": "2023",
+    "variable": "Leather, Leather Products & Footwear",
+    "seriesNo": "1.15",
+    "value": 40.4
+  },
+  {
+    "date": "2024",
+    "variable": "Leather, Leather Products & Footwear",
+    "seriesNo": "1.15",
+    "value": 91.0
+  },
+  {
+    "date": "2025",
+    "variable": "Leather, Leather Products & Footwear",
+    "seriesNo": "1.15",
+    "value": 94.4
+  },
+  {
+    "date": "2019",
+    "variable": "Wood & Wood Products",
+    "seriesNo": "1.16",
+    "value": 111.1
+  },
+  {
+    "date": "2020",
+    "variable": "Wood & Wood Products",
+    "seriesNo": "1.16",
+    "value": 109.9
+  },
+  {
+    "date": "2021",
+    "variable": "Wood & Wood Products",
+    "seriesNo": "1.16",
+    "value": 133.5
+  },
+  {
+    "date": "2022",
+    "variable": "Wood & Wood Products",
+    "seriesNo": "1.16",
+    "value": 179.3
+  },
+  {
+    "date": "2023",
+    "variable": "Wood & Wood Products",
+    "seriesNo": "1.16",
+    "value": 161.4
+  },
+  {
+    "date": "2024",
+    "variable": "Wood & Wood Products",
+    "seriesNo": "1.16",
+    "value": 174.2
+  },
+  {
+    "date": "2025",
+    "variable": "Wood & Wood Products",
+    "seriesNo": "1.16",
+    "value": 171.6
+  },
+  {
+    "date": "2019",
+    "variable": "Paper & Paper Products",
+    "seriesNo": "1.17",
+    "value": 245.8
+  },
+  {
+    "date": "2020",
+    "variable": "Paper & Paper Products",
+    "seriesNo": "1.17",
+    "value": 263.0
+  },
+  {
+    "date": "2021",
+    "variable": "Paper & Paper Products",
+    "seriesNo": "1.17",
+    "value": 256.8
+  },
+  {
+    "date": "2022",
+    "variable": "Paper & Paper Products",
+    "seriesNo": "1.17",
+    "value": 251.7
+  },
+  {
+    "date": "2023",
+    "variable": "Paper & Paper Products",
+    "seriesNo": "1.17",
+    "value": 250.7
+  },
+  {
+    "date": "2024",
+    "variable": "Paper & Paper Products",
+    "seriesNo": "1.17",
+    "value": 212.1
+  },
+  {
+    "date": "2025",
+    "variable": "Paper & Paper Products",
+    "seriesNo": "1.17",
+    "value": 165.1
+  },
+  {
+    "date": "2019",
+    "variable": "Printing & Reproduction Of Recorded Media",
+    "seriesNo": "1.18",
+    "value": 475.2
+  },
+  {
+    "date": "2020",
+    "variable": "Printing & Reproduction Of Recorded Media",
+    "seriesNo": "1.18",
+    "value": 331.3
+  },
+  {
+    "date": "2021",
+    "variable": "Printing & Reproduction Of Recorded Media",
+    "seriesNo": "1.18",
+    "value": 323.1
+  },
+  {
+    "date": "2022",
+    "variable": "Printing & Reproduction Of Recorded Media",
+    "seriesNo": "1.18",
+    "value": 338.0
+  },
+  {
+    "date": "2023",
+    "variable": "Printing & Reproduction Of Recorded Media",
+    "seriesNo": "1.18",
+    "value": 340.2
+  },
+  {
+    "date": "2024",
+    "variable": "Printing & Reproduction Of Recorded Media",
+    "seriesNo": "1.18",
+    "value": 341.2
+  },
+  {
+    "date": "2025",
+    "variable": "Printing & Reproduction Of Recorded Media",
+    "seriesNo": "1.18",
+    "value": 375.2
+  },
+  {
+    "date": "2019",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.19",
+    "value": 787.5
+  },
+  {
+    "date": "2020",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.19",
+    "value": 1586.2
+  },
+  {
+    "date": "2021",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.19",
+    "value": 5106.8
+  },
+  {
+    "date": "2022",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.19",
+    "value": 7350.8
+  },
+  {
+    "date": "2023",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.19",
+    "value": 9517.2
+  },
+  {
+    "date": "2024",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.19",
+    "value": 7209.9
+  },
+  {
+    "date": "2025",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.19",
+    "value": 4887.9
+  },
+  {
+    "date": "2019",
+    "variable": "Chemicals & Chemical Products",
+    "seriesNo": "1.20",
+    "value": 10899.1
+  },
+  {
+    "date": "2020",
+    "variable": "Chemicals & Chemical Products",
+    "seriesNo": "1.20",
+    "value": 10792.5
+  },
+  {
+    "date": "2021",
+    "variable": "Chemicals & Chemical Products",
+    "seriesNo": "1.20",
+    "value": 14905.9
+  },
+  {
+    "date": "2022",
+    "variable": "Chemicals & Chemical Products",
+    "seriesNo": "1.20",
+    "value": 14112.7
+  },
+  {
+    "date": "2023",
+    "variable": "Chemicals & Chemical Products",
+    "seriesNo": "1.20",
+    "value": 10561.9
+  },
+  {
+    "date": "2024",
+    "variable": "Chemicals & Chemical Products",
+    "seriesNo": "1.20",
+    "value": 10114.4
+  },
+  {
+    "date": "2025",
+    "variable": "Chemicals & Chemical Products",
+    "seriesNo": "1.20",
+    "value": 10223.6
+  },
+  {
+    "date": "2019",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.21",
+    "value": 6185.8
+  },
+  {
+    "date": "2020",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.21",
+    "value": 8771.4
+  },
+  {
+    "date": "2021",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.21",
+    "value": 8188.3
+  },
+  {
+    "date": "2022",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.21",
+    "value": 8841.1
+  },
+  {
+    "date": "2023",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.21",
+    "value": 8766.7
+  },
+  {
+    "date": "2024",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.21",
+    "value": 4288.0
+  },
+  {
+    "date": "2025",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.21",
+    "value": 7338.5
+  },
+  {
+    "date": "2019",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.22",
+    "value": 764.9
+  },
+  {
+    "date": "2020",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.22",
+    "value": 804.6
+  },
+  {
+    "date": "2021",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.22",
+    "value": 913.5
+  },
+  {
+    "date": "2022",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.22",
+    "value": 942.3
+  },
+  {
+    "date": "2023",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.22",
+    "value": 925.0
+  },
+  {
+    "date": "2024",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.22",
+    "value": 927.1
+  },
+  {
+    "date": "2025",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.22",
+    "value": 891.0
+  },
+  {
+    "date": "2019",
+    "variable": "Non-Metallic Mineral Products",
+    "seriesNo": "1.23",
+    "value": 326.7
+  },
+  {
+    "date": "2020",
+    "variable": "Non-Metallic Mineral Products",
+    "seriesNo": "1.23",
+    "value": 231.8
+  },
+  {
+    "date": "2021",
+    "variable": "Non-Metallic Mineral Products",
+    "seriesNo": "1.23",
+    "value": 324.8
+  },
+  {
+    "date": "2022",
+    "variable": "Non-Metallic Mineral Products",
+    "seriesNo": "1.23",
+    "value": 370.9
+  },
+  {
+    "date": "2023",
+    "variable": "Non-Metallic Mineral Products",
+    "seriesNo": "1.23",
+    "value": 418.1
+  },
+  {
+    "date": "2024",
+    "variable": "Non-Metallic Mineral Products",
+    "seriesNo": "1.23",
+    "value": 419.3
+  },
+  {
+    "date": "2025",
+    "variable": "Non-Metallic Mineral Products",
+    "seriesNo": "1.23",
+    "value": 401.2
+  },
+  {
+    "date": "2019",
+    "variable": "Basic Metal",
+    "seriesNo": "1.24",
+    "value": 160.8
+  },
+  {
+    "date": "2020",
+    "variable": "Basic Metal",
+    "seriesNo": "1.24",
+    "value": 176.9
+  },
+  {
+    "date": "2021",
+    "variable": "Basic Metal",
+    "seriesNo": "1.24",
+    "value": 303.6
+  },
+  {
+    "date": "2022",
+    "variable": "Basic Metal",
+    "seriesNo": "1.24",
+    "value": 263.9
+  },
+  {
+    "date": "2023",
+    "variable": "Basic Metal",
+    "seriesNo": "1.24",
+    "value": 228.0
+  },
+  {
+    "date": "2024",
+    "variable": "Basic Metal",
+    "seriesNo": "1.24",
+    "value": 214.5
+  },
+  {
+    "date": "2025",
+    "variable": "Basic Metal",
+    "seriesNo": "1.24",
+    "value": 150.8
+  },
+  {
+    "date": "2019",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.25",
+    "value": 2272.5
+  },
+  {
+    "date": "2020",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.25",
+    "value": 2077.1
+  },
+  {
+    "date": "2021",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.25",
+    "value": 2381.2
+  },
+  {
+    "date": "2022",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.25",
+    "value": 2561.5
+  },
+  {
+    "date": "2023",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.25",
+    "value": 2385.4
+  },
+  {
+    "date": "2024",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.25",
+    "value": 2472.4
+  },
+  {
+    "date": "2025",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.25",
+    "value": 2549.8
+  },
+  {
+    "date": "2019",
+    "variable": "Computer, Electronic & Optical Products",
+    "seriesNo": "1.26",
+    "value": 43381.6
+  },
+  {
+    "date": "2020",
+    "variable": "Computer, Electronic & Optical Products",
+    "seriesNo": "1.26",
+    "value": 38875.2
+  },
+  {
+    "date": "2021",
+    "variable": "Computer, Electronic & Optical Products",
+    "seriesNo": "1.26",
+    "value": 55080.2
+  },
+  {
+    "date": "2022",
+    "variable": "Computer, Electronic & Optical Products",
+    "seriesNo": "1.26",
+    "value": 68003.1
+  },
+  {
+    "date": "2023",
+    "variable": "Computer, Electronic & Optical Products",
+    "seriesNo": "1.26",
+    "value": 44069.2
+  },
+  {
+    "date": "2024",
+    "variable": "Computer, Electronic & Optical Products",
+    "seriesNo": "1.26",
+    "value": 50235.5
+  },
+  {
+    "date": "2025",
+    "variable": "Computer, Electronic & Optical Products",
+    "seriesNo": "1.26",
+    "value": 61075.7
+  },
+  {
+    "date": "2019",
+    "variable": "Electrical Equipment",
+    "seriesNo": "1.27",
+    "value": 1027.2
+  },
+  {
+    "date": "2020",
+    "variable": "Electrical Equipment",
+    "seriesNo": "1.27",
+    "value": 942.6
+  },
+  {
+    "date": "2021",
+    "variable": "Electrical Equipment",
+    "seriesNo": "1.27",
+    "value": 956.9
+  },
+  {
+    "date": "2022",
+    "variable": "Electrical Equipment",
+    "seriesNo": "1.27",
+    "value": 1142.1
+  },
+  {
+    "date": "2023",
+    "variable": "Electrical Equipment",
+    "seriesNo": "1.27",
+    "value": 1032.1
+  },
+  {
+    "date": "2024",
+    "variable": "Electrical Equipment",
+    "seriesNo": "1.27",
+    "value": 1016.3
+  },
+  {
+    "date": "2025",
+    "variable": "Electrical Equipment",
+    "seriesNo": "1.27",
+    "value": 946.7
+  },
+  {
+    "date": "2019",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.28",
+    "value": 7683.5
+  },
+  {
+    "date": "2020",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.28",
+    "value": 8304.5
+  },
+  {
+    "date": "2021",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.28",
+    "value": 10274.4
+  },
+  {
+    "date": "2022",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.28",
+    "value": 14523.5
+  },
+  {
+    "date": "2023",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.28",
+    "value": 12944.5
+  },
+  {
+    "date": "2024",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.28",
+    "value": 14860.8
+  },
+  {
+    "date": "2025",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.28",
+    "value": 18689.3
+  },
+  {
+    "date": "2019",
+    "variable": "Motor Vehicles, Trailers & Semi-Trailers",
+    "seriesNo": "1.29",
+    "value": 427.0
+  },
+  {
+    "date": "2020",
+    "variable": "Motor Vehicles, Trailers & Semi-Trailers",
+    "seriesNo": "1.29",
+    "value": 360.3
+  },
+  {
+    "date": "2021",
+    "variable": "Motor Vehicles, Trailers & Semi-Trailers",
+    "seriesNo": "1.29",
+    "value": 344.8
+  },
+  {
+    "date": "2022",
+    "variable": "Motor Vehicles, Trailers & Semi-Trailers",
+    "seriesNo": "1.29",
+    "value": 352.4
+  },
+  {
+    "date": "2023",
+    "variable": "Motor Vehicles, Trailers & Semi-Trailers",
+    "seriesNo": "1.29",
+    "value": 363.2
+  },
+  {
+    "date": "2024",
+    "variable": "Motor Vehicles, Trailers & Semi-Trailers",
+    "seriesNo": "1.29",
+    "value": 385.6
+  },
+  {
+    "date": "2025",
+    "variable": "Motor Vehicles, Trailers & Semi-Trailers",
+    "seriesNo": "1.29",
+    "value": 345.3
+  },
+  {
+    "date": "2019",
+    "variable": "Other Transport Equipment",
+    "seriesNo": "1.30",
+    "value": 6354.7
+  },
+  {
+    "date": "2020",
+    "variable": "Other Transport Equipment",
+    "seriesNo": "1.30",
+    "value": 4691.2
+  },
+  {
+    "date": "2021",
+    "variable": "Other Transport Equipment",
+    "seriesNo": "1.30",
+    "value": 5209.3
+  },
+  {
+    "date": "2022",
+    "variable": "Other Transport Equipment",
+    "seriesNo": "1.30",
+    "value": 6088.4
+  },
+  {
+    "date": "2023",
+    "variable": "Other Transport Equipment",
+    "seriesNo": "1.30",
+    "value": 6608.1
+  },
+  {
+    "date": "2024",
+    "variable": "Other Transport Equipment",
+    "seriesNo": "1.30",
+    "value": 8273.5
+  },
+  {
+    "date": "2025",
+    "variable": "Other Transport Equipment",
+    "seriesNo": "1.30",
+    "value": 9065.0
+  },
+  {
+    "date": "2019",
+    "variable": "Furniture",
+    "seriesNo": "1.31",
+    "value": 281.4
+  },
+  {
+    "date": "2020",
+    "variable": "Furniture",
+    "seriesNo": "1.31",
+    "value": 207.6
+  },
+  {
+    "date": "2021",
+    "variable": "Furniture",
+    "seriesNo": "1.31",
+    "value": 256.1
+  },
+  {
+    "date": "2022",
+    "variable": "Furniture",
+    "seriesNo": "1.31",
+    "value": 222.1
+  },
+  {
+    "date": "2023",
+    "variable": "Furniture",
+    "seriesNo": "1.31",
+    "value": 231.0
+  },
+  {
+    "date": "2024",
+    "variable": "Furniture",
+    "seriesNo": "1.31",
+    "value": 229.9
+  },
+  {
+    "date": "2025",
+    "variable": "Furniture",
+    "seriesNo": "1.31",
+    "value": 227.6
+  },
+  {
+    "date": "2019",
+    "variable": "Other Manufacturing Industries",
+    "seriesNo": "1.32",
+    "value": 6231.6
+  },
+  {
+    "date": "2020",
+    "variable": "Other Manufacturing Industries",
+    "seriesNo": "1.32",
+    "value": 6004.2
+  },
+  {
+    "date": "2021",
+    "variable": "Other Manufacturing Industries",
+    "seriesNo": "1.32",
+    "value": 5804.5
+  },
+  {
+    "date": "2022",
+    "variable": "Other Manufacturing Industries",
+    "seriesNo": "1.32",
+    "value": 5632.7
+  },
+  {
+    "date": "2023",
+    "variable": "Other Manufacturing Industries",
+    "seriesNo": "1.32",
+    "value": 5594.9
+  },
+  {
+    "date": "2024",
+    "variable": "Other Manufacturing Industries",
+    "seriesNo": "1.32",
+    "value": 8213.3
+  },
+  {
+    "date": "2025",
+    "variable": "Other Manufacturing Industries",
+    "seriesNo": "1.32",
+    "value": 8546.9
+  }
+]

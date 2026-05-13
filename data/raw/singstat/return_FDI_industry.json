@@ -1,0 +1,1346 @@
+[
+  {
+    "date": "2019",
+    "variable": "Total",
+    "seriesNo": "1",
+    "value": 10.3
+  },
+  {
+    "date": "2020",
+    "variable": "Total",
+    "seriesNo": "1",
+    "value": 9.5
+  },
+  {
+    "date": "2021",
+    "variable": "Total",
+    "seriesNo": "1",
+    "value": 12.6
+  },
+  {
+    "date": "2022",
+    "variable": "Total",
+    "seriesNo": "1",
+    "value": 13.3
+  },
+  {
+    "date": "2023",
+    "variable": "Total",
+    "seriesNo": "1",
+    "value": 12.3
+  },
+  {
+    "date": "2024",
+    "variable": "Total",
+    "seriesNo": "1",
+    "value": 12.7
+  },
+  {
+    "date": "2019",
+    "variable": "Manufacturing",
+    "seriesNo": "1.1",
+    "value": 24.2
+  },
+  {
+    "date": "2020",
+    "variable": "Manufacturing",
+    "seriesNo": "1.1",
+    "value": 17.6
+  },
+  {
+    "date": "2021",
+    "variable": "Manufacturing",
+    "seriesNo": "1.1",
+    "value": 26.3
+  },
+  {
+    "date": "2022",
+    "variable": "Manufacturing",
+    "seriesNo": "1.1",
+    "value": 26.9
+  },
+  {
+    "date": "2023",
+    "variable": "Manufacturing",
+    "seriesNo": "1.1",
+    "value": 17.7
+  },
+  {
+    "date": "2024",
+    "variable": "Manufacturing",
+    "seriesNo": "1.1",
+    "value": 21.2
+  },
+  {
+    "date": "2019",
+    "variable": "Food, Beverages & Tobacco",
+    "seriesNo": "1.1.1",
+    "value": 15.1
+  },
+  {
+    "date": "2020",
+    "variable": "Food, Beverages & Tobacco",
+    "seriesNo": "1.1.1",
+    "value": 8.9
+  },
+  {
+    "date": "2021",
+    "variable": "Food, Beverages & Tobacco",
+    "seriesNo": "1.1.1",
+    "value": 8.9
+  },
+  {
+    "date": "2022",
+    "variable": "Food, Beverages & Tobacco",
+    "seriesNo": "1.1.1",
+    "value": 13.7
+  },
+  {
+    "date": "2023",
+    "variable": "Food, Beverages & Tobacco",
+    "seriesNo": "1.1.1",
+    "value": 6.7
+  },
+  {
+    "date": "2024",
+    "variable": "Food, Beverages & Tobacco",
+    "seriesNo": "1.1.1",
+    "value": 11.5
+  },
+  {
+    "date": "2019",
+    "variable": "Paper, Paper Products & Printing",
+    "seriesNo": "1.1.2",
+    "value": 5.7
+  },
+  {
+    "date": "2020",
+    "variable": "Paper, Paper Products & Printing",
+    "seriesNo": "1.1.2",
+    "value": 13.0
+  },
+  {
+    "date": "2021",
+    "variable": "Paper, Paper Products & Printing",
+    "seriesNo": "1.1.2",
+    "value": 0.7
+  },
+  {
+    "date": "2022",
+    "variable": "Paper, Paper Products & Printing",
+    "seriesNo": "1.1.2",
+    "value": -3.0
+  },
+  {
+    "date": "2023",
+    "variable": "Paper, Paper Products & Printing",
+    "seriesNo": "1.1.2",
+    "value": 10.3
+  },
+  {
+    "date": "2024",
+    "variable": "Paper, Paper Products & Printing",
+    "seriesNo": "1.1.2",
+    "value": -4.1
+  },
+  {
+    "date": "2021",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.1.3",
+    "value": 43.8
+  },
+  {
+    "date": "2022",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.1.3",
+    "value": 17.4
+  },
+  {
+    "date": "2023",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.1.3",
+    "value": 20.7
+  },
+  {
+    "date": "2024",
+    "variable": "Refined Petroleum Products",
+    "seriesNo": "1.1.3",
+    "value": 24.8
+  },
+  {
+    "date": "2019",
+    "variable": "Chemical & Chemical Products",
+    "seriesNo": "1.1.4",
+    "value": 23.4
+  },
+  {
+    "date": "2020",
+    "variable": "Chemical & Chemical Products",
+    "seriesNo": "1.1.4",
+    "value": 23.7
+  },
+  {
+    "date": "2021",
+    "variable": "Chemical & Chemical Products",
+    "seriesNo": "1.1.4",
+    "value": 30.8
+  },
+  {
+    "date": "2022",
+    "variable": "Chemical & Chemical Products",
+    "seriesNo": "1.1.4",
+    "value": 19.9
+  },
+  {
+    "date": "2023",
+    "variable": "Chemical & Chemical Products",
+    "seriesNo": "1.1.4",
+    "value": 16.0
+  },
+  {
+    "date": "2024",
+    "variable": "Chemical & Chemical Products",
+    "seriesNo": "1.1.4",
+    "value": 4.8
+  },
+  {
+    "date": "2019",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.1.5",
+    "value": 25.1
+  },
+  {
+    "date": "2020",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.1.5",
+    "value": 44.6
+  },
+  {
+    "date": "2021",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.1.5",
+    "value": 38.6
+  },
+  {
+    "date": "2022",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.1.5",
+    "value": 41.0
+  },
+  {
+    "date": "2023",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.1.5",
+    "value": 47.7
+  },
+  {
+    "date": "2024",
+    "variable": "Pharmaceutical & Biological Products",
+    "seriesNo": "1.1.5",
+    "value": 0.8
+  },
+  {
+    "date": "2019",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.1.6",
+    "value": 8.1
+  },
+  {
+    "date": "2020",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.1.6",
+    "value": 7.5
+  },
+  {
+    "date": "2021",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.1.6",
+    "value": 8.3
+  },
+  {
+    "date": "2022",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.1.6",
+    "value": 15.8
+  },
+  {
+    "date": "2023",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.1.6",
+    "value": 8.6
+  },
+  {
+    "date": "2024",
+    "variable": "Rubber & Plastic Products",
+    "seriesNo": "1.1.6",
+    "value": 13.4
+  },
+  {
+    "date": "2022",
+    "variable": "Basic Metals",
+    "seriesNo": "1.1.7",
+    "value": 11.6
+  },
+  {
+    "date": "2023",
+    "variable": "Basic Metals",
+    "seriesNo": "1.1.7",
+    "value": 0.5
+  },
+  {
+    "date": "2024",
+    "variable": "Basic Metals",
+    "seriesNo": "1.1.7",
+    "value": 7.7
+  },
+  {
+    "date": "2019",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.1.8",
+    "value": 8.6
+  },
+  {
+    "date": "2020",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.1.8",
+    "value": 8.1
+  },
+  {
+    "date": "2021",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.1.8",
+    "value": 11.9
+  },
+  {
+    "date": "2022",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.1.8",
+    "value": 12.7
+  },
+  {
+    "date": "2023",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.1.8",
+    "value": 5.4
+  },
+  {
+    "date": "2024",
+    "variable": "Fabricated Metal Products",
+    "seriesNo": "1.1.8",
+    "value": 7.4
+  },
+  {
+    "date": "2019",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.1.9",
+    "value": 7.4
+  },
+  {
+    "date": "2020",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.1.9",
+    "value": 6.9
+  },
+  {
+    "date": "2021",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.1.9",
+    "value": 8.1
+  },
+  {
+    "date": "2022",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.1.9",
+    "value": 20.8
+  },
+  {
+    "date": "2023",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.1.9",
+    "value": 2.2
+  },
+  {
+    "date": "2024",
+    "variable": "Machinery & Equipment",
+    "seriesNo": "1.1.9",
+    "value": 14.4
+  },
+  {
+    "date": "2019",
+    "variable": "Electrical Machinery & Apparatus",
+    "seriesNo": "1.1.10",
+    "value": 14.4
+  },
+  {
+    "date": "2020",
+    "variable": "Electrical Machinery & Apparatus",
+    "seriesNo": "1.1.10",
+    "value": 20.0
+  },
+  {
+    "date": "2021",
+    "variable": "Electrical Machinery & Apparatus",
+    "seriesNo": "1.1.10",
+    "value": 22.1
+  },
+  {
+    "date": "2022",
+    "variable": "Electrical Machinery & Apparatus",
+    "seriesNo": "1.1.10",
+    "value": 19.9
+  },
+  {
+    "date": "2023",
+    "variable": "Electrical Machinery & Apparatus",
+    "seriesNo": "1.1.10",
+    "value": 15.5
+  },
+  {
+    "date": "2024",
+    "variable": "Electrical Machinery & Apparatus",
+    "seriesNo": "1.1.10",
+    "value": 14.7
+  },
+  {
+    "date": "2019",
+    "variable": "Computer, Electronic And Optical Products",
+    "seriesNo": "1.1.11",
+    "value": 34.4
+  },
+  {
+    "date": "2020",
+    "variable": "Computer, Electronic And Optical Products",
+    "seriesNo": "1.1.11",
+    "value": 22.0
+  },
+  {
+    "date": "2021",
+    "variable": "Computer, Electronic And Optical Products",
+    "seriesNo": "1.1.11",
+    "value": 31.5
+  },
+  {
+    "date": "2022",
+    "variable": "Computer, Electronic And Optical Products",
+    "seriesNo": "1.1.11",
+    "value": 36.1
+  },
+  {
+    "date": "2023",
+    "variable": "Computer, Electronic And Optical Products",
+    "seriesNo": "1.1.11",
+    "value": 19.1
+  },
+  {
+    "date": "2024",
+    "variable": "Computer, Electronic And Optical Products",
+    "seriesNo": "1.1.11",
+    "value": 33.9
+  },
+  {
+    "date": "2019",
+    "variable": "Semiconductor Devices",
+    "seriesNo": "1.1.11.1",
+    "value": 35.5
+  },
+  {
+    "date": "2020",
+    "variable": "Semiconductor Devices",
+    "seriesNo": "1.1.11.1",
+    "value": 17.6
+  },
+  {
+    "date": "2021",
+    "variable": "Semiconductor Devices",
+    "seriesNo": "1.1.11.1",
+    "value": 29.1
+  },
+  {
+    "date": "2022",
+    "variable": "Semiconductor Devices",
+    "seriesNo": "1.1.11.1",
+    "value": 36.5
+  },
+  {
+    "date": "2023",
+    "variable": "Semiconductor Devices",
+    "seriesNo": "1.1.11.1",
+    "value": 16.7
+  },
+  {
+    "date": "2024",
+    "variable": "Semiconductor Devices",
+    "seriesNo": "1.1.11.1",
+    "value": 29.2
+  },
+  {
+    "date": "2019",
+    "variable": "Computers & Peripheral Equipment",
+    "seriesNo": "1.1.11.2",
+    "value": 63.4
+  },
+  {
+    "date": "2023",
+    "variable": "Computers & Peripheral Equipment",
+    "seriesNo": "1.1.11.2",
+    "value": 71.8
+  },
+  {
+    "date": "2024",
+    "variable": "Computers & Peripheral Equipment",
+    "seriesNo": "1.1.11.2",
+    "value": 299.2
+  },
+  {
+    "date": "2019",
+    "variable": "Instrumentation, Photographic & Optical Goods",
+    "seriesNo": "1.1.11.3",
+    "value": 16.1
+  },
+  {
+    "date": "2020",
+    "variable": "Instrumentation, Photographic & Optical Goods",
+    "seriesNo": "1.1.11.3",
+    "value": 35.4
+  },
+  {
+    "date": "2021",
+    "variable": "Instrumentation, Photographic & Optical Goods",
+    "seriesNo": "1.1.11.3",
+    "value": 18.5
+  },
+  {
+    "date": "2022",
+    "variable": "Instrumentation, Photographic & Optical Goods",
+    "seriesNo": "1.1.11.3",
+    "value": 18.3
+  },
+  {
+    "date": "2023",
+    "variable": "Instrumentation, Photographic & Optical Goods",
+    "seriesNo": "1.1.11.3",
+    "value": 8.1
+  },
+  {
+    "date": "2024",
+    "variable": "Instrumentation, Photographic & Optical Goods",
+    "seriesNo": "1.1.11.3",
+    "value": 3.0
+  },
+  {
+    "date": "2019",
+    "variable": "Other Electronics Nec",
+    "seriesNo": "1.1.11.4",
+    "value": 24.9
+  },
+  {
+    "date": "2020",
+    "variable": "Other Electronics Nec",
+    "seriesNo": "1.1.11.4",
+    "value": 25.0
+  },
+  {
+    "date": "2021",
+    "variable": "Other Electronics Nec",
+    "seriesNo": "1.1.11.4",
+    "value": 22.3
+  },
+  {
+    "date": "2022",
+    "variable": "Other Electronics Nec",
+    "seriesNo": "1.1.11.4",
+    "value": 15.2
+  },
+  {
+    "date": "2023",
+    "variable": "Other Electronics Nec",
+    "seriesNo": "1.1.11.4",
+    "value": 25.1
+  },
+  {
+    "date": "2024",
+    "variable": "Other Electronics Nec",
+    "seriesNo": "1.1.11.4",
+    "value": 23.3
+  },
+  {
+    "date": "2019",
+    "variable": "Transport Equipment",
+    "seriesNo": "1.1.12",
+    "value": 26.7
+  },
+  {
+    "date": "2020",
+    "variable": "Transport Equipment",
+    "seriesNo": "1.1.12",
+    "value": 3.8
+  },
+  {
+    "date": "2021",
+    "variable": "Transport Equipment",
+    "seriesNo": "1.1.12",
+    "value": 5.8
+  },
+  {
+    "date": "2022",
+    "variable": "Transport Equipment",
+    "seriesNo": "1.1.12",
+    "value": 21.3
+  },
+  {
+    "date": "2023",
+    "variable": "Transport Equipment",
+    "seriesNo": "1.1.12",
+    "value": 21.9
+  },
+  {
+    "date": "2024",
+    "variable": "Transport Equipment",
+    "seriesNo": "1.1.12",
+    "value": 27.3
+  },
+  {
+    "date": "2019",
+    "variable": "Construction",
+    "seriesNo": "1.2",
+    "value": 3.3
+  },
+  {
+    "date": "2020",
+    "variable": "Construction",
+    "seriesNo": "1.2",
+    "value": -8.4
+  },
+  {
+    "date": "2021",
+    "variable": "Construction",
+    "seriesNo": "1.2",
+    "value": -5.1
+  },
+  {
+    "date": "2022",
+    "variable": "Construction",
+    "seriesNo": "1.2",
+    "value": -5.7
+  },
+  {
+    "date": "2023",
+    "variable": "Construction",
+    "seriesNo": "1.2",
+    "value": 1.2
+  },
+  {
+    "date": "2024",
+    "variable": "Construction",
+    "seriesNo": "1.2",
+    "value": 3.0
+  },
+  {
+    "date": "2019",
+    "variable": "Wholesale & Retail Trade",
+    "seriesNo": "1.3",
+    "value": 17.2
+  },
+  {
+    "date": "2020",
+    "variable": "Wholesale & Retail Trade",
+    "seriesNo": "1.3",
+    "value": 15.6
+  },
+  {
+    "date": "2021",
+    "variable": "Wholesale & Retail Trade",
+    "seriesNo": "1.3",
+    "value": 20.7
+  },
+  {
+    "date": "2022",
+    "variable": "Wholesale & Retail Trade",
+    "seriesNo": "1.3",
+    "value": 23.5
+  },
+  {
+    "date": "2023",
+    "variable": "Wholesale & Retail Trade",
+    "seriesNo": "1.3",
+    "value": 24.4
+  },
+  {
+    "date": "2024",
+    "variable": "Wholesale & Retail Trade",
+    "seriesNo": "1.3",
+    "value": 23.6
+  },
+  {
+    "date": "2019",
+    "variable": "Wholesale Trade",
+    "seriesNo": "1.3.1",
+    "value": 17.5
+  },
+  {
+    "date": "2020",
+    "variable": "Wholesale Trade",
+    "seriesNo": "1.3.1",
+    "value": 15.8
+  },
+  {
+    "date": "2021",
+    "variable": "Wholesale Trade",
+    "seriesNo": "1.3.1",
+    "value": 20.9
+  },
+  {
+    "date": "2022",
+    "variable": "Wholesale Trade",
+    "seriesNo": "1.3.1",
+    "value": 23.7
+  },
+  {
+    "date": "2023",
+    "variable": "Wholesale Trade",
+    "seriesNo": "1.3.1",
+    "value": 24.6
+  },
+  {
+    "date": "2024",
+    "variable": "Wholesale Trade",
+    "seriesNo": "1.3.1",
+    "value": 23.7
+  },
+  {
+    "date": "2019",
+    "variable": "Retail Trade",
+    "seriesNo": "1.3.2",
+    "value": 2.3
+  },
+  {
+    "date": "2020",
+    "variable": "Retail Trade",
+    "seriesNo": "1.3.2",
+    "value": 0.1
+  },
+  {
+    "date": "2021",
+    "variable": "Retail Trade",
+    "seriesNo": "1.3.2",
+    "value": 5.7
+  },
+  {
+    "date": "2022",
+    "variable": "Retail Trade",
+    "seriesNo": "1.3.2",
+    "value": 2.6
+  },
+  {
+    "date": "2023",
+    "variable": "Retail Trade",
+    "seriesNo": "1.3.2",
+    "value": 5.0
+  },
+  {
+    "date": "2024",
+    "variable": "Retail Trade",
+    "seriesNo": "1.3.2",
+    "value": 10.7
+  },
+  {
+    "date": "2019",
+    "variable": "Accommodation & Food Services",
+    "seriesNo": "1.4",
+    "value": 3.3
+  },
+  {
+    "date": "2020",
+    "variable": "Accommodation & Food Services",
+    "seriesNo": "1.4",
+    "value": -1.9
+  },
+  {
+    "date": "2021",
+    "variable": "Accommodation & Food Services",
+    "seriesNo": "1.4",
+    "value": -3.8
+  },
+  {
+    "date": "2022",
+    "variable": "Accommodation & Food Services",
+    "seriesNo": "1.4",
+    "value": 6.0
+  },
+  {
+    "date": "2023",
+    "variable": "Accommodation & Food Services",
+    "seriesNo": "1.4",
+    "value": 3.1
+  },
+  {
+    "date": "2024",
+    "variable": "Accommodation & Food Services",
+    "seriesNo": "1.4",
+    "value": 5.1
+  },
+  {
+    "date": "2019",
+    "variable": "Transportation & Storage",
+    "seriesNo": "1.5",
+    "value": 9.9
+  },
+  {
+    "date": "2020",
+    "variable": "Transportation & Storage",
+    "seriesNo": "1.5",
+    "value": 27.6
+  },
+  {
+    "date": "2021",
+    "variable": "Transportation & Storage",
+    "seriesNo": "1.5",
+    "value": 74.4
+  },
+  {
+    "date": "2022",
+    "variable": "Transportation & Storage",
+    "seriesNo": "1.5",
+    "value": 69.6
+  },
+  {
+    "date": "2023",
+    "variable": "Transportation & Storage",
+    "seriesNo": "1.5",
+    "value": 6.8
+  },
+  {
+    "date": "2024",
+    "variable": "Transportation & Storage",
+    "seriesNo": "1.5",
+    "value": 26.7
+  },
+  {
+    "date": "2019",
+    "variable": "Water Transport & Supporting Services",
+    "seriesNo": "1.5.1",
+    "value": 10.9
+  },
+  {
+    "date": "2020",
+    "variable": "Water Transport & Supporting Services",
+    "seriesNo": "1.5.1",
+    "value": 31.5
+  },
+  {
+    "date": "2021",
+    "variable": "Water Transport & Supporting Services",
+    "seriesNo": "1.5.1",
+    "value": 88.3
+  },
+  {
+    "date": "2022",
+    "variable": "Water Transport & Supporting Services",
+    "seriesNo": "1.5.1",
+    "value": 77.2
+  },
+  {
+    "date": "2023",
+    "variable": "Water Transport & Supporting Services",
+    "seriesNo": "1.5.1",
+    "value": 5.8
+  },
+  {
+    "date": "2024",
+    "variable": "Water Transport & Supporting Services",
+    "seriesNo": "1.5.1",
+    "value": 27.6
+  },
+  {
+    "date": "2019",
+    "variable": "Freight Water Transport",
+    "seriesNo": "1.5.1.1",
+    "value": 10.7
+  },
+  {
+    "date": "2020",
+    "variable": "Freight Water Transport",
+    "seriesNo": "1.5.1.1",
+    "value": 31.4
+  },
+  {
+    "date": "2021",
+    "variable": "Freight Water Transport",
+    "seriesNo": "1.5.1.1",
+    "value": 89.4
+  },
+  {
+    "date": "2022",
+    "variable": "Freight Water Transport",
+    "seriesNo": "1.5.1.1",
+    "value": 78.1
+  },
+  {
+    "date": "2023",
+    "variable": "Freight Water Transport",
+    "seriesNo": "1.5.1.1",
+    "value": 5.1
+  },
+  {
+    "date": "2024",
+    "variable": "Freight Water Transport",
+    "seriesNo": "1.5.1.1",
+    "value": 27.3
+  },
+  {
+    "date": "2019",
+    "variable": "Other Water Transport Nec",
+    "seriesNo": "1.5.1.2",
+    "value": 12.2
+  },
+  {
+    "date": "2020",
+    "variable": "Other Water Transport Nec",
+    "seriesNo": "1.5.1.2",
+    "value": 31.7
+  },
+  {
+    "date": "2021",
+    "variable": "Other Water Transport Nec",
+    "seriesNo": "1.5.1.2",
+    "value": 53.4
+  },
+  {
+    "date": "2022",
+    "variable": "Other Water Transport Nec",
+    "seriesNo": "1.5.1.2",
+    "value": 40.9
+  },
+  {
+    "date": "2023",
+    "variable": "Other Water Transport Nec",
+    "seriesNo": "1.5.1.2",
+    "value": 29.9
+  },
+  {
+    "date": "2024",
+    "variable": "Other Water Transport Nec",
+    "seriesNo": "1.5.1.2",
+    "value": 36.1
+  },
+  {
+    "date": "2020",
+    "variable": "Land & Air Transport & Supporting Services",
+    "seriesNo": "1.5.2",
+    "value": 20.5
+  },
+  {
+    "date": "2021",
+    "variable": "Land & Air Transport & Supporting Services",
+    "seriesNo": "1.5.2",
+    "value": 7.2
+  },
+  {
+    "date": "2022",
+    "variable": "Land & Air Transport & Supporting Services",
+    "seriesNo": "1.5.2",
+    "value": 7.6
+  },
+  {
+    "date": "2023",
+    "variable": "Land & Air Transport & Supporting Services",
+    "seriesNo": "1.5.2",
+    "value": 37.1
+  },
+  {
+    "date": "2019",
+    "variable": "Warehousing, Post & Courier Services",
+    "seriesNo": "1.5.3",
+    "value": 9.9
+  },
+  {
+    "date": "2020",
+    "variable": "Warehousing, Post & Courier Services",
+    "seriesNo": "1.5.3",
+    "value": 14.3
+  },
+  {
+    "date": "2021",
+    "variable": "Warehousing, Post & Courier Services",
+    "seriesNo": "1.5.3",
+    "value": 13.2
+  },
+  {
+    "date": "2022",
+    "variable": "Warehousing, Post & Courier Services",
+    "seriesNo": "1.5.3",
+    "value": 19.4
+  },
+  {
+    "date": "2023",
+    "variable": "Warehousing, Post & Courier Services",
+    "seriesNo": "1.5.3",
+    "value": 11.5
+  },
+  {
+    "date": "2024",
+    "variable": "Warehousing, Post & Courier Services",
+    "seriesNo": "1.5.3",
+    "value": 12.5
+  },
+  {
+    "date": "2019",
+    "variable": "Information & Communications",
+    "seriesNo": "1.6",
+    "value": 0.6
+  },
+  {
+    "date": "2020",
+    "variable": "Information & Communications",
+    "seriesNo": "1.6",
+    "value": -4.6
+  },
+  {
+    "date": "2021",
+    "variable": "Information & Communications",
+    "seriesNo": "1.6",
+    "value": -4.9
+  },
+  {
+    "date": "2022",
+    "variable": "Information & Communications",
+    "seriesNo": "1.6",
+    "value": -9.8
+  },
+  {
+    "date": "2023",
+    "variable": "Information & Communications",
+    "seriesNo": "1.6",
+    "value": 0.9
+  },
+  {
+    "date": "2024",
+    "variable": "Information & Communications",
+    "seriesNo": "1.6",
+    "value": 6.4
+  },
+  {
+    "date": "2019",
+    "variable": "Finance & Insurance",
+    "seriesNo": "1.7",
+    "value": 6.9
+  },
+  {
+    "date": "2020",
+    "variable": "Finance & Insurance",
+    "seriesNo": "1.7",
+    "value": 8.0
+  },
+  {
+    "date": "2021",
+    "variable": "Finance & Insurance",
+    "seriesNo": "1.7",
+    "value": 8.1
+  },
+  {
+    "date": "2022",
+    "variable": "Finance & Insurance",
+    "seriesNo": "1.7",
+    "value": 6.6
+  },
+  {
+    "date": "2023",
+    "variable": "Finance & Insurance",
+    "seriesNo": "1.7",
+    "value": 9.5
+  },
+  {
+    "date": "2024",
+    "variable": "Finance & Insurance",
+    "seriesNo": "1.7",
+    "value": 8.7
+  },
+  {
+    "date": "2019",
+    "variable": "Financial Services",
+    "seriesNo": "1.7.1",
+    "value": 7.5
+  },
+  {
+    "date": "2020",
+    "variable": "Financial Services",
+    "seriesNo": "1.7.1",
+    "value": 8.4
+  },
+  {
+    "date": "2021",
+    "variable": "Financial Services",
+    "seriesNo": "1.7.1",
+    "value": 8.2
+  },
+  {
+    "date": "2022",
+    "variable": "Financial Services",
+    "seriesNo": "1.7.1",
+    "value": 6.6
+  },
+  {
+    "date": "2023",
+    "variable": "Financial Services",
+    "seriesNo": "1.7.1",
+    "value": 9.5
+  },
+  {
+    "date": "2024",
+    "variable": "Financial Services",
+    "seriesNo": "1.7.1",
+    "value": 8.6
+  },
+  {
+    "date": "2019",
+    "variable": "Banks",
+    "seriesNo": "1.7.1.1",
+    "value": 13.7
+  },
+  {
+    "date": "2020",
+    "variable": "Banks",
+    "seriesNo": "1.7.1.1",
+    "value": 17.6
+  },
+  {
+    "date": "2021",
+    "variable": "Banks",
+    "seriesNo": "1.7.1.1",
+    "value": 27.2
+  },
+  {
+    "date": "2022",
+    "variable": "Banks",
+    "seriesNo": "1.7.1.1",
+    "value": 32.7
+  },
+  {
+    "date": "2023",
+    "variable": "Banks",
+    "seriesNo": "1.7.1.1",
+    "value": 36.8
+  },
+  {
+    "date": "2024",
+    "variable": "Banks",
+    "seriesNo": "1.7.1.1",
+    "value": 50.0
+  },
+  {
+    "date": "2019",
+    "variable": "Holding Companies",
+    "seriesNo": "1.7.1.2",
+    "value": 6.5
+  },
+  {
+    "date": "2020",
+    "variable": "Holding Companies",
+    "seriesNo": "1.7.1.2",
+    "value": 8.1
+  },
+  {
+    "date": "2021",
+    "variable": "Holding Companies",
+    "seriesNo": "1.7.1.2",
+    "value": 7.8
+  },
+  {
+    "date": "2022",
+    "variable": "Holding Companies",
+    "seriesNo": "1.7.1.2",
+    "value": 6.1
+  },
+  {
+    "date": "2023",
+    "variable": "Holding Companies",
+    "seriesNo": "1.7.1.2",
+    "value": 8.6
+  },
+  {
+    "date": "2024",
+    "variable": "Holding Companies",
+    "seriesNo": "1.7.1.2",
+    "value": 8.0
+  },
+  {
+    "date": "2019",
+    "variable": "Other Financial Services",
+    "seriesNo": "1.7.1.3",
+    "value": 16.6
+  },
+  {
+    "date": "2020",
+    "variable": "Other Financial Services",
+    "seriesNo": "1.7.1.3",
+    "value": 9.8
+  },
+  {
+    "date": "2021",
+    "variable": "Other Financial Services",
+    "seriesNo": "1.7.1.3",
+    "value": 9.0
+  },
+  {
+    "date": "2022",
+    "variable": "Other Financial Services",
+    "seriesNo": "1.7.1.3",
+    "value": 7.0
+  },
+  {
+    "date": "2023",
+    "variable": "Other Financial Services",
+    "seriesNo": "1.7.1.3",
+    "value": 14.2
+  },
+  {
+    "date": "2024",
+    "variable": "Other Financial Services",
+    "seriesNo": "1.7.1.3",
+    "value": 8.9
+  },
+  {
+    "date": "2019",
+    "variable": "Insurance Services",
+    "seriesNo": "1.7.2",
+    "value": -18.3
+  },
+  {
+    "date": "2020",
+    "variable": "Insurance Services",
+    "seriesNo": "1.7.2",
+    "value": -11.7
+  },
+  {
+    "date": "2021",
+    "variable": "Insurance Services",
+    "seriesNo": "1.7.2",
+    "value": 1.1
+  },
+  {
+    "date": "2022",
+    "variable": "Insurance Services",
+    "seriesNo": "1.7.2",
+    "value": 9.8
+  },
+  {
+    "date": "2023",
+    "variable": "Insurance Services",
+    "seriesNo": "1.7.2",
+    "value": 11.3
+  },
+  {
+    "date": "2024",
+    "variable": "Insurance Services",
+    "seriesNo": "1.7.2",
+    "value": 14.4
+  },
+  {
+    "date": "2019",
+    "variable": "Real Estate",
+    "seriesNo": "1.8",
+    "value": 4.8
+  },
+  {
+    "date": "2020",
+    "variable": "Real Estate",
+    "seriesNo": "1.8",
+    "value": 1.2
+  },
+  {
+    "date": "2021",
+    "variable": "Real Estate",
+    "seriesNo": "1.8",
+    "value": 2.4
+  },
+  {
+    "date": "2022",
+    "variable": "Real Estate",
+    "seriesNo": "1.8",
+    "value": 5.7
+  },
+  {
+    "date": "2023",
+    "variable": "Real Estate",
+    "seriesNo": "1.8",
+    "value": 1.9
+  },
+  {
+    "date": "2024",
+    "variable": "Real Estate",
+    "seriesNo": "1.8",
+    "value": 6.0
+  },
+  {
+    "date": "2019",
+    "variable": "Professional And Administrative & Support Services",
+    "seriesNo": "1.9",
+    "value": 4.7
+  },
+  {
+    "date": "2020",
+    "variable": "Professional And Administrative & Support Services",
+    "seriesNo": "1.9",
+    "value": 2.0
+  },
+  {
+    "date": "2021",
+    "variable": "Professional And Administrative & Support Services",
+    "seriesNo": "1.9",
+    "value": 1.3
+  },
+  {
+    "date": "2022",
+    "variable": "Professional And Administrative & Support Services",
+    "seriesNo": "1.9",
+    "value": 3.6
+  },
+  {
+    "date": "2023",
+    "variable": "Professional And Administrative & Support Services",
+    "seriesNo": "1.9",
+    "value": 6.9
+  },
+  {
+    "date": "2024",
+    "variable": "Professional And Administrative & Support Services",
+    "seriesNo": "1.9",
+    "value": 12.9
+  },
+  {
+    "date": "2019",
+    "variable": "Others",
+    "seriesNo": "1.10",
+    "value": 5.3
+  },
+  {
+    "date": "2020",
+    "variable": "Others",
+    "seriesNo": "1.10",
+    "value": -1.8
+  },
+  {
+    "date": "2021",
+    "variable": "Others",
+    "seriesNo": "1.10",
+    "value": 3.2
+  },
+  {
+    "date": "2022",
+    "variable": "Others",
+    "seriesNo": "1.10",
+    "value": 19.8
+  },
+  {
+    "date": "2023",
+    "variable": "Others",
+    "seriesNo": "1.10",
+    "value": 28.8
+  },
+  {
+    "date": "2024",
+    "variable": "Others",
+    "seriesNo": "1.10",
+    "value": 16.4
+  }
+]
