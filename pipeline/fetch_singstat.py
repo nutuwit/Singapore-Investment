@@ -16,35 +16,12 @@ Query parameters:
   timeFilter       str   Filter to a specific period, e.g. "2023 1H", "2022 Q1".
   between          str   Filter values to a range, e.g. "0, 9000" (URL-encode comma).
   search           str   Text search within row labels.
-
-JSON response structure:
-  {
-    "Data": {
-      "row": [
-        {
-          "rowText":  "<series label>",
-          "seriesNo": "<series number, e.g. 1.1>",
-          "columns": [
-            {"key": "<period, e.g. '2023 1H'>", "value": "<numeric string>"},
-            ...
-          ]
-        },
-        ...
-      ],
-      "totalRow": 42        ← total number of series rows in the table (use for pagination)
-    }
-  }
-
-Pagination note:
-  offset paginates over *series rows*, not individual data points.
-  A table with 42 series and 300 time periods = 42 rows, each with 300 columns.
-  With limit=3000 most tables fit in a single request.
-  Use totalRow to compute required pages upfront instead of probing with an empty fetch.
 """
 
 import json
 import os
 import time
+import re
 from urllib.request import Request, urlopen
 from urllib.parse import urlencode
 from urllib.error import HTTPError, URLError
@@ -66,16 +43,28 @@ HEADERS = {
 # Tables to fetch: { dataset_name: { tableId, seriesNoORrowNo (optional), ... } }
 SINGSTAT_TABLES = {
     "gdp_expenditure": {
-        "tableId":        "M015831",
+        "tableId":        "M014871",
         "seriesNoORrowNo": None,   # fetch all series
         "limit":          3000,
         "sortBy":         "key asc",
     },
-    "industrial_production": {
+    "total_manufacturing": {
         "tableId":        "M354891",
         "seriesNoORrowNo": None,
-        "limit":          3000,
+        "limit":          4000,
         "sortBy":         "key asc",
+    },
+    "manufacturing_va_by_industry": {
+        "tableId":        "M354861",
+        "seriesNoORrowNo": None,
+        "limit":          3000,
+        "sortBy":         "key asc",       
+    },
+    "services_industry" : {
+        "tableId":        "M601481",
+        "seriesNoORrowNo": None,
+        "limit":          3000,
+        "sortBy":         "key asc",          
     },
     "merchandise_exports": {
         "tableId":        "M780141",
@@ -83,6 +72,43 @@ SINGSTAT_TABLES = {
         "limit":          3000,
         "sortBy":         "key asc",
     },
+    "income_FDI_country" : {
+        "tableId":        "M083901",
+        "seriesNoORrowNo": None,
+        "limit":          3000,
+        "sortBy":         "key asc",        
+    },
+    "return_FDI_country" : {
+        "tableId":        "M084001",
+        "seriesNoORrowNo": None,
+        "limit":          3000,
+        "sortBy":         "key asc",          
+    },
+    "income_FDI_industry" : {
+        "tableId":        "M084871",
+        "seriesNoORrowNo": None,
+        "limit":          3000,
+        "sortBy":         "key asc",        
+    },
+    "return_FDI_industry" : {
+        "tableId":        "M084911",
+        "seriesNoORrowNo": None,
+        "limit":          3000,
+        "sortBy":         "key asc",          
+    },
+    "gdp_growth_sector" : {
+        "tableId":        "M015631",
+        "seriesNoORrowNo": None,
+        "limit":          3000,
+        "sortBy":         "key asc",        
+    },
+    "gdp_industry" : {
+        "tableId":        "M015652",
+        "seriesNoORrowNo": None,
+        "limit":          3000,
+        "sortBy":         "key asc"        
+    },
+    
     "cpi": {
         "tableId":        "M212911",
         "seriesNoORrowNo": None,
@@ -98,7 +124,6 @@ os.makedirs(RAW_DIR, exist_ok=True)
 
 def _build_url(table_id: str, params: dict) -> str:
     """Build the full API URL with encoded query parameters."""
-    # Remove None values; urlencode handles the rest
     clean = {k: v for k, v in params.items() if v is not None}
     return f"{BASE_URL}/{table_id}?{urlencode(clean)}"
 
@@ -154,24 +179,20 @@ def fetch_singstat_table(
     time_filter:       str | None = None,
     between:           str | None = None,
     search:            str | None = None,
+    start_year:        int | str | None = 2019 # Defaulting to 2019
 ) -> pd.DataFrame:
     """
     Fetch a SingStat TableBuilder dataset and return a tidy DataFrame.
 
     Handles pagination automatically: if the response contains exactly `limit`
     rows, it re-fetches with incremented offset until exhausted.
-
-    Returns
-    -------
-    pd.DataFrame with columns:
-        date      (str)   — period label from the API, e.g. "2023 1H", "2022 Q3"
-        variable  (str)   — series/row label (rowText)
-        seriesNo  (str)   — series number, e.g. "1.1"
-        value     (float) — numeric value (NaN where API returns "na" or "")
     """
     all_rows: list[dict] = []
     current_offset       = offset
-    total_rows: int | None = None          # populated from first response
+    total_rows: int | None = None          
+
+    # Convert start_year to integer once if provided
+    min_year = int(start_year) if start_year is not None else None
 
     while True:
         params = {
@@ -194,15 +215,23 @@ def fetch_singstat_table(
         if not rows:
             break
 
-        # Read totalRow from first response so we know upfront how many pages are needed
         if total_rows is None:
             total_rows = data_block.get("totalRow")
 
-        # Flatten: each row has N columns (time periods)
         for row in rows:
             row_text      = row.get("rowText", "")
             series_no_val = row.get("seriesNo", "")
             for col in row.get("columns", []):
+                date_key = str(col.get("key", "")).strip()
+                
+                # Regex filtering to enforce start_year
+                if min_year is not None:
+                    year_match = re.search(r'\d{4}', date_key)
+                    if year_match:
+                        extracted_year = int(year_match.group(0))
+                        if extracted_year < min_year:
+                            continue  # Skip this specific date
+
                 raw_val = col.get("value", "")
                 try:
                     value = float(raw_val)
@@ -210,7 +239,7 @@ def fetch_singstat_table(
                     value = float("nan")  # "na", "", blanks
 
                 all_rows.append({
-                    "date":     col.get("key", ""),
+                    "date":     date_key,
                     "variable": row_text,
                     "seriesNo": series_no_val,
                     "value":    value,
@@ -218,10 +247,8 @@ def fetch_singstat_table(
 
         current_offset += len(rows)
 
-        # Stop when all series rows have been fetched
         if total_rows is not None and current_offset >= total_rows:
             break
-        # Fallback: stop when a partial page is returned (no totalRow field)
         if len(rows) < limit:
             break
 
@@ -231,7 +258,6 @@ def fetch_singstat_table(
 
     df = pd.DataFrame(all_rows)
 
-    # Save raw JSON + CSV
     out_csv  = os.path.join(RAW_DIR, f"{dataset_name}.csv")
     out_json = os.path.join(RAW_DIR, f"{dataset_name}.json")
     df.to_csv(out_csv, index=False)
@@ -259,6 +285,7 @@ def fetch_all_singstat() -> dict[str, pd.DataFrame]:
                 time_filter  = cfg.get("timeFilter"),
                 between      = cfg.get("between"),
                 search       = cfg.get("search"),
+                start_year   = 2019 # Passed strictly here to enforce 2019 start
             )
         except Exception as e:
             print(f"  [ERROR] {name}: {e}")
@@ -275,10 +302,13 @@ if __name__ == "__main__":
     df = fetch_singstat_table(
         table_id     = "M451121",
         dataset_name = "merch_exports_machinery_test",
-        limit        = 3000,        # single page; we'll slice for display
-        sort_by      = "key desc",  # most recent first
+        limit        = 4000,        
+        sort_by      = "key desc",  
+        start_year   = 2019         
     )
-    print(df.head(10).to_string(index=False))
+    # Output the bottom of the dataframe to verify oldest entries
+    print(df.tail(10).to_string(index=False))
 
-    # Uncomment to fetch all tables:
-    # fetch_all_singstat()
+    print("\n=== Commencing Full Fetch ===")
+    # Automatically fetch all tables defined in SINGSTAT_TABLES
+    fetch_all_singstat()

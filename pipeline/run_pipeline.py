@@ -90,7 +90,7 @@ def run(sources: list[str] | None = None, dry_run: bool = False):
 
     # Write a combined summary CSV per source group
     import pandas as pd
-    for name, df in all_results.items():
+    for name, df in  all_results.items():
         if df.empty:
             continue
         out = os.path.join(PROCESSED_DIR, f"{name}.csv")
