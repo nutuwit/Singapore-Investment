@@ -1,155 +1,155 @@
 date,variable,seriesNo,value
-2019,Total Manufacturing,1,92204.3
-2020,Total Manufacturing,1,88614.6
-2021,Total Manufacturing,1,115076.2
-2022,Total Manufacturing,1,135951.6
-2023,Total Manufacturing,1,108605.9
-2024,Total Manufacturing,1,116595.3
-2025,Total Manufacturing,1,132813.8
-2019,"Food, Beverage & Tobacco",1.10,4415.4
-2020,"Food, Beverage & Tobacco",1.10,3962.0
-2021,"Food, Beverage & Tobacco",1.10,4182.4
-2022,"Food, Beverage & Tobacco",1.10,4613.3
-2023,"Food, Beverage & Tobacco",1.10,4067.1
-2024,"Food, Beverage & Tobacco",1.10,6790.1
-2025,"Food, Beverage & Tobacco",1.10,6551.7
-2019,Textiles & Textile Manufactures,1.13,23.1
-2020,Textiles & Textile Manufactures,1.13,11.6
-2021,Textiles & Textile Manufactures,1.13,12.3
-2022,Textiles & Textile Manufactures,1.13,14.0
-2023,Textiles & Textile Manufactures,1.13,19.8
-2024,Textiles & Textile Manufactures,1.13,16.8
-2025,Textiles & Textile Manufactures,1.13,17.2
-2019,Wearing Apparel,1.14,96.7
-2020,Wearing Apparel,1.14,79.8
-2021,Wearing Apparel,1.14,75.2
-2022,Wearing Apparel,1.14,105.8
-2023,Wearing Apparel,1.14,80.8
-2024,Wearing Apparel,1.14,109.5
-2025,Wearing Apparel,1.14,99.3
-2019,"Leather, Leather Products & Footwear",1.15,52.7
-2020,"Leather, Leather Products & Footwear",1.15,30.7
-2021,"Leather, Leather Products & Footwear",1.15,42.6
-2022,"Leather, Leather Products & Footwear",1.15,42.1
-2023,"Leather, Leather Products & Footwear",1.15,40.4
-2024,"Leather, Leather Products & Footwear",1.15,91.0
-2025,"Leather, Leather Products & Footwear",1.15,94.4
-2019,Wood & Wood Products,1.16,111.1
-2020,Wood & Wood Products,1.16,109.9
-2021,Wood & Wood Products,1.16,133.5
-2022,Wood & Wood Products,1.16,179.3
-2023,Wood & Wood Products,1.16,161.4
-2024,Wood & Wood Products,1.16,174.2
-2025,Wood & Wood Products,1.16,171.6
-2019,Paper & Paper Products,1.17,245.8
-2020,Paper & Paper Products,1.17,263.0
-2021,Paper & Paper Products,1.17,256.8
-2022,Paper & Paper Products,1.17,251.7
-2023,Paper & Paper Products,1.17,250.7
-2024,Paper & Paper Products,1.17,212.1
-2025,Paper & Paper Products,1.17,165.1
-2019,Printing & Reproduction Of Recorded Media,1.18,475.2
-2020,Printing & Reproduction Of Recorded Media,1.18,331.3
-2021,Printing & Reproduction Of Recorded Media,1.18,323.1
-2022,Printing & Reproduction Of Recorded Media,1.18,338.0
-2023,Printing & Reproduction Of Recorded Media,1.18,340.2
-2024,Printing & Reproduction Of Recorded Media,1.18,341.2
-2025,Printing & Reproduction Of Recorded Media,1.18,375.2
-2019,Refined Petroleum Products,1.19,787.5
-2020,Refined Petroleum Products,1.19,1586.2
-2021,Refined Petroleum Products,1.19,5106.8
-2022,Refined Petroleum Products,1.19,7350.8
-2023,Refined Petroleum Products,1.19,9517.2
-2024,Refined Petroleum Products,1.19,7209.9
-2025,Refined Petroleum Products,1.19,4887.9
-2019,Chemicals & Chemical Products,1.20,10899.1
-2020,Chemicals & Chemical Products,1.20,10792.5
-2021,Chemicals & Chemical Products,1.20,14905.9
-2022,Chemicals & Chemical Products,1.20,14112.7
-2023,Chemicals & Chemical Products,1.20,10561.9
-2024,Chemicals & Chemical Products,1.20,10114.4
-2025,Chemicals & Chemical Products,1.20,10223.6
-2019,Pharmaceutical & Biological Products,1.21,6185.8
-2020,Pharmaceutical & Biological Products,1.21,8771.4
-2021,Pharmaceutical & Biological Products,1.21,8188.3
-2022,Pharmaceutical & Biological Products,1.21,8841.1
-2023,Pharmaceutical & Biological Products,1.21,8766.7
-2024,Pharmaceutical & Biological Products,1.21,4288.0
-2025,Pharmaceutical & Biological Products,1.21,7338.5
-2019,Rubber & Plastic Products,1.22,764.9
-2020,Rubber & Plastic Products,1.22,804.6
-2021,Rubber & Plastic Products,1.22,913.5
-2022,Rubber & Plastic Products,1.22,942.3
-2023,Rubber & Plastic Products,1.22,925.0
-2024,Rubber & Plastic Products,1.22,927.1
-2025,Rubber & Plastic Products,1.22,891.0
-2019,Non-Metallic Mineral Products,1.23,326.7
-2020,Non-Metallic Mineral Products,1.23,231.8
-2021,Non-Metallic Mineral Products,1.23,324.8
-2022,Non-Metallic Mineral Products,1.23,370.9
-2023,Non-Metallic Mineral Products,1.23,418.1
-2024,Non-Metallic Mineral Products,1.23,419.3
-2025,Non-Metallic Mineral Products,1.23,401.2
-2019,Basic Metal,1.24,160.8
-2020,Basic Metal,1.24,176.9
-2021,Basic Metal,1.24,303.6
-2022,Basic Metal,1.24,263.9
-2023,Basic Metal,1.24,228.0
-2024,Basic Metal,1.24,214.5
-2025,Basic Metal,1.24,150.8
-2019,Fabricated Metal Products,1.25,2272.5
-2020,Fabricated Metal Products,1.25,2077.1
-2021,Fabricated Metal Products,1.25,2381.2
-2022,Fabricated Metal Products,1.25,2561.5
-2023,Fabricated Metal Products,1.25,2385.4
-2024,Fabricated Metal Products,1.25,2472.4
-2025,Fabricated Metal Products,1.25,2549.8
-2019,"Computer, Electronic & Optical Products",1.26,43381.6
-2020,"Computer, Electronic & Optical Products",1.26,38875.2
-2021,"Computer, Electronic & Optical Products",1.26,55080.2
-2022,"Computer, Electronic & Optical Products",1.26,68003.1
-2023,"Computer, Electronic & Optical Products",1.26,44069.2
-2024,"Computer, Electronic & Optical Products",1.26,50235.5
-2025,"Computer, Electronic & Optical Products",1.26,61075.7
-2019,Electrical Equipment,1.27,1027.2
-2020,Electrical Equipment,1.27,942.6
-2021,Electrical Equipment,1.27,956.9
-2022,Electrical Equipment,1.27,1142.1
-2023,Electrical Equipment,1.27,1032.1
-2024,Electrical Equipment,1.27,1016.3
-2025,Electrical Equipment,1.27,946.7
-2019,Machinery & Equipment,1.28,7683.5
-2020,Machinery & Equipment,1.28,8304.5
-2021,Machinery & Equipment,1.28,10274.4
-2022,Machinery & Equipment,1.28,14523.5
-2023,Machinery & Equipment,1.28,12944.5
-2024,Machinery & Equipment,1.28,14860.8
-2025,Machinery & Equipment,1.28,18689.3
-2019,"Motor Vehicles, Trailers & Semi-Trailers",1.29,427.0
-2020,"Motor Vehicles, Trailers & Semi-Trailers",1.29,360.3
-2021,"Motor Vehicles, Trailers & Semi-Trailers",1.29,344.8
-2022,"Motor Vehicles, Trailers & Semi-Trailers",1.29,352.4
-2023,"Motor Vehicles, Trailers & Semi-Trailers",1.29,363.2
-2024,"Motor Vehicles, Trailers & Semi-Trailers",1.29,385.6
-2025,"Motor Vehicles, Trailers & Semi-Trailers",1.29,345.3
-2019,Other Transport Equipment,1.30,6354.7
-2020,Other Transport Equipment,1.30,4691.2
-2021,Other Transport Equipment,1.30,5209.3
-2022,Other Transport Equipment,1.30,6088.4
-2023,Other Transport Equipment,1.30,6608.1
-2024,Other Transport Equipment,1.30,8273.5
-2025,Other Transport Equipment,1.30,9065.0
-2019,Furniture,1.31,281.4
-2020,Furniture,1.31,207.6
-2021,Furniture,1.31,256.1
-2022,Furniture,1.31,222.1
-2023,Furniture,1.31,231.0
-2024,Furniture,1.31,229.9
-2025,Furniture,1.31,227.6
-2019,Other Manufacturing Industries,1.32,6231.6
-2020,Other Manufacturing Industries,1.32,6004.2
-2021,Other Manufacturing Industries,1.32,5804.5
-2022,Other Manufacturing Industries,1.32,5632.7
-2023,Other Manufacturing Industries,1.32,5594.9
-2024,Other Manufacturing Industries,1.32,8213.3
-2025,Other Manufacturing Industries,1.32,8546.9
+2019-01-01,Total Manufacturing,1,92204.3
+2019-01-01,"Food, Beverage & Tobacco",1.10,4415.4
+2019-01-01,Textiles & Textile Manufactures,1.13,23.1
+2019-01-01,Wearing Apparel,1.14,96.7
+2019-01-01,"Leather, Leather Products & Footwear",1.15,52.7
+2019-01-01,Wood & Wood Products,1.16,111.1
+2019-01-01,Paper & Paper Products,1.17,245.8
+2019-01-01,Printing & Reproduction Of Recorded Media,1.18,475.2
+2019-01-01,Refined Petroleum Products,1.19,787.5
+2019-01-01,Chemicals & Chemical Products,1.20,10899.1
+2019-01-01,Pharmaceutical & Biological Products,1.21,6185.8
+2019-01-01,Rubber & Plastic Products,1.22,764.9
+2019-01-01,Non-Metallic Mineral Products,1.23,326.7
+2019-01-01,Basic Metal,1.24,160.8
+2019-01-01,Fabricated Metal Products,1.25,2272.5
+2019-01-01,"Computer, Electronic & Optical Products",1.26,43381.6
+2019-01-01,Electrical Equipment,1.27,1027.2
+2019-01-01,Machinery & Equipment,1.28,7683.5
+2019-01-01,"Motor Vehicles, Trailers & Semi-Trailers",1.29,427.0
+2019-01-01,Other Transport Equipment,1.30,6354.7
+2019-01-01,Furniture,1.31,281.4
+2019-01-01,Other Manufacturing Industries,1.32,6231.6
+2020-01-01,Total Manufacturing,1,88614.6
+2020-01-01,"Food, Beverage & Tobacco",1.10,3962.0
+2020-01-01,Textiles & Textile Manufactures,1.13,11.6
+2020-01-01,Wearing Apparel,1.14,79.8
+2020-01-01,"Leather, Leather Products & Footwear",1.15,30.7
+2020-01-01,Wood & Wood Products,1.16,109.9
+2020-01-01,Paper & Paper Products,1.17,263.0
+2020-01-01,Printing & Reproduction Of Recorded Media,1.18,331.3
+2020-01-01,Refined Petroleum Products,1.19,1586.2
+2020-01-01,Chemicals & Chemical Products,1.20,10792.5
+2020-01-01,Pharmaceutical & Biological Products,1.21,8771.4
+2020-01-01,Rubber & Plastic Products,1.22,804.6
+2020-01-01,Non-Metallic Mineral Products,1.23,231.8
+2020-01-01,Basic Metal,1.24,176.9
+2020-01-01,Fabricated Metal Products,1.25,2077.1
+2020-01-01,"Computer, Electronic & Optical Products",1.26,38875.2
+2020-01-01,Electrical Equipment,1.27,942.6
+2020-01-01,Machinery & Equipment,1.28,8304.5
+2020-01-01,"Motor Vehicles, Trailers & Semi-Trailers",1.29,360.3
+2020-01-01,Other Transport Equipment,1.30,4691.2
+2020-01-01,Furniture,1.31,207.6
+2020-01-01,Other Manufacturing Industries,1.32,6004.2
+2021-01-01,Total Manufacturing,1,115076.2
+2021-01-01,"Food, Beverage & Tobacco",1.10,4182.4
+2021-01-01,Textiles & Textile Manufactures,1.13,12.3
+2021-01-01,Wearing Apparel,1.14,75.2
+2021-01-01,"Leather, Leather Products & Footwear",1.15,42.6
+2021-01-01,Wood & Wood Products,1.16,133.5
+2021-01-01,Paper & Paper Products,1.17,256.8
+2021-01-01,Printing & Reproduction Of Recorded Media,1.18,323.1
+2021-01-01,Refined Petroleum Products,1.19,5106.8
+2021-01-01,Chemicals & Chemical Products,1.20,14905.9
+2021-01-01,Pharmaceutical & Biological Products,1.21,8188.3
+2021-01-01,Rubber & Plastic Products,1.22,913.5
+2021-01-01,Non-Metallic Mineral Products,1.23,324.8
+2021-01-01,Basic Metal,1.24,303.6
+2021-01-01,Fabricated Metal Products,1.25,2381.2
+2021-01-01,"Computer, Electronic & Optical Products",1.26,55080.2
+2021-01-01,Electrical Equipment,1.27,956.9
+2021-01-01,Machinery & Equipment,1.28,10274.4
+2021-01-01,"Motor Vehicles, Trailers & Semi-Trailers",1.29,344.8
+2021-01-01,Other Transport Equipment,1.30,5209.3
+2021-01-01,Furniture,1.31,256.1
+2021-01-01,Other Manufacturing Industries,1.32,5804.5
+2022-01-01,Total Manufacturing,1,135951.6
+2022-01-01,"Food, Beverage & Tobacco",1.10,4613.3
+2022-01-01,Textiles & Textile Manufactures,1.13,14.0
+2022-01-01,Wearing Apparel,1.14,105.8
+2022-01-01,"Leather, Leather Products & Footwear",1.15,42.1
+2022-01-01,Wood & Wood Products,1.16,179.3
+2022-01-01,Paper & Paper Products,1.17,251.7
+2022-01-01,Printing & Reproduction Of Recorded Media,1.18,338.0
+2022-01-01,Refined Petroleum Products,1.19,7350.8
+2022-01-01,Chemicals & Chemical Products,1.20,14112.7
+2022-01-01,Pharmaceutical & Biological Products,1.21,8841.1
+2022-01-01,Rubber & Plastic Products,1.22,942.3
+2022-01-01,Non-Metallic Mineral Products,1.23,370.9
+2022-01-01,Basic Metal,1.24,263.9
+2022-01-01,Fabricated Metal Products,1.25,2561.5
+2022-01-01,"Computer, Electronic & Optical Products",1.26,68003.1
+2022-01-01,Electrical Equipment,1.27,1142.1
+2022-01-01,Machinery & Equipment,1.28,14523.5
+2022-01-01,"Motor Vehicles, Trailers & Semi-Trailers",1.29,352.4
+2022-01-01,Other Transport Equipment,1.30,6088.4
+2022-01-01,Furniture,1.31,222.1
+2022-01-01,Other Manufacturing Industries,1.32,5632.7
+2023-01-01,Total Manufacturing,1,108605.9
+2023-01-01,"Food, Beverage & Tobacco",1.10,4067.1
+2023-01-01,Textiles & Textile Manufactures,1.13,19.8
+2023-01-01,Wearing Apparel,1.14,80.8
+2023-01-01,"Leather, Leather Products & Footwear",1.15,40.4
+2023-01-01,Wood & Wood Products,1.16,161.4
+2023-01-01,Paper & Paper Products,1.17,250.7
+2023-01-01,Printing & Reproduction Of Recorded Media,1.18,340.2
+2023-01-01,Refined Petroleum Products,1.19,9517.2
+2023-01-01,Chemicals & Chemical Products,1.20,10561.9
+2023-01-01,Pharmaceutical & Biological Products,1.21,8766.7
+2023-01-01,Rubber & Plastic Products,1.22,925.0
+2023-01-01,Non-Metallic Mineral Products,1.23,418.1
+2023-01-01,Basic Metal,1.24,228.0
+2023-01-01,Fabricated Metal Products,1.25,2385.4
+2023-01-01,"Computer, Electronic & Optical Products",1.26,44069.2
+2023-01-01,Electrical Equipment,1.27,1032.1
+2023-01-01,Machinery & Equipment,1.28,12944.5
+2023-01-01,"Motor Vehicles, Trailers & Semi-Trailers",1.29,363.2
+2023-01-01,Other Transport Equipment,1.30,6608.1
+2023-01-01,Furniture,1.31,231.0
+2023-01-01,Other Manufacturing Industries,1.32,5594.9
+2024-01-01,Total Manufacturing,1,116595.3
+2024-01-01,"Food, Beverage & Tobacco",1.10,6790.1
+2024-01-01,Textiles & Textile Manufactures,1.13,16.8
+2024-01-01,Wearing Apparel,1.14,109.5
+2024-01-01,"Leather, Leather Products & Footwear",1.15,91.0
+2024-01-01,Wood & Wood Products,1.16,174.2
+2024-01-01,Paper & Paper Products,1.17,212.1
+2024-01-01,Printing & Reproduction Of Recorded Media,1.18,341.2
+2024-01-01,Refined Petroleum Products,1.19,7209.9
+2024-01-01,Chemicals & Chemical Products,1.20,10114.4
+2024-01-01,Pharmaceutical & Biological Products,1.21,4288.0
+2024-01-01,Rubber & Plastic Products,1.22,927.1
+2024-01-01,Non-Metallic Mineral Products,1.23,419.3
+2024-01-01,Basic Metal,1.24,214.5
+2024-01-01,Fabricated Metal Products,1.25,2472.4
+2024-01-01,"Computer, Electronic & Optical Products",1.26,50235.5
+2024-01-01,Electrical Equipment,1.27,1016.3
+2024-01-01,Machinery & Equipment,1.28,14860.8
+2024-01-01,"Motor Vehicles, Trailers & Semi-Trailers",1.29,385.6
+2024-01-01,Other Transport Equipment,1.30,8273.5
+2024-01-01,Furniture,1.31,229.9
+2024-01-01,Other Manufacturing Industries,1.32,8213.3
+2025-01-01,Total Manufacturing,1,132813.8
+2025-01-01,"Food, Beverage & Tobacco",1.10,6551.7
+2025-01-01,Textiles & Textile Manufactures,1.13,17.2
+2025-01-01,Wearing Apparel,1.14,99.3
+2025-01-01,"Leather, Leather Products & Footwear",1.15,94.4
+2025-01-01,Wood & Wood Products,1.16,171.6
+2025-01-01,Paper & Paper Products,1.17,165.1
+2025-01-01,Printing & Reproduction Of Recorded Media,1.18,375.2
+2025-01-01,Refined Petroleum Products,1.19,4887.9
+2025-01-01,Chemicals & Chemical Products,1.20,10223.6
+2025-01-01,Pharmaceutical & Biological Products,1.21,7338.5
+2025-01-01,Rubber & Plastic Products,1.22,891.0
+2025-01-01,Non-Metallic Mineral Products,1.23,401.2
+2025-01-01,Basic Metal,1.24,150.8
+2025-01-01,Fabricated Metal Products,1.25,2549.8
+2025-01-01,"Computer, Electronic & Optical Products",1.26,61075.7
+2025-01-01,Electrical Equipment,1.27,946.7
+2025-01-01,Machinery & Equipment,1.28,18689.3
+2025-01-01,"Motor Vehicles, Trailers & Semi-Trailers",1.29,345.3
+2025-01-01,Other Transport Equipment,1.30,9065.0
+2025-01-01,Furniture,1.31,227.6
+2025-01-01,Other Manufacturing Industries,1.32,8546.9

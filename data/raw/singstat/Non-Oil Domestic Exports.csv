@@ -1,0 +1,1409 @@
+date,variable,seriesNo,value
+2019-01-01,Total Electronic Products,1,3463503.1
+2019-01-01,Disk Drives,1.1,50460.4
+2019-01-01,PCB Assembled,1.2,232072.8
+2019-01-01,Integrated Circuits,1.3,1903898.0
+2019-01-01,Personal Computers,1.4,306067.2
+2019-01-01,Telecommunications Equipment,1.6,198626.1
+2019-01-01,Consumer Electronics,1.7,44965.9
+2019-01-01,Parts Of Integrated Circuits,1.8,49649.5
+2019-01-01,Diodes And Transistors,1.9,204987.1
+2019-01-01,Non-Electronic Products,2,10364841.0
+2019-01-01,Specialised Machinery,2.0,783458.0
+2019-01-01,Total Chemicals,2.1,4445326.0
+2019-01-01,Pharmaceuticals,2.1.1,1718065.0
+2019-01-01,Petrochemicals,2.1.2,1345900.0
+2019-01-01,Electrical Circuit Apparatus,2.2,174899.9
+2019-01-01,Electrical Machinery & Apparatus Nes,2.3,263259.8
+2019-02-01,Total Electronic Products,1,3010978.5
+2019-02-01,Disk Drives,1.1,37075.7
+2019-02-01,PCB Assembled,1.2,198425.3
+2019-02-01,Integrated Circuits,1.3,1796867.6
+2019-02-01,Personal Computers,1.4,208442.1
+2019-02-01,Telecommunications Equipment,1.6,160481.6
+2019-02-01,Consumer Electronics,1.7,34806.4
+2019-02-01,Parts Of Integrated Circuits,1.8,34417.1
+2019-02-01,Diodes And Transistors,1.9,147863.3
+2019-02-01,Non-Electronic Products,2,10160990.0
+2019-02-01,Specialised Machinery,2.0,571901.0
+2019-02-01,Total Chemicals,2.1,3863730.0
+2019-02-01,Pharmaceuticals,2.1.1,1365029.0
+2019-02-01,Petrochemicals,2.1.2,1262328.0
+2019-02-01,Electrical Circuit Apparatus,2.2,126420.0
+2019-02-01,Electrical Machinery & Apparatus Nes,2.3,194751.3
+2019-03-01,Total Electronic Products,1,2710098.0
+2019-03-01,Disk Drives,1.1,42457.8
+2019-03-01,PCB Assembled,1.2,224357.5
+2019-03-01,Integrated Circuits,1.3,1354654.3
+2019-03-01,Personal Computers,1.4,231448.0
+2019-03-01,Telecommunications Equipment,1.6,184864.6
+2019-03-01,Consumer Electronics,1.7,51036.0
+2019-03-01,Parts Of Integrated Circuits,1.8,37454.2
+2019-03-01,Diodes And Transistors,1.9,188216.1
+2019-03-01,Non-Electronic Products,2,10943564.0
+2019-03-01,Specialised Machinery,2.0,953553.0
+2019-03-01,Total Chemicals,2.1,3872767.0
+2019-03-01,Pharmaceuticals,2.1.1,1051429.0
+2019-03-01,Petrochemicals,2.1.2,1358946.0
+2019-03-01,Electrical Circuit Apparatus,2.2,166566.0
+2019-03-01,Electrical Machinery & Apparatus Nes,2.3,258411.8
+2019-04-01,Total Electronic Products,1,3124677.5
+2019-04-01,Disk Drives,1.1,64551.7
+2019-04-01,PCB Assembled,1.2,212954.8
+2019-04-01,Integrated Circuits,1.3,1455467.3
+2019-04-01,Personal Computers,1.4,464495.4
+2019-04-01,Telecommunications Equipment,1.6,189029.5
+2019-04-01,Consumer Electronics,1.7,46671.2
+2019-04-01,Parts Of Integrated Circuits,1.8,45492.1
+2019-04-01,Diodes And Transistors,1.9,188274.2
+2019-04-01,Non-Electronic Products,2,10647820.0
+2019-04-01,Specialised Machinery,2.0,1065285.0
+2019-04-01,Total Chemicals,2.1,3636101.0
+2019-04-01,Pharmaceuticals,2.1.1,920216.0
+2019-04-01,Petrochemicals,2.1.2,1255009.0
+2019-04-01,Electrical Circuit Apparatus,2.2,152272.3
+2019-04-01,Electrical Machinery & Apparatus Nes,2.3,226595.8
+2019-05-01,Total Electronic Products,1,2950797.8
+2019-05-01,Disk Drives,1.1,40577.4
+2019-05-01,PCB Assembled,1.2,233304.4
+2019-05-01,Integrated Circuits,1.3,1417464.4
+2019-05-01,Personal Computers,1.4,243043.0
+2019-05-01,Telecommunications Equipment,1.6,174666.7
+2019-05-01,Consumer Electronics,1.7,60601.6
+2019-05-01,Parts Of Integrated Circuits,1.8,44785.9
+2019-05-01,Diodes And Transistors,1.9,241071.9
+2019-05-01,Non-Electronic Products,2,11516568.0
+2019-05-01,Specialised Machinery,2.0,896887.0
+2019-05-01,Total Chemicals,2.1,5036274.0
+2019-05-01,Pharmaceuticals,2.1.1,2245638.0
+2019-05-01,Petrochemicals,2.1.2,1314587.0
+2019-05-01,Electrical Circuit Apparatus,2.2,172791.3
+2019-05-01,Electrical Machinery & Apparatus Nes,2.3,238049.5
+2019-06-01,Total Electronic Products,1,2559336.9
+2019-06-01,Disk Drives,1.1,44906.5
+2019-06-01,PCB Assembled,1.2,210017.6
+2019-06-01,Integrated Circuits,1.3,1174570.0
+2019-06-01,Personal Computers,1.4,282419.4
+2019-06-01,Telecommunications Equipment,1.6,183402.4
+2019-06-01,Consumer Electronics,1.7,54690.8
+2019-06-01,Parts Of Integrated Circuits,1.8,37415.8
+2019-06-01,Diodes And Transistors,1.9,192139.0
+2019-06-01,Non-Electronic Products,2,9768876.0
+2019-06-01,Specialised Machinery,2.0,892392.0
+2019-06-01,Total Chemicals,2.1,3817895.0
+2019-06-01,Pharmaceuticals,2.1.1,1239248.0
+2019-06-01,Petrochemicals,2.1.2,1243192.0
+2019-06-01,Electrical Circuit Apparatus,2.2,148150.2
+2019-06-01,Electrical Machinery & Apparatus Nes,2.3,191752.0
+2019-07-01,Total Electronic Products,1,3159129.2
+2019-07-01,Disk Drives,1.1,43603.1
+2019-07-01,PCB Assembled,1.2,250667.8
+2019-07-01,Integrated Circuits,1.3,1616528.2
+2019-07-01,Personal Computers,1.4,239208.8
+2019-07-01,Telecommunications Equipment,1.6,205922.9
+2019-07-01,Consumer Electronics,1.7,68808.9
+2019-07-01,Parts Of Integrated Circuits,1.8,49695.0
+2019-07-01,Diodes And Transistors,1.9,176679.7
+2019-07-01,Non-Electronic Products,2,10789437.0
+2019-07-01,Specialised Machinery,2.0,884947.0
+2019-07-01,Total Chemicals,2.1,3881046.0
+2019-07-01,Pharmaceuticals,2.1.1,1095502.0
+2019-07-01,Petrochemicals,2.1.2,1348917.0
+2019-07-01,Electrical Circuit Apparatus,2.2,180230.2
+2019-07-01,Electrical Machinery & Apparatus Nes,2.3,213136.9
+2019-08-01,Total Electronic Products,1,3284255.8
+2019-08-01,Disk Drives,1.1,34433.7
+2019-08-01,PCB Assembled,1.2,273354.6
+2019-08-01,Integrated Circuits,1.3,1695319.7
+2019-08-01,Personal Computers,1.4,212108.7
+2019-08-01,Telecommunications Equipment,1.6,195522.3
+2019-08-01,Consumer Electronics,1.7,65875.4
+2019-08-01,Parts Of Integrated Circuits,1.8,41628.8
+2019-08-01,Diodes And Transistors,1.9,210738.5
+2019-08-01,Non-Electronic Products,2,10978439.0
+2019-08-01,Specialised Machinery,2.0,838278.0
+2019-08-01,Total Chemicals,2.1,3814307.0
+2019-08-01,Pharmaceuticals,2.1.1,1204464.0
+2019-08-01,Petrochemicals,2.1.2,1248279.0
+2019-08-01,Electrical Circuit Apparatus,2.2,166058.6
+2019-08-01,Electrical Machinery & Apparatus Nes,2.3,202625.2
+2019-09-01,Total Electronic Products,1,2792172.3
+2019-09-01,Disk Drives,1.1,43054.6
+2019-09-01,PCB Assembled,1.2,192593.1
+2019-09-01,Integrated Circuits,1.3,1393487.6
+2019-09-01,Personal Computers,1.4,213244.9
+2019-09-01,Telecommunications Equipment,1.6,175738.1
+2019-09-01,Consumer Electronics,1.7,70982.6
+2019-09-01,Parts Of Integrated Circuits,1.8,40440.7
+2019-09-01,Diodes And Transistors,1.9,197262.5
+2019-09-01,Non-Electronic Products,2,10495892.0
+2019-09-01,Specialised Machinery,2.0,943440.0
+2019-09-01,Total Chemicals,2.1,3834515.0
+2019-09-01,Pharmaceuticals,2.1.1,1277851.0
+2019-09-01,Petrochemicals,2.1.2,1225388.0
+2019-09-01,Electrical Circuit Apparatus,2.2,162830.8
+2019-09-01,Electrical Machinery & Apparatus Nes,2.3,209299.2
+2019-10-01,Total Electronic Products,1,3362344.8
+2019-10-01,Disk Drives,1.1,47437.9
+2019-10-01,PCB Assembled,1.2,248794.5
+2019-10-01,Integrated Circuits,1.3,1792643.5
+2019-10-01,Personal Computers,1.4,237582.4
+2019-10-01,Telecommunications Equipment,1.6,201903.1
+2019-10-01,Consumer Electronics,1.7,61770.0
+2019-10-01,Parts Of Integrated Circuits,1.8,50184.2
+2019-10-01,Diodes And Transistors,1.9,206742.0
+2019-10-01,Non-Electronic Products,2,10931261.0
+2019-10-01,Specialised Machinery,2.0,1228261.0
+2019-10-01,Total Chemicals,2.1,4111984.0
+2019-10-01,Pharmaceuticals,2.1.1,1564845.0
+2019-10-01,Petrochemicals,2.1.2,1255325.0
+2019-10-01,Electrical Circuit Apparatus,2.2,184614.3
+2019-10-01,Electrical Machinery & Apparatus Nes,2.3,253628.6
+2019-11-01,Total Electronic Products,1,3368060.0
+2019-11-01,Disk Drives,1.1,36258.7
+2019-11-01,PCB Assembled,1.2,245025.1
+2019-11-01,Integrated Circuits,1.3,1735168.2
+2019-11-01,Personal Computers,1.4,185448.0
+2019-11-01,Telecommunications Equipment,1.6,233569.0
+2019-11-01,Consumer Electronics,1.7,58779.6
+2019-11-01,Parts Of Integrated Circuits,1.8,58120.5
+2019-11-01,Diodes And Transistors,1.9,233796.8
+2019-11-01,Non-Electronic Products,2,10883719.0
+2019-11-01,Specialised Machinery,2.0,946665.0
+2019-11-01,Total Chemicals,2.1,3879392.0
+2019-11-01,Pharmaceuticals,2.1.1,1392511.0
+2019-11-01,Petrochemicals,2.1.2,1172853.0
+2019-11-01,Electrical Circuit Apparatus,2.2,167331.5
+2019-11-01,Electrical Machinery & Apparatus Nes,2.3,240073.1
+2019-12-01,Total Electronic Products,1,2994541.1
+2019-12-01,Disk Drives,1.1,53474.7
+2019-12-01,PCB Assembled,1.2,217908.3
+2019-12-01,Integrated Circuits,1.3,1430282.7
+2019-12-01,Personal Computers,1.4,196751.0
+2019-12-01,Telecommunications Equipment,1.6,226265.5
+2019-12-01,Consumer Electronics,1.7,67729.8
+2019-12-01,Parts Of Integrated Circuits,1.8,72774.0
+2019-12-01,Diodes And Transistors,1.9,200432.5
+2019-12-01,Non-Electronic Products,2,11115603.0
+2019-12-01,Specialised Machinery,2.0,1333897.0
+2019-12-01,Total Chemicals,2.1,3660379.0
+2019-12-01,Pharmaceuticals,2.1.1,1271992.0
+2019-12-01,Petrochemicals,2.1.2,1118694.0
+2019-12-01,Electrical Circuit Apparatus,2.2,164965.6
+2019-12-01,Electrical Machinery & Apparatus Nes,2.3,199662.2
+2020-01-01,Total Electronic Products,1,3013531.0
+2020-01-01,Disk Drives,1.1,38717.3
+2020-01-01,PCB Assembled,1.2,239351.0
+2020-01-01,Integrated Circuits,1.3,1514448.5
+2020-01-01,Personal Computers,1.4,207455.5
+2020-01-01,Telecommunications Equipment,1.6,152396.2
+2020-01-01,Consumer Electronics,1.7,52254.6
+2020-01-01,Parts Of Integrated Circuits,1.8,85679.2
+2020-01-01,Diodes And Transistors,1.9,204294.9
+2020-01-01,Non-Electronic Products,2,10357966.0
+2020-01-01,Specialised Machinery,2.0,1092419.0
+2020-01-01,Total Chemicals,2.1,3924845.0
+2020-01-01,Pharmaceuticals,2.1.1,1623645.0
+2020-01-01,Petrochemicals,2.1.2,1032651.0
+2020-01-01,Electrical Circuit Apparatus,2.2,155590.5
+2020-01-01,Electrical Machinery & Apparatus Nes,2.3,188741.1
+2020-02-01,Total Electronic Products,1,3087529.8
+2020-02-01,Disk Drives,1.1,33683.0
+2020-02-01,PCB Assembled,1.2,221427.5
+2020-02-01,Integrated Circuits,1.3,1587612.7
+2020-02-01,Personal Computers,1.4,143017.6
+2020-02-01,Telecommunications Equipment,1.6,171740.4
+2020-02-01,Consumer Electronics,1.7,49751.0
+2020-02-01,Parts Of Integrated Circuits,1.8,79457.9
+2020-02-01,Diodes And Transistors,1.9,184788.8
+2020-02-01,Non-Electronic Products,2,10483530.0
+2020-02-01,Specialised Machinery,2.0,995488.0
+2020-02-01,Total Chemicals,2.1,4067106.0
+2020-02-01,Pharmaceuticals,2.1.1,1688371.0
+2020-02-01,Petrochemicals,2.1.2,1003129.0
+2020-02-01,Electrical Circuit Apparatus,2.2,163415.9
+2020-02-01,Electrical Machinery & Apparatus Nes,2.3,204055.3
+2020-03-01,Total Electronic Products,1,2867917.9
+2020-03-01,Disk Drives,1.1,42425.5
+2020-03-01,PCB Assembled,1.2,202066.9
+2020-03-01,Integrated Circuits,1.3,1445286.3
+2020-03-01,Personal Computers,1.4,150870.2
+2020-03-01,Telecommunications Equipment,1.6,199130.4
+2020-03-01,Consumer Electronics,1.7,54612.4
+2020-03-01,Parts Of Integrated Circuits,1.8,59956.3
+2020-03-01,Diodes And Transistors,1.9,191359.9
+2020-03-01,Non-Electronic Products,2,13052682.0
+2020-03-01,Specialised Machinery,2.0,1468708.0
+2020-03-01,Total Chemicals,2.1,4013715.0
+2020-03-01,Pharmaceuticals,2.1.1,1562644.0
+2020-03-01,Petrochemicals,2.1.2,1052821.0
+2020-03-01,Electrical Circuit Apparatus,2.2,190129.5
+2020-03-01,Electrical Machinery & Apparatus Nes,2.3,218469.8
+2020-04-01,Total Electronic Products,1,3105839.6
+2020-04-01,Disk Drives,1.1,43300.5
+2020-04-01,PCB Assembled,1.2,204010.1
+2020-04-01,Integrated Circuits,1.3,1602391.2
+2020-04-01,Personal Computers,1.4,258888.9
+2020-04-01,Telecommunications Equipment,1.6,187603.1
+2020-04-01,Consumer Electronics,1.7,42907.0
+2020-04-01,Parts Of Integrated Circuits,1.8,54002.3
+2020-04-01,Diodes And Transistors,1.9,163431.2
+2020-04-01,Non-Electronic Products,2,11996990.0
+2020-04-01,Specialised Machinery,2.0,1388370.0
+2020-04-01,Total Chemicals,2.1,4813664.0
+2020-04-01,Pharmaceuticals,2.1.1,2516372.0
+2020-04-01,Petrochemicals,2.1.2,941651.0
+2020-04-01,Electrical Circuit Apparatus,2.2,151557.9
+2020-04-01,Electrical Machinery & Apparatus Nes,2.3,192753.9
+2020-05-01,Total Electronic Products,1,3302196.4
+2020-05-01,Disk Drives,1.1,50138.1
+2020-05-01,PCB Assembled,1.2,181760.6
+2020-05-01,Integrated Circuits,1.3,1736308.7
+2020-05-01,Personal Computers,1.4,236829.3
+2020-05-01,Telecommunications Equipment,1.6,176410.9
+2020-05-01,Consumer Electronics,1.7,46200.4
+2020-05-01,Parts Of Integrated Circuits,1.8,37383.3
+2020-05-01,Diodes And Transistors,1.9,178523.7
+2020-05-01,Non-Electronic Products,2,10482284.0
+2020-05-01,Specialised Machinery,2.0,965872.0
+2020-05-01,Total Chemicals,2.1,4108256.0
+2020-05-01,Pharmaceuticals,2.1.1,2088352.0
+2020-05-01,Petrochemicals,2.1.2,903496.0
+2020-05-01,Electrical Circuit Apparatus,2.2,159250.6
+2020-05-01,Electrical Machinery & Apparatus Nes,2.3,169497.4
+2020-06-01,Total Electronic Products,1,3127892.8
+2020-06-01,Disk Drives,1.1,63838.4
+2020-06-01,PCB Assembled,1.2,154051.8
+2020-06-01,Integrated Circuits,1.3,1516497.3
+2020-06-01,Personal Computers,1.4,282287.4
+2020-06-01,Telecommunications Equipment,1.6,264148.7
+2020-06-01,Consumer Electronics,1.7,63772.4
+2020-06-01,Parts Of Integrated Circuits,1.8,45257.4
+2020-06-01,Diodes And Transistors,1.9,204350.7
+2020-06-01,Non-Electronic Products,2,10911072.0
+2020-06-01,Specialised Machinery,2.0,1301833.0
+2020-06-01,Total Chemicals,2.1,3788293.0
+2020-06-01,Pharmaceuticals,2.1.1,1619990.0
+2020-06-01,Petrochemicals,2.1.2,881750.0
+2020-06-01,Electrical Circuit Apparatus,2.2,151151.3
+2020-06-01,Electrical Machinery & Apparatus Nes,2.3,194667.1
+2020-07-01,Total Electronic Products,1,3225973.6
+2020-07-01,Disk Drives,1.1,42635.5
+2020-07-01,PCB Assembled,1.2,203334.8
+2020-07-01,Integrated Circuits,1.3,1641030.0
+2020-07-01,Personal Computers,1.4,221052.9
+2020-07-01,Telecommunications Equipment,1.6,224443.1
+2020-07-01,Consumer Electronics,1.7,64298.5
+2020-07-01,Parts Of Integrated Circuits,1.8,51695.6
+2020-07-01,Diodes And Transistors,1.9,200575.8
+2020-07-01,Non-Electronic Products,2,11527771.0
+2020-07-01,Specialised Machinery,2.0,1416844.0
+2020-07-01,Total Chemicals,2.1,3520708.0
+2020-07-01,Pharmaceuticals,2.1.1,1265305.0
+2020-07-01,Petrochemicals,2.1.2,981304.0
+2020-07-01,Electrical Circuit Apparatus,2.2,154719.8
+2020-07-01,Electrical Machinery & Apparatus Nes,2.3,211134.6
+2020-08-01,Total Electronic Products,1,3471968.8
+2020-08-01,Disk Drives,1.1,50341.6
+2020-08-01,PCB Assembled,1.2,217049.1
+2020-08-01,Integrated Circuits,1.3,1814942.9
+2020-08-01,Personal Computers,1.4,244380.4
+2020-08-01,Telecommunications Equipment,1.6,225124.4
+2020-08-01,Consumer Electronics,1.7,71383.7
+2020-08-01,Parts Of Integrated Circuits,1.8,47156.8
+2020-08-01,Diodes And Transistors,1.9,205038.9
+2020-08-01,Non-Electronic Products,2,11887963.0
+2020-08-01,Specialised Machinery,2.0,1053947.0
+2020-08-01,Total Chemicals,2.1,3595619.0
+2020-08-01,Pharmaceuticals,2.1.1,1271961.0
+2020-08-01,Petrochemicals,2.1.2,1042966.0
+2020-08-01,Electrical Circuit Apparatus,2.2,141999.9
+2020-08-01,Electrical Machinery & Apparatus Nes,2.3,205870.1
+2020-09-01,Total Electronic Products,1,3388712.7
+2020-09-01,Disk Drives,1.1,52546.9
+2020-09-01,PCB Assembled,1.2,236243.3
+2020-09-01,Integrated Circuits,1.3,1813545.2
+2020-09-01,Personal Computers,1.4,237514.4
+2020-09-01,Telecommunications Equipment,1.6,215349.7
+2020-09-01,Consumer Electronics,1.7,69463.4
+2020-09-01,Parts Of Integrated Circuits,1.8,44399.6
+2020-09-01,Diodes And Transistors,1.9,208135.9
+2020-09-01,Non-Electronic Products,2,10675362.0
+2020-09-01,Specialised Machinery,2.0,1265300.0
+2020-09-01,Total Chemicals,2.1,3178179.0
+2020-09-01,Pharmaceuticals,2.1.1,929907.0
+2020-09-01,Petrochemicals,2.1.2,927448.0
+2020-09-01,Electrical Circuit Apparatus,2.2,145209.0
+2020-09-01,Electrical Machinery & Apparatus Nes,2.3,216004.0
+2020-10-01,Total Electronic Products,1,3345644.8
+2020-10-01,Disk Drives,1.1,54336.4
+2020-10-01,PCB Assembled,1.2,246368.6
+2020-10-01,Integrated Circuits,1.3,1563590.9
+2020-10-01,Personal Computers,1.4,295655.1
+2020-10-01,Telecommunications Equipment,1.6,250113.9
+2020-10-01,Consumer Electronics,1.7,74025.6
+2020-10-01,Parts Of Integrated Circuits,1.8,72350.0
+2020-10-01,Diodes And Transistors,1.9,216546.0
+2020-10-01,Non-Electronic Products,2,10498614.0
+2020-10-01,Specialised Machinery,2.0,1389394.0
+2020-10-01,Total Chemicals,2.1,4036878.0
+2020-10-01,Pharmaceuticals,2.1.1,1606867.0
+2020-10-01,Petrochemicals,2.1.2,1057679.0
+2020-10-01,Electrical Circuit Apparatus,2.2,162063.5
+2020-10-01,Electrical Machinery & Apparatus Nes,2.3,231036.9
+2020-11-01,Total Electronic Products,1,3232824.1
+2020-11-01,Disk Drives,1.1,55351.5
+2020-11-01,PCB Assembled,1.2,215414.4
+2020-11-01,Integrated Circuits,1.3,1591516.3
+2020-11-01,Personal Computers,1.4,189972.7
+2020-11-01,Telecommunications Equipment,1.6,264530.4
+2020-11-01,Consumer Electronics,1.7,75540.3
+2020-11-01,Parts Of Integrated Circuits,1.8,76154.3
+2020-11-01,Diodes And Transistors,1.9,214490.1
+2020-11-01,Non-Electronic Products,2,10303590.0
+2020-11-01,Specialised Machinery,2.0,1053166.0
+2020-11-01,Total Chemicals,2.1,3514345.0
+2020-11-01,Pharmaceuticals,2.1.1,1204918.0
+2020-11-01,Petrochemicals,2.1.2,954791.0
+2020-11-01,Electrical Circuit Apparatus,2.2,169005.4
+2020-11-01,Electrical Machinery & Apparatus Nes,2.3,265285.7
+2020-12-01,Total Electronic Products,1,3404461.4
+2020-12-01,Disk Drives,1.1,72498.1
+2020-12-01,PCB Assembled,1.2,291649.7
+2020-12-01,Integrated Circuits,1.3,1654553.1
+2020-12-01,Personal Computers,1.4,215696.4
+2020-12-01,Telecommunications Equipment,1.6,260467.7
+2020-12-01,Consumer Electronics,1.7,68799.8
+2020-12-01,Parts Of Integrated Circuits,1.8,71942.1
+2020-12-01,Diodes And Transistors,1.9,233502.3
+2020-12-01,Non-Electronic Products,2,11671789.0
+2020-12-01,Specialised Machinery,2.0,1746366.0
+2020-12-01,Total Chemicals,2.1,3318969.0
+2020-12-01,Pharmaceuticals,2.1.1,667760.0
+2020-12-01,Petrochemicals,2.1.2,1247403.0
+2020-12-01,Electrical Circuit Apparatus,2.2,185218.8
+2020-12-01,Electrical Machinery & Apparatus Nes,2.3,259248.1
+2021-01-01,Total Electronic Products,1,3419699.2
+2021-01-01,Disk Drives,1.1,44749.4
+2021-01-01,PCB Assembled,1.2,222389.8
+2021-01-01,Integrated Circuits,1.3,1725590.3
+2021-01-01,Personal Computers,1.4,261158.8
+2021-01-01,Telecommunications Equipment,1.6,236199.3
+2021-01-01,Consumer Electronics,1.7,50591.1
+2021-01-01,Parts Of Integrated Circuits,1.8,84762.1
+2021-01-01,Diodes And Transistors,1.9,260335.1
+2021-01-01,Non-Electronic Products,2,11632860.0
+2021-01-01,Specialised Machinery,2.0,1672394.0
+2021-01-01,Total Chemicals,2.1,4147862.0
+2021-01-01,Pharmaceuticals,2.1.1,1609921.0
+2021-01-01,Petrochemicals,2.1.2,1136130.0
+2021-01-01,Electrical Circuit Apparatus,2.2,166574.8
+2021-01-01,Electrical Machinery & Apparatus Nes,2.3,219364.0
+2021-02-01,Total Electronic Products,1,3312211.6
+2021-02-01,Disk Drives,1.1,40119.5
+2021-02-01,PCB Assembled,1.2,189533.4
+2021-02-01,Integrated Circuits,1.3,1651105.8
+2021-02-01,Personal Computers,1.4,283574.1
+2021-02-01,Telecommunications Equipment,1.6,291644.9
+2021-02-01,Consumer Electronics,1.7,61706.8
+2021-02-01,Parts Of Integrated Circuits,1.8,72914.0
+2021-02-01,Diodes And Transistors,1.9,256932.2
+2021-02-01,Non-Electronic Products,2,10799577.0
+2021-02-01,Specialised Machinery,2.0,1349557.0
+2021-02-01,Total Chemicals,2.1,3784592.0
+2021-02-01,Pharmaceuticals,2.1.1,1124289.0
+2021-02-01,Petrochemicals,2.1.2,1194934.0
+2021-02-01,Electrical Circuit Apparatus,2.2,148829.6
+2021-02-01,Electrical Machinery & Apparatus Nes,2.3,239009.0
+2021-03-01,Total Electronic Products,1,3566704.9
+2021-03-01,Disk Drives,1.1,59264.4
+2021-03-01,PCB Assembled,1.2,256648.7
+2021-03-01,Integrated Circuits,1.3,1721483.4
+2021-03-01,Personal Computers,1.4,250560.7
+2021-03-01,Telecommunications Equipment,1.6,282266.3
+2021-03-01,Consumer Electronics,1.7,71580.4
+2021-03-01,Parts Of Integrated Circuits,1.8,80875.9
+2021-03-01,Diodes And Transistors,1.9,276355.5
+2021-03-01,Non-Electronic Products,2,14250415.0
+2021-03-01,Specialised Machinery,2.0,1984908.0
+2021-03-01,Total Chemicals,2.1,5470850.0
+2021-03-01,Pharmaceuticals,2.1.1,1961738.0
+2021-03-01,Petrochemicals,2.1.2,1593848.0
+2021-03-01,Electrical Circuit Apparatus,2.2,212231.8
+2021-03-01,Electrical Machinery & Apparatus Nes,2.3,314380.4
+2021-04-01,Total Electronic Products,1,3444797.9
+2021-04-01,Disk Drives,1.1,54265.9
+2021-04-01,PCB Assembled,1.2,221569.4
+2021-04-01,Integrated Circuits,1.3,1653945.2
+2021-04-01,Personal Computers,1.4,362091.0
+2021-04-01,Telecommunications Equipment,1.6,228160.8
+2021-04-01,Consumer Electronics,1.7,70162.0
+2021-04-01,Parts Of Integrated Circuits,1.8,92740.4
+2021-04-01,Diodes And Transistors,1.9,252553.9
+2021-04-01,Non-Electronic Products,2,12562284.0
+2021-04-01,Specialised Machinery,2.0,2141813.0
+2021-04-01,Total Chemicals,2.1,4744211.0
+2021-04-01,Pharmaceuticals,2.1.1,1486785.0
+2021-04-01,Petrochemicals,2.1.2,1535968.0
+2021-04-01,Electrical Circuit Apparatus,2.2,220997.3
+2021-04-01,Electrical Machinery & Apparatus Nes,2.3,247459.9
+2021-05-01,Total Electronic Products,1,3664877.7
+2021-05-01,Disk Drives,1.1,62251.8
+2021-05-01,PCB Assembled,1.2,218077.0
+2021-05-01,Integrated Circuits,1.3,1836929.0
+2021-05-01,Personal Computers,1.4,272410.4
+2021-05-01,Telecommunications Equipment,1.6,237231.4
+2021-05-01,Consumer Electronics,1.7,69519.3
+2021-05-01,Parts Of Integrated Circuits,1.8,85704.5
+2021-05-01,Diodes And Transistors,1.9,274708.4
+2021-05-01,Non-Electronic Products,2,11310965.0
+2021-05-01,Specialised Machinery,2.0,1525721.0
+2021-05-01,Total Chemicals,2.1,4757202.0
+2021-05-01,Pharmaceuticals,2.1.1,1708434.0
+2021-05-01,Petrochemicals,2.1.2,1405545.0
+2021-05-01,Electrical Circuit Apparatus,2.2,219634.3
+2021-05-01,Electrical Machinery & Apparatus Nes,2.3,234782.4
+2021-06-01,Total Electronic Products,1,3926856.2
+2021-06-01,Disk Drives,1.1,59250.9
+2021-06-01,PCB Assembled,1.2,208052.6
+2021-06-01,Integrated Circuits,1.3,1744023.9
+2021-06-01,Personal Computers,1.4,649932.7
+2021-06-01,Telecommunications Equipment,1.6,282102.9
+2021-06-01,Consumer Electronics,1.7,64765.1
+2021-06-01,Parts Of Integrated Circuits,1.8,87684.8
+2021-06-01,Diodes And Transistors,1.9,270054.5
+2021-06-01,Non-Electronic Products,2,12346778.0
+2021-06-01,Specialised Machinery,2.0,1864201.0
+2021-06-01,Total Chemicals,2.1,4755902.0
+2021-06-01,Pharmaceuticals,2.1.1,1751711.0
+2021-06-01,Petrochemicals,2.1.2,1332878.0
+2021-06-01,Electrical Circuit Apparatus,2.2,261896.5
+2021-06-01,Electrical Machinery & Apparatus Nes,2.3,258584.2
+2021-07-01,Total Electronic Products,1,3709498.4
+2021-07-01,Disk Drives,1.1,49304.4
+2021-07-01,PCB Assembled,1.2,213870.9
+2021-07-01,Integrated Circuits,1.3,1823148.7
+2021-07-01,Personal Computers,1.4,405016.7
+2021-07-01,Telecommunications Equipment,1.6,248188.9
+2021-07-01,Consumer Electronics,1.7,56294.8
+2021-07-01,Parts Of Integrated Circuits,1.8,85121.2
+2021-07-01,Diodes And Transistors,1.9,260207.0
+2021-07-01,Non-Electronic Products,2,12911155.0
+2021-07-01,Specialised Machinery,2.0,2221994.0
+2021-07-01,Total Chemicals,2.1,5016401.0
+2021-07-01,Pharmaceuticals,2.1.1,1875711.0
+2021-07-01,Petrochemicals,2.1.2,1465231.0
+2021-07-01,Electrical Circuit Apparatus,2.2,239398.2
+2021-07-01,Electrical Machinery & Apparatus Nes,2.3,249272.7
+2021-08-01,Total Electronic Products,1,4052667.4
+2021-08-01,Disk Drives,1.1,67161.9
+2021-08-01,PCB Assembled,1.2,223193.1
+2021-08-01,Integrated Circuits,1.3,2181795.5
+2021-08-01,Personal Computers,1.4,279547.9
+2021-08-01,Telecommunications Equipment,1.6,238211.0
+2021-08-01,Consumer Electronics,1.7,52914.7
+2021-08-01,Parts Of Integrated Circuits,1.8,102136.4
+2021-08-01,Diodes And Transistors,1.9,277742.6
+2021-08-01,Non-Electronic Products,2,11713847.0
+2021-08-01,Specialised Machinery,2.0,1790207.0
+2021-08-01,Total Chemicals,2.1,4208183.0
+2021-08-01,Pharmaceuticals,2.1.1,1114631.0
+2021-08-01,Petrochemicals,2.1.2,1362807.0
+2021-08-01,Electrical Circuit Apparatus,2.2,241692.1
+2021-08-01,Electrical Machinery & Apparatus Nes,2.3,253216.5
+2021-09-01,Total Electronic Products,1,3866667.5
+2021-09-01,Disk Drives,1.1,76497.7
+2021-09-01,PCB Assembled,1.2,216906.6
+2021-09-01,Integrated Circuits,1.3,1939700.5
+2021-09-01,Personal Computers,1.4,344150.4
+2021-09-01,Telecommunications Equipment,1.6,309768.0
+2021-09-01,Consumer Electronics,1.7,47115.8
+2021-09-01,Parts Of Integrated Circuits,1.8,80837.4
+2021-09-01,Diodes And Transistors,1.9,256102.4
+2021-09-01,Non-Electronic Products,2,11882555.0
+2021-09-01,Specialised Machinery,2.0,1695979.0
+2021-09-01,Total Chemicals,2.1,4188618.0
+2021-09-01,Pharmaceuticals,2.1.1,1183783.0
+2021-09-01,Petrochemicals,2.1.2,1416542.0
+2021-09-01,Electrical Circuit Apparatus,2.2,256254.8
+2021-09-01,Electrical Machinery & Apparatus Nes,2.3,253554.3
+2021-10-01,Total Electronic Products,1,3844599.8
+2021-10-01,Disk Drives,1.1,43438.9
+2021-10-01,PCB Assembled,1.2,223836.5
+2021-10-01,Integrated Circuits,1.3,1917262.1
+2021-10-01,Personal Computers,1.4,349182.0
+2021-10-01,Telecommunications Equipment,1.6,312253.4
+2021-10-01,Consumer Electronics,1.7,51945.5
+2021-10-01,Parts Of Integrated Circuits,1.8,102276.1
+2021-10-01,Diodes And Transistors,1.9,259319.9
+2021-10-01,Non-Electronic Products,2,12467571.0
+2021-10-01,Specialised Machinery,2.0,2073246.0
+2021-10-01,Total Chemicals,2.1,4680673.0
+2021-10-01,Pharmaceuticals,2.1.1,1672226.0
+2021-10-01,Petrochemicals,2.1.2,1468796.0
+2021-10-01,Electrical Circuit Apparatus,2.2,244423.6
+2021-10-01,Electrical Machinery & Apparatus Nes,2.3,258876.0
+2021-11-01,Total Electronic Products,1,4177142.0
+2021-11-01,Disk Drives,1.1,36248.7
+2021-11-01,PCB Assembled,1.2,198179.6
+2021-11-01,Integrated Circuits,1.3,2256976.7
+2021-11-01,Personal Computers,1.4,293048.9
+2021-11-01,Telecommunications Equipment,1.6,294696.9
+2021-11-01,Consumer Electronics,1.7,57531.7
+2021-11-01,Parts Of Integrated Circuits,1.8,100721.6
+2021-11-01,Diodes And Transistors,1.9,276170.8
+2021-11-01,Non-Electronic Products,2,12631677.0
+2021-11-01,Specialised Machinery,2.0,1828496.0
+2021-11-01,Total Chemicals,2.1,4811685.0
+2021-11-01,Pharmaceuticals,2.1.1,1451543.0
+2021-11-01,Petrochemicals,2.1.2,1584606.0
+2021-11-01,Electrical Circuit Apparatus,2.2,255870.3
+2021-11-01,Electrical Machinery & Apparatus Nes,2.3,263260.5
+2021-12-01,Total Electronic Products,1,3866196.0
+2021-12-01,Disk Drives,1.1,57287.3
+2021-12-01,PCB Assembled,1.2,252684.1
+2021-12-01,Integrated Circuits,1.3,1948653.3
+2021-12-01,Personal Computers,1.4,285877.4
+2021-12-01,Telecommunications Equipment,1.6,318273.7
+2021-12-01,Consumer Electronics,1.7,53441.0
+2021-12-01,Parts Of Integrated Circuits,1.8,92792.9
+2021-12-01,Diodes And Transistors,1.9,257439.7
+2021-12-01,Non-Electronic Products,2,13990938.0
+2021-12-01,Specialised Machinery,2.0,2139202.0
+2021-12-01,Total Chemicals,2.1,4604863.0
+2021-12-01,Pharmaceuticals,2.1.1,1150287.0
+2021-12-01,Petrochemicals,2.1.2,1601946.0
+2021-12-01,Electrical Circuit Apparatus,2.2,278408.8
+2021-12-01,Electrical Machinery & Apparatus Nes,2.3,286071.5
+2022-01-01,Total Electronic Products,1,3898291.1
+2022-01-01,Disk Drives,1.1,47466.9
+2022-01-01,PCB Assembled,1.2,199374.6
+2022-01-01,Integrated Circuits,1.3,2031354.2
+2022-01-01,Personal Computers,1.4,343418.9
+2022-01-01,Telecommunications Equipment,1.6,264759.0
+2022-01-01,Consumer Electronics,1.7,45920.1
+2022-01-01,Parts Of Integrated Circuits,1.8,97116.1
+2022-01-01,Diodes And Transistors,1.9,257456.4
+2022-01-01,Non-Electronic Products,2,13798043.0
+2022-01-01,Specialised Machinery,2.0,2301166.0
+2022-01-01,Total Chemicals,2.1,4581381.0
+2022-01-01,Pharmaceuticals,2.1.1,1431211.0
+2022-01-01,Petrochemicals,2.1.2,1386131.0
+2022-01-01,Electrical Circuit Apparatus,2.2,244115.3
+2022-01-01,Electrical Machinery & Apparatus Nes,2.3,247513.8
+2022-02-01,Total Electronic Products,1,3695587.3
+2022-02-01,Disk Drives,1.1,33522.4
+2022-02-01,PCB Assembled,1.2,157210.7
+2022-02-01,Integrated Circuits,1.3,2007539.6
+2022-02-01,Personal Computers,1.4,259723.7
+2022-02-01,Telecommunications Equipment,1.6,208464.8
+2022-02-01,Consumer Electronics,1.7,44960.0
+2022-02-01,Parts Of Integrated Circuits,1.8,79891.8
+2022-02-01,Diodes And Transistors,1.9,225783.1
+2022-02-01,Non-Electronic Products,2,11747217.0
+2022-02-01,Specialised Machinery,2.0,1369101.0
+2022-02-01,Total Chemicals,2.1,4464945.0
+2022-02-01,Pharmaceuticals,2.1.1,1569042.0
+2022-02-01,Petrochemicals,2.1.2,1424883.0
+2022-02-01,Electrical Circuit Apparatus,2.2,208328.8
+2022-02-01,Electrical Machinery & Apparatus Nes,2.3,211306.2
+2022-03-01,Total Electronic Products,1,3975707.6
+2022-03-01,Disk Drives,1.1,101001.2
+2022-03-01,PCB Assembled,1.2,222004.7
+2022-03-01,Integrated Circuits,1.3,2083746.6
+2022-03-01,Personal Computers,1.4,280380.5
+2022-03-01,Telecommunications Equipment,1.6,300770.0
+2022-03-01,Consumer Electronics,1.7,56411.7
+2022-03-01,Parts Of Integrated Circuits,1.8,102294.1
+2022-03-01,Diodes And Transistors,1.9,276713.2
+2022-03-01,Non-Electronic Products,2,15215270.0
+2022-03-01,Specialised Machinery,2.0,1985414.0
+2022-03-01,Total Chemicals,2.1,5711513.0
+2022-03-01,Pharmaceuticals,2.1.1,2312604.0
+2022-03-01,Petrochemicals,2.1.2,1564040.0
+2022-03-01,Electrical Circuit Apparatus,2.2,270448.4
+2022-03-01,Electrical Machinery & Apparatus Nes,2.3,285657.9
+2022-04-01,Total Electronic Products,1,3885336.3
+2022-04-01,Disk Drives,1.1,76211.4
+2022-04-01,PCB Assembled,1.2,198000.2
+2022-04-01,Integrated Circuits,1.3,1875942.8
+2022-04-01,Personal Computers,1.4,411571.4
+2022-04-01,Telecommunications Equipment,1.6,283842.9
+2022-04-01,Consumer Electronics,1.7,49561.9
+2022-04-01,Parts Of Integrated Circuits,1.8,180114.2
+2022-04-01,Diodes And Transistors,1.9,247865.8
+2022-04-01,Non-Electronic Products,2,13144278.0
+2022-04-01,Specialised Machinery,2.0,2284882.0
+2022-04-01,Total Chemicals,2.1,4772054.0
+2022-04-01,Pharmaceuticals,2.1.1,1394765.0
+2022-04-01,Petrochemicals,2.1.2,1574997.0
+2022-04-01,Electrical Circuit Apparatus,2.2,279543.7
+2022-04-01,Electrical Machinery & Apparatus Nes,2.3,288717.4
+2022-05-01,Total Electronic Products,1,4136124.4
+2022-05-01,Disk Drives,1.1,55333.0
+2022-05-01,PCB Assembled,1.2,162635.2
+2022-05-01,Integrated Circuits,1.3,2325544.4
+2022-05-01,Personal Computers,1.4,249256.4
+2022-05-01,Telecommunications Equipment,1.6,242646.4
+2022-05-01,Consumer Electronics,1.7,46448.2
+2022-05-01,Parts Of Integrated Circuits,1.8,185360.8
+2022-05-01,Diodes And Transistors,1.9,228342.8
+2022-05-01,Non-Electronic Products,2,12631031.0
+2022-05-01,Specialised Machinery,2.0,1929278.0
+2022-05-01,Total Chemicals,2.1,4908559.0
+2022-05-01,Pharmaceuticals,2.1.1,1561110.0
+2022-05-01,Petrochemicals,2.1.2,1437501.0
+2022-05-01,Electrical Circuit Apparatus,2.2,257404.9
+2022-05-01,Electrical Machinery & Apparatus Nes,2.3,311096.5
+2022-06-01,Total Electronic Products,1,4086437.3
+2022-06-01,Disk Drives,1.1,69898.3
+2022-06-01,PCB Assembled,1.2,182819.3
+2022-06-01,Integrated Circuits,1.3,2198180.9
+2022-06-01,Personal Computers,1.4,356457.3
+2022-06-01,Telecommunications Equipment,1.6,286603.1
+2022-06-01,Consumer Electronics,1.7,57492.9
+2022-06-01,Parts Of Integrated Circuits,1.8,163143.4
+2022-06-01,Diodes And Transistors,1.9,272562.5
+2022-06-01,Non-Electronic Products,2,13577237.0
+2022-06-01,Specialised Machinery,2.0,1846533.0
+2022-06-01,Total Chemicals,2.1,5025839.0
+2022-06-01,Pharmaceuticals,2.1.1,1388190.0
+2022-06-01,Petrochemicals,2.1.2,1613923.0
+2022-06-01,Electrical Circuit Apparatus,2.2,245400.1
+2022-06-01,Electrical Machinery & Apparatus Nes,2.3,339790.6
+2022-07-01,Total Electronic Products,1,4092372.7
+2022-07-01,Disk Drives,1.1,103653.0
+2022-07-01,PCB Assembled,1.2,186065.7
+2022-07-01,Integrated Circuits,1.3,2160652.8
+2022-07-01,Personal Computers,1.4,404040.2
+2022-07-01,Telecommunications Equipment,1.6,298378.1
+2022-07-01,Consumer Electronics,1.7,43297.8
+2022-07-01,Parts Of Integrated Circuits,1.8,155931.4
+2022-07-01,Diodes And Transistors,1.9,249898.1
+2022-07-01,Non-Electronic Products,2,13674518.0
+2022-07-01,Specialised Machinery,2.0,2493345.0
+2022-07-01,Total Chemicals,2.1,5168144.0
+2022-07-01,Pharmaceuticals,2.1.1,2043630.0
+2022-07-01,Petrochemicals,2.1.2,1380605.0
+2022-07-01,Electrical Circuit Apparatus,2.2,213909.2
+2022-07-01,Electrical Machinery & Apparatus Nes,2.3,336139.1
+2022-08-01,Total Electronic Products,1,3868300.3
+2022-08-01,Disk Drives,1.1,86416.8
+2022-08-01,PCB Assembled,1.2,170658.2
+2022-08-01,Integrated Circuits,1.3,2037337.3
+2022-08-01,Personal Computers,1.4,315430.2
+2022-08-01,Telecommunications Equipment,1.6,289715.0
+2022-08-01,Consumer Electronics,1.7,43853.8
+2022-08-01,Parts Of Integrated Circuits,1.8,136475.6
+2022-08-01,Diodes And Transistors,1.9,300317.9
+2022-08-01,Non-Electronic Products,2,13694341.0
+2022-08-01,Specialised Machinery,2.0,1746742.0
+2022-08-01,Total Chemicals,2.1,4836225.0
+2022-08-01,Pharmaceuticals,2.1.1,1882181.0
+2022-08-01,Petrochemicals,2.1.2,1390282.0
+2022-08-01,Electrical Circuit Apparatus,2.2,216541.0
+2022-08-01,Electrical Machinery & Apparatus Nes,2.3,325321.4
+2022-09-01,Total Electronic Products,1,3456497.2
+2022-09-01,Disk Drives,1.1,86423.8
+2022-09-01,PCB Assembled,1.2,168610.3
+2022-09-01,Integrated Circuits,1.3,1707489.8
+2022-09-01,Personal Computers,1.4,354462.6
+2022-09-01,Telecommunications Equipment,1.6,328231.0
+2022-09-01,Consumer Electronics,1.7,41672.8
+2022-09-01,Parts Of Integrated Circuits,1.8,108675.8
+2022-09-01,Diodes And Transistors,1.9,291828.3
+2022-09-01,Non-Electronic Products,2,12784113.0
+2022-09-01,Specialised Machinery,2.0,1802440.0
+2022-09-01,Total Chemicals,2.1,4174140.0
+2022-09-01,Pharmaceuticals,2.1.1,1446555.0
+2022-09-01,Petrochemicals,2.1.2,1261244.0
+2022-09-01,Electrical Circuit Apparatus,2.2,201164.4
+2022-09-01,Electrical Machinery & Apparatus Nes,2.3,289634.4
+2022-10-01,Total Electronic Products,1,3488295.1
+2022-10-01,Disk Drives,1.1,79824.7
+2022-10-01,PCB Assembled,1.2,153139.0
+2022-10-01,Integrated Circuits,1.3,1703566.6
+2022-10-01,Personal Computers,1.4,390633.3
+2022-10-01,Telecommunications Equipment,1.6,377295.4
+2022-10-01,Consumer Electronics,1.7,44662.5
+2022-10-01,Parts Of Integrated Circuits,1.8,107403.0
+2022-10-01,Diodes And Transistors,1.9,277746.8
+2022-10-01,Non-Electronic Products,2,11831809.0
+2022-10-01,Specialised Machinery,2.0,2337185.0
+2022-10-01,Total Chemicals,2.1,3757463.0
+2022-10-01,Pharmaceuticals,2.1.1,1092683.0
+2022-10-01,Petrochemicals,2.1.2,1198855.0
+2022-10-01,Electrical Circuit Apparatus,2.2,184447.1
+2022-10-01,Electrical Machinery & Apparatus Nes,2.3,262308.6
+2022-11-01,Total Electronic Products,1,3332565.6
+2022-11-01,Disk Drives,1.1,79328.2
+2022-11-01,PCB Assembled,1.2,143740.5
+2022-11-01,Integrated Circuits,1.3,1719098.3
+2022-11-01,Personal Computers,1.4,369039.0
+2022-11-01,Telecommunications Equipment,1.6,289600.0
+2022-11-01,Consumer Electronics,1.7,41535.7
+2022-11-01,Parts Of Integrated Circuits,1.8,91031.3
+2022-11-01,Diodes And Transistors,1.9,289570.3
+2022-11-01,Non-Electronic Products,2,11012709.0
+2022-11-01,Specialised Machinery,2.0,1634735.0
+2022-11-01,Total Chemicals,2.1,3698591.0
+2022-11-01,Pharmaceuticals,2.1.1,1081323.0
+2022-11-01,Petrochemicals,2.1.2,1253916.0
+2022-11-01,Electrical Circuit Apparatus,2.2,201790.3
+2022-11-01,Electrical Machinery & Apparatus Nes,2.3,290416.6
+2022-12-01,Total Electronic Products,1,3175829.7
+2022-12-01,Disk Drives,1.1,88666.7
+2022-12-01,PCB Assembled,1.2,147239.9
+2022-12-01,Integrated Circuits,1.3,1442899.9
+2022-12-01,Personal Computers,1.4,367539.0
+2022-12-01,Telecommunications Equipment,1.6,306657.9
+2022-12-01,Consumer Electronics,1.7,45229.2
+2022-12-01,Parts Of Integrated Circuits,1.8,76312.5
+2022-12-01,Diodes And Transistors,1.9,299438.2
+2022-12-01,Non-Electronic Products,2,11005978.0
+2022-12-01,Specialised Machinery,2.0,1784327.0
+2022-12-01,Total Chemicals,2.1,3543771.0
+2022-12-01,Pharmaceuticals,2.1.1,937846.0
+2022-12-01,Petrochemicals,2.1.2,1269593.0
+2022-12-01,Electrical Circuit Apparatus,2.2,187752.3
+2022-12-01,Electrical Machinery & Apparatus Nes,2.3,224138.9
+2023-01-01,Total Electronic Products,1,2852895.8
+2023-01-01,Disk Drives,1.1,64458.8
+2023-01-01,PCB Assembled,1.2,114475.0
+2023-01-01,Integrated Circuits,1.3,1392375.1
+2023-01-01,Personal Computers,1.4,268046.1
+2023-01-01,Telecommunications Equipment,1.6,240294.6
+2023-01-01,Consumer Electronics,1.7,43989.8
+2023-01-01,Parts Of Integrated Circuits,1.8,92500.5
+2023-01-01,Diodes And Transistors,1.9,239849.1
+2023-01-01,Non-Electronic Products,2,10397090.0
+2023-01-01,Specialised Machinery,2.0,1922928.0
+2023-01-01,Total Chemicals,2.1,3994289.0
+2023-01-01,Pharmaceuticals,2.1.1,1757292.0
+2023-01-01,Petrochemicals,2.1.2,1017780.0
+2023-01-01,Electrical Circuit Apparatus,2.2,163350.9
+2023-01-01,Electrical Machinery & Apparatus Nes,2.3,182595.4
+2023-02-01,Total Electronic Products,1,2714861.7
+2023-02-01,Disk Drives,1.1,38492.7
+2023-02-01,PCB Assembled,1.2,128988.0
+2023-02-01,Integrated Circuits,1.3,1321002.2
+2023-02-01,Personal Computers,1.4,217500.1
+2023-02-01,Telecommunications Equipment,1.6,270549.2
+2023-02-01,Consumer Electronics,1.7,37903.4
+2023-02-01,Parts Of Integrated Circuits,1.8,72602.7
+2023-02-01,Diodes And Transistors,1.9,257128.6
+2023-02-01,Non-Electronic Products,2,10292442.0
+2023-02-01,Specialised Machinery,2.0,1334027.0
+2023-02-01,Total Chemicals,2.1,3676270.0
+2023-02-01,Pharmaceuticals,2.1.1,1231346.0
+2023-02-01,Petrochemicals,2.1.2,1078159.0
+2023-02-01,Electrical Circuit Apparatus,2.2,178233.6
+2023-02-01,Electrical Machinery & Apparatus Nes,2.3,177616.9
+2023-03-01,Total Electronic Products,1,3090461.0
+2023-03-01,Disk Drives,1.1,97367.0
+2023-03-01,PCB Assembled,1.2,142126.3
+2023-03-01,Integrated Circuits,1.3,1487711.3
+2023-03-01,Personal Computers,1.4,224920.5
+2023-03-01,Telecommunications Equipment,1.6,357232.2
+2023-03-01,Consumer Electronics,1.7,46932.5
+2023-03-01,Parts Of Integrated Circuits,1.8,91580.9
+2023-03-01,Diodes And Transistors,1.9,278021.0
+2023-03-01,Non-Electronic Products,2,14523282.0
+2023-03-01,Specialised Machinery,2.0,1746650.0
+2023-03-01,Total Chemicals,2.1,5627965.0
+2023-03-01,Pharmaceuticals,2.1.1,2955291.0
+2023-03-01,Petrochemicals,2.1.2,1203293.0
+2023-03-01,Electrical Circuit Apparatus,2.2,193704.7
+2023-03-01,Electrical Machinery & Apparatus Nes,2.3,225455.7
+2023-04-01,Total Electronic Products,1,2979671.3
+2023-04-01,Disk Drives,1.1,99768.9
+2023-04-01,PCB Assembled,1.2,82910.4
+2023-04-01,Integrated Circuits,1.3,1480340.3
+2023-04-01,Personal Computers,1.4,204714.9
+2023-04-01,Telecommunications Equipment,1.6,365615.3
+2023-04-01,Consumer Electronics,1.7,44493.2
+2023-04-01,Parts Of Integrated Circuits,1.8,104026.4
+2023-04-01,Diodes And Transistors,1.9,247837.3
+2023-04-01,Non-Electronic Products,2,12376435.0
+2023-04-01,Specialised Machinery,2.0,2109054.0
+2023-04-01,Total Chemicals,2.1,5474628.0
+2023-04-01,Pharmaceuticals,2.1.1,3161464.0
+2023-04-01,Petrochemicals,2.1.2,1058512.0
+2023-04-01,Electrical Circuit Apparatus,2.2,180301.3
+2023-04-01,Electrical Machinery & Apparatus Nes,2.3,172643.7
+2023-05-01,Total Electronic Products,1,3011031.2
+2023-05-01,Disk Drives,1.1,59040.4
+2023-05-01,PCB Assembled,1.2,110241.8
+2023-05-01,Integrated Circuits,1.3,1413224.5
+2023-05-01,Personal Computers,1.4,225540.3
+2023-05-01,Telecommunications Equipment,1.6,382042.5
+2023-05-01,Consumer Electronics,1.7,55486.1
+2023-05-01,Parts Of Integrated Circuits,1.8,95014.8
+2023-05-01,Diodes And Transistors,1.9,264630.5
+2023-05-01,Non-Electronic Products,2,11278169.0
+2023-05-01,Specialised Machinery,2.0,1477416.0
+2023-05-01,Total Chemicals,2.1,3913468.0
+2023-05-01,Pharmaceuticals,2.1.1,1342585.0
+2023-05-01,Petrochemicals,2.1.2,1108421.0
+2023-05-01,Electrical Circuit Apparatus,2.2,197952.3
+2023-05-01,Electrical Machinery & Apparatus Nes,2.3,213796.4
+2023-06-01,Total Electronic Products,1,3433313.7
+2023-06-01,Disk Drives,1.1,80055.2
+2023-06-01,PCB Assembled,1.2,100895.5
+2023-06-01,Integrated Circuits,1.3,1499249.8
+2023-06-01,Personal Computers,1.4,198852.6
+2023-06-01,Telecommunications Equipment,1.6,416599.6
+2023-06-01,Consumer Electronics,1.7,45196.9
+2023-06-01,Parts Of Integrated Circuits,1.8,102159.7
+2023-06-01,Diodes And Transistors,1.9,267920.1
+2023-06-01,Non-Electronic Products,2,11463167.0
+2023-06-01,Specialised Machinery,2.0,1821377.0
+2023-06-01,Total Chemicals,2.1,3371423.0
+2023-06-01,Pharmaceuticals,2.1.1,952991.0
+2023-06-01,Petrochemicals,2.1.2,1065296.0
+2023-06-01,Electrical Circuit Apparatus,2.2,198924.0
+2023-06-01,Electrical Machinery & Apparatus Nes,2.3,219667.1
+2023-07-01,Total Electronic Products,1,3020462.3
+2023-07-01,Disk Drives,1.1,99263.1
+2023-07-01,PCB Assembled,1.2,124016.0
+2023-07-01,Integrated Circuits,1.3,1389657.2
+2023-07-01,Personal Computers,1.4,217925.0
+2023-07-01,Telecommunications Equipment,1.6,454687.6
+2023-07-01,Consumer Electronics,1.7,40434.7
+2023-07-01,Parts Of Integrated Circuits,1.8,112516.2
+2023-07-01,Diodes And Transistors,1.9,259853.7
+2023-07-01,Non-Electronic Products,2,11136085.0
+2023-07-01,Specialised Machinery,2.0,2061368.0
+2023-07-01,Total Chemicals,2.1,4433101.0
+2023-07-01,Pharmaceuticals,2.1.1,2083862.0
+2023-07-01,Petrochemicals,2.1.2,1065879.0
+2023-07-01,Electrical Circuit Apparatus,2.2,198456.3
+2023-07-01,Electrical Machinery & Apparatus Nes,2.3,205812.8
+2023-08-01,Total Electronic Products,1,3050512.2
+2023-08-01,Disk Drives,1.1,45804.4
+2023-08-01,PCB Assembled,1.2,101550.3
+2023-08-01,Integrated Circuits,1.3,1457246.1
+2023-08-01,Personal Computers,1.4,234732.7
+2023-08-01,Telecommunications Equipment,1.6,462275.1
+2023-08-01,Consumer Electronics,1.7,36114.0
+2023-08-01,Parts Of Integrated Circuits,1.8,81480.4
+2023-08-01,Diodes And Transistors,1.9,278765.1
+2023-08-01,Non-Electronic Products,2,10549691.0
+2023-08-01,Specialised Machinery,2.0,1299106.0
+2023-08-01,Total Chemicals,2.1,3755860.0
+2023-08-01,Pharmaceuticals,2.1.1,1172941.0
+2023-08-01,Petrochemicals,2.1.2,1218163.0
+2023-08-01,Electrical Circuit Apparatus,2.2,210131.0
+2023-08-01,Electrical Machinery & Apparatus Nes,2.3,233061.9
+2023-09-01,Total Electronic Products,1,3051559.8
+2023-09-01,Disk Drives,1.1,94115.6
+2023-09-01,PCB Assembled,1.2,102940.4
+2023-09-01,Integrated Circuits,1.3,1431246.1
+2023-09-01,Personal Computers,1.4,236693.4
+2023-09-01,Telecommunications Equipment,1.6,515400.9
+2023-09-01,Consumer Electronics,1.7,31660.7
+2023-09-01,Parts Of Integrated Circuits,1.8,79782.8
+2023-09-01,Diodes And Transistors,1.9,236050.6
+2023-09-01,Non-Electronic Products,2,10713427.0
+2023-09-01,Specialised Machinery,2.0,1593812.0
+2023-09-01,Total Chemicals,2.1,3357822.0
+2023-09-01,Pharmaceuticals,2.1.1,996425.0
+2023-09-01,Petrochemicals,2.1.2,1074206.0
+2023-09-01,Electrical Circuit Apparatus,2.2,175994.0
+2023-09-01,Electrical Machinery & Apparatus Nes,2.3,173999.7
+2023-10-01,Total Electronic Products,1,3292791.2
+2023-10-01,Disk Drives,1.1,82281.3
+2023-10-01,PCB Assembled,1.2,118018.4
+2023-10-01,Integrated Circuits,1.3,1406406.0
+2023-10-01,Personal Computers,1.4,471995.9
+2023-10-01,Telecommunications Equipment,1.6,519053.2
+2023-10-01,Consumer Electronics,1.7,50378.2
+2023-10-01,Parts Of Integrated Circuits,1.8,86398.0
+2023-10-01,Diodes And Transistors,1.9,222836.4
+2023-10-01,Non-Electronic Products,2,11487250.0
+2023-10-01,Specialised Machinery,2.0,2577923.0
+2023-10-01,Total Chemicals,2.1,3834869.0
+2023-10-01,Pharmaceuticals,2.1.1,1240148.0
+2023-10-01,Petrochemicals,2.1.2,1239765.0
+2023-10-01,Electrical Circuit Apparatus,2.2,174970.6
+2023-10-01,Electrical Machinery & Apparatus Nes,2.3,184207.6
+2023-11-01,Total Electronic Products,1,2906733.7
+2023-11-01,Disk Drives,1.1,58840.8
+2023-11-01,PCB Assembled,1.2,107469.7
+2023-11-01,Integrated Circuits,1.3,1412260.0
+2023-11-01,Personal Computers,1.4,192584.1
+2023-11-01,Telecommunications Equipment,1.6,371992.7
+2023-11-01,Consumer Electronics,1.7,43034.3
+2023-11-01,Parts Of Integrated Circuits,1.8,69563.0
+2023-11-01,Diodes And Transistors,1.9,250200.0
+2023-11-01,Non-Electronic Products,2,11580450.0
+2023-11-01,Specialised Machinery,2.0,1461277.0
+2023-11-01,Total Chemicals,2.1,4877613.0
+2023-11-01,Pharmaceuticals,2.1.1,2366511.0
+2023-11-01,Petrochemicals,2.1.2,1161146.0
+2023-11-01,Electrical Circuit Apparatus,2.2,141968.7
+2023-11-01,Electrical Machinery & Apparatus Nes,2.3,161002.4
+2023-12-01,Total Electronic Products,1,2805043.1
+2023-12-01,Disk Drives,1.1,83415.5
+2023-12-01,PCB Assembled,1.2,109379.3
+2023-12-01,Integrated Circuits,1.3,1328697.4
+2023-12-01,Personal Computers,1.4,241304.5
+2023-12-01,Telecommunications Equipment,1.6,307553.0
+2023-12-01,Consumer Electronics,1.7,43014.5
+2023-12-01,Parts Of Integrated Circuits,1.8,72252.2
+2023-12-01,Diodes And Transistors,1.9,277872.0
+2023-12-01,Non-Electronic Products,2,11164095.0
+2023-12-01,Specialised Machinery,2.0,1729864.0
+2023-12-01,Total Chemicals,2.1,3880258.0
+2023-12-01,Pharmaceuticals,2.1.1,1471760.0
+2023-12-01,Petrochemicals,2.1.2,1091262.0
+2023-12-01,Electrical Circuit Apparatus,2.2,147632.3
+2023-12-01,Electrical Machinery & Apparatus Nes,2.3,179224.1
+2024-01-01,Total Electronic Products,1,2871393.5
+2024-01-01,Disk Drives,1.1,55745.8
+2024-01-01,PCB Assembled,1.2,113245.4
+2024-01-01,Integrated Circuits,1.3,1377049.2
+2024-01-01,Personal Computers,1.4,282977.0
+2024-01-01,Telecommunications Equipment,1.6,249032.2
+2024-01-01,Consumer Electronics,1.7,35867.8
+2024-01-01,Parts Of Integrated Circuits,1.8,84386.2
+2024-01-01,Diodes And Transistors,1.9,261940.6
+2024-01-01,Non-Electronic Products,2,12586099.0
+2024-01-01,Specialised Machinery,2.0,2709680.0
+2024-01-01,Total Chemicals,2.1,4391140.0
+2024-01-01,Pharmaceuticals,2.1.1,1931067.0
+2024-01-01,Petrochemicals,2.1.2,1106403.0
+2024-01-01,Electrical Circuit Apparatus,2.2,147744.4
+2024-01-01,Electrical Machinery & Apparatus Nes,2.3,196604.4
+2024-02-01,Total Electronic Products,1,2855719.3
+2024-02-01,Disk Drives,1.1,54311.8
+2024-02-01,PCB Assembled,1.2,106198.6
+2024-02-01,Integrated Circuits,1.3,1530823.2
+2024-02-01,Personal Computers,1.4,274429.8
+2024-02-01,Telecommunications Equipment,1.6,184121.6
+2024-02-01,Consumer Electronics,1.7,22830.9
+2024-02-01,Parts Of Integrated Circuits,1.8,112397.7
+2024-02-01,Diodes And Transistors,1.9,196916.9
+2024-02-01,Non-Electronic Products,2,10122000.0
+2024-02-01,Specialised Machinery,2.0,1340148.0
+2024-02-01,Total Chemicals,2.1,3889979.0
+2024-02-01,Pharmaceuticals,2.1.1,1594281.0
+2024-02-01,Petrochemicals,2.1.2,1056826.0
+2024-02-01,Electrical Circuit Apparatus,2.2,112481.3
+2024-02-01,Electrical Machinery & Apparatus Nes,2.3,159599.2
+2024-03-01,Total Electronic Products,1,2796310.7
+2024-03-01,Disk Drives,1.1,82539.0
+2024-03-01,PCB Assembled,1.2,121283.4
+2024-03-01,Integrated Circuits,1.3,1366423.4
+2024-03-01,Personal Computers,1.4,239798.7
+2024-03-01,Telecommunications Equipment,1.6,218764.1
+2024-03-01,Consumer Electronics,1.7,35778.3
+2024-03-01,Parts Of Integrated Circuits,1.8,95280.9
+2024-03-01,Diodes And Transistors,1.9,247187.0
+2024-03-01,Non-Electronic Products,2,11155095.0
+2024-03-01,Specialised Machinery,2.0,1966279.0
+2024-03-01,Total Chemicals,2.1,3543830.0
+2024-03-01,Pharmaceuticals,2.1.1,877343.0
+2024-03-01,Petrochemicals,2.1.2,1160131.0
+2024-03-01,Electrical Circuit Apparatus,2.2,155791.6
+2024-03-01,Electrical Machinery & Apparatus Nes,2.3,195437.1
+2024-04-01,Total Electronic Products,1,3077179.6
+2024-04-01,Disk Drives,1.1,75958.9
+2024-04-01,PCB Assembled,1.2,118476.8
+2024-04-01,Integrated Circuits,1.3,1426411.1
+2024-04-01,Personal Computers,1.4,354832.5
+2024-04-01,Telecommunications Equipment,1.6,163329.9
+2024-04-01,Consumer Electronics,1.7,34292.0
+2024-04-01,Parts Of Integrated Circuits,1.8,104054.4
+2024-04-01,Diodes And Transistors,1.9,273731.7
+2024-04-01,Non-Electronic Products,2,10811864.0
+2024-04-01,Specialised Machinery,2.0,2199681.0
+2024-04-01,Total Chemicals,2.1,3567123.0
+2024-04-01,Pharmaceuticals,2.1.1,843782.0
+2024-04-01,Petrochemicals,2.1.2,1321018.0
+2024-04-01,Electrical Circuit Apparatus,2.2,164352.5
+2024-04-01,Electrical Machinery & Apparatus Nes,2.3,185457.9
+2024-05-01,Total Electronic Products,1,3601344.6
+2024-05-01,Disk Drives,1.1,54160.9
+2024-05-01,PCB Assembled,1.2,133515.3
+2024-05-01,Integrated Circuits,1.3,1919778.4
+2024-05-01,Personal Computers,1.4,286881.2
+2024-05-01,Telecommunications Equipment,1.6,175646.0
+2024-05-01,Consumer Electronics,1.7,40550.8
+2024-05-01,Parts Of Integrated Circuits,1.8,69484.2
+2024-05-01,Diodes And Transistors,1.9,275752.3
+2024-05-01,Non-Electronic Products,2,10584397.0
+2024-05-01,Specialised Machinery,2.0,1500977.0
+2024-05-01,Total Chemicals,2.1,3485836.0
+2024-05-01,Pharmaceuticals,2.1.1,838999.0
+2024-05-01,Petrochemicals,2.1.2,1178555.0
+2024-05-01,Electrical Circuit Apparatus,2.2,154800.3
+2024-05-01,Electrical Machinery & Apparatus Nes,2.3,194331.4
+2024-06-01,Total Electronic Products,1,3106966.4
+2024-06-01,Disk Drives,1.1,67575.7
+2024-06-01,PCB Assembled,1.2,110724.5
+2024-06-01,Integrated Circuits,1.3,1378575.9
+2024-06-01,Personal Computers,1.4,354341.4
+2024-06-01,Telecommunications Equipment,1.6,206150.7
+2024-06-01,Consumer Electronics,1.7,37642.5
+2024-06-01,Parts Of Integrated Circuits,1.8,77750.5
+2024-06-01,Diodes And Transistors,1.9,243368.9
+2024-06-01,Non-Electronic Products,2,10478927.0
+2024-06-01,Specialised Machinery,2.0,1624419.0
+2024-06-01,Total Chemicals,2.1,3526806.0
+2024-06-01,Pharmaceuticals,2.1.1,1016907.0
+2024-06-01,Petrochemicals,2.1.2,1214754.0
+2024-06-01,Electrical Circuit Apparatus,2.2,151877.8
+2024-06-01,Electrical Machinery & Apparatus Nes,2.3,162049.2
+2024-07-01,Total Electronic Products,1,3525278.8
+2024-07-01,Disk Drives,1.1,85080.2
+2024-07-01,PCB Assembled,1.2,117580.1
+2024-07-01,Integrated Circuits,1.3,1577295.0
+2024-07-01,Personal Computers,1.4,362242.2
+2024-07-01,Telecommunications Equipment,1.6,209011.3
+2024-07-01,Consumer Electronics,1.7,42462.4
+2024-07-01,Parts Of Integrated Circuits,1.8,85721.5
+2024-07-01,Diodes And Transistors,1.9,254356.4
+2024-07-01,Non-Electronic Products,2,12852878.0
+2024-07-01,Specialised Machinery,2.0,2225246.0
+2024-07-01,Total Chemicals,2.1,5002076.0
+2024-07-01,Pharmaceuticals,2.1.1,2166344.0
+2024-07-01,Petrochemicals,2.1.2,1364461.0
+2024-07-01,Electrical Circuit Apparatus,2.2,162179.6
+2024-07-01,Electrical Machinery & Apparatus Nes,2.3,217524.9
+2024-08-01,Total Electronic Products,1,4051147.1
+2024-08-01,Disk Drives,1.1,52251.8
+2024-08-01,PCB Assembled,1.2,115249.4
+2024-08-01,Integrated Circuits,1.3,2215685.0
+2024-08-01,Personal Computers,1.4,319145.8
+2024-08-01,Telecommunications Equipment,1.6,198215.0
+2024-08-01,Consumer Electronics,1.7,32478.9
+2024-08-01,Parts Of Integrated Circuits,1.8,65884.1
+2024-08-01,Diodes And Transistors,1.9,237385.7
+2024-08-01,Non-Electronic Products,2,10952559.0
+2024-08-01,Specialised Machinery,2.0,1865713.0
+2024-08-01,Total Chemicals,2.1,3485091.0
+2024-08-01,Pharmaceuticals,2.1.1,801707.0
+2024-08-01,Petrochemicals,2.1.2,1228847.0
+2024-08-01,Electrical Circuit Apparatus,2.2,174611.2
+2024-08-01,Electrical Machinery & Apparatus Nes,2.3,183858.0
+2024-09-01,Total Electronic Products,1,3029453.4
+2024-09-01,Disk Drives,1.1,72858.4
+2024-09-01,PCB Assembled,1.2,106072.9
+2024-09-01,Integrated Circuits,1.3,1500323.6
+2024-09-01,Personal Computers,1.4,366835.0
+2024-09-01,Telecommunications Equipment,1.6,208677.0
+2024-09-01,Consumer Electronics,1.7,30968.7
+2024-09-01,Parts Of Integrated Circuits,1.8,75362.7
+2024-09-01,Diodes And Transistors,1.9,211151.4
+2024-09-01,Non-Electronic Products,2,10863772.0
+2024-09-01,Specialised Machinery,2.0,1796278.0
+2024-09-01,Total Chemicals,2.1,3883404.0
+2024-09-01,Pharmaceuticals,2.1.1,1345402.0
+2024-09-01,Petrochemicals,2.1.2,1050746.0
+2024-09-01,Electrical Circuit Apparatus,2.2,145900.6
+2024-09-01,Electrical Machinery & Apparatus Nes,2.3,174148.2
+2024-10-01,Total Electronic Products,1,3374811.3
+2024-10-01,Disk Drives,1.1,71107.7
+2024-10-01,PCB Assembled,1.2,85270.4
+2024-10-01,Integrated Circuits,1.3,1640557.3
+2024-10-01,Personal Computers,1.4,457850.9
+2024-10-01,Telecommunications Equipment,1.6,194640.2
+2024-10-01,Consumer Electronics,1.7,40375.6
+2024-10-01,Parts Of Integrated Circuits,1.8,78247.1
+2024-10-01,Diodes And Transistors,1.9,226659.0
+2024-10-01,Non-Electronic Products,2,10701638.0
+2024-10-01,Specialised Machinery,2.0,1977782.0
+2024-10-01,Total Chemicals,2.1,3213842.0
+2024-10-01,Pharmaceuticals,2.1.1,739291.0
+2024-10-01,Petrochemicals,2.1.2,1147588.0
+2024-10-01,Electrical Circuit Apparatus,2.2,168861.2
+2024-10-01,Electrical Machinery & Apparatus Nes,2.3,144261.9
+2024-11-01,Total Electronic Products,1,3579249.5
+2024-11-01,Disk Drives,1.1,78358.4
+2024-11-01,PCB Assembled,1.2,113200.5
+2024-11-01,Integrated Circuits,1.3,1820657.7
+2024-11-01,Personal Computers,1.4,336736.7
+2024-11-01,Telecommunications Equipment,1.6,173792.9
+2024-11-01,Consumer Electronics,1.7,34047.8
+2024-11-01,Parts Of Integrated Circuits,1.8,73565.0
+2024-11-01,Diodes And Transistors,1.9,200414.4
+2024-11-01,Non-Electronic Products,2,11395080.0
+2024-11-01,Specialised Machinery,2.0,1518910.0
+2024-11-01,Total Chemicals,2.1,3343658.0
+2024-11-01,Pharmaceuticals,2.1.1,855366.0
+2024-11-01,Petrochemicals,2.1.2,1099906.0
+2024-11-01,Electrical Circuit Apparatus,2.2,173491.3
+2024-11-01,Electrical Machinery & Apparatus Nes,2.3,157276.8
+2024-12-01,Total Electronic Products,1,3326095.0
+2024-12-01,Disk Drives,1.1,76694.9
+2024-12-01,PCB Assembled,1.2,110811.9
+2024-12-01,Integrated Circuits,1.3,1639434.9
+2024-12-01,Personal Computers,1.4,443103.4
+2024-12-01,Telecommunications Equipment,1.6,179990.0
+2024-12-01,Consumer Electronics,1.7,75452.5
+2024-12-01,Parts Of Integrated Circuits,1.8,77006.0
+2024-12-01,Diodes And Transistors,1.9,171131.5
+2024-12-01,Non-Electronic Products,2,11901456.0
+2024-12-01,Specialised Machinery,2.0,2073613.0
+2024-12-01,Total Chemicals,2.1,3105808.0
+2024-12-01,Pharmaceuticals,2.1.1,718083.0
+2024-12-01,Petrochemicals,2.1.2,1069852.0
+2024-12-01,Electrical Circuit Apparatus,2.2,159167.2
+2024-12-01,Electrical Machinery & Apparatus Nes,2.3,163483.5
+2025-01-01,Total Electronic Products,1,3145245.3
+2025-01-01,Disk Drives,1.1,45957.7
+2025-01-01,PCB Assembled,1.2,85145.1
+2025-01-01,Integrated Circuits,1.3,1579128.9
+2025-01-01,Personal Computers,1.4,470219.1
+2025-01-01,Telecommunications Equipment,1.6,180274.6
+2025-01-01,Consumer Electronics,1.7,29805.3
+2025-01-01,Parts Of Integrated Circuits,1.8,71701.3
+2025-01-01,Diodes And Transistors,1.9,146600.6
+2025-01-01,Non-Electronic Products,2,11984500.0
+2025-01-01,Specialised Machinery,2.0,2440633.0
+2025-01-01,Total Chemicals,2.1,3382635.0
+2025-01-01,Pharmaceuticals,2.1.1,907464.0
+2025-01-01,Petrochemicals,2.1.2,1103328.0
+2025-01-01,Electrical Circuit Apparatus,2.2,146491.9
+2025-01-01,Electrical Machinery & Apparatus Nes,2.3,148942.0
+2025-02-01,Total Electronic Products,1,3052110.7
+2025-02-01,Disk Drives,1.1,52939.0
+2025-02-01,PCB Assembled,1.2,89208.9
+2025-02-01,Integrated Circuits,1.3,1635840.7
+2025-02-01,Personal Computers,1.4,352767.7
+2025-02-01,Telecommunications Equipment,1.6,173431.7
+2025-02-01,Consumer Electronics,1.7,33354.2
+2025-02-01,Parts Of Integrated Circuits,1.8,72382.9
+2025-02-01,Diodes And Transistors,1.9,148369.0
+2025-02-01,Non-Electronic Products,2,10904849.0
+2025-02-01,Specialised Machinery,2.0,1254341.0
+2025-02-01,Total Chemicals,2.1,3442471.0
+2025-02-01,Pharmaceuticals,2.1.1,920287.0
+2025-02-01,Petrochemicals,2.1.2,1107059.0
+2025-02-01,Electrical Circuit Apparatus,2.2,154056.3
+2025-02-01,Electrical Machinery & Apparatus Nes,2.3,129055.9
+2025-03-01,Total Electronic Products,1,3136516.9
+2025-03-01,Disk Drives,1.1,73591.2
+2025-03-01,PCB Assembled,1.2,97589.6
+2025-03-01,Integrated Circuits,1.3,1455237.1
+2025-03-01,Personal Computers,1.4,530845.6
+2025-03-01,Telecommunications Equipment,1.6,202828.0
+2025-03-01,Consumer Electronics,1.7,37284.8
+2025-03-01,Parts Of Integrated Circuits,1.8,68197.4
+2025-03-01,Diodes And Transistors,1.9,180955.8
+2025-03-01,Non-Electronic Products,2,11569344.0
+2025-03-01,Specialised Machinery,2.0,1823083.0
+2025-03-01,Total Chemicals,2.1,3610829.0
+2025-03-01,Pharmaceuticals,2.1.1,1096086.0
+2025-03-01,Petrochemicals,2.1.2,1109669.0
+2025-03-01,Electrical Circuit Apparatus,2.2,180812.0
+2025-03-01,Electrical Machinery & Apparatus Nes,2.3,129803.0
+2025-04-01,Total Electronic Products,1,3798007.1
+2025-04-01,Disk Drives,1.1,73991.4
+2025-04-01,PCB Assembled,1.2,84628.7
+2025-04-01,Integrated Circuits,1.3,1759284.5
+2025-04-01,Personal Computers,1.4,793908.8
+2025-04-01,Telecommunications Equipment,1.6,186830.6
+2025-04-01,Consumer Electronics,1.7,34443.4
+2025-04-01,Parts Of Integrated Circuits,1.8,75804.8
+2025-04-01,Diodes And Transistors,1.9,225884.6
+2025-04-01,Non-Electronic Products,2,11814471.0
+2025-04-01,Specialised Machinery,2.0,2347359.0
+2025-04-01,Total Chemicals,2.1,3321284.0
+2025-04-01,Pharmaceuticals,2.1.1,863563.0
+2025-04-01,Petrochemicals,2.1.2,1123962.0
+2025-04-01,Electrical Circuit Apparatus,2.2,194633.7
+2025-04-01,Electrical Machinery & Apparatus Nes,2.3,144824.9
+2025-05-01,Total Electronic Products,1,3659323.5
+2025-05-01,Disk Drives,1.1,53887.4
+2025-05-01,PCB Assembled,1.2,90430.5
+2025-05-01,Integrated Circuits,1.3,2001979.7
+2025-05-01,Personal Computers,1.4,432976.9
+2025-05-01,Telecommunications Equipment,1.6,176038.2
+2025-05-01,Consumer Electronics,1.7,60411.6
+2025-05-01,Parts Of Integrated Circuits,1.8,61754.2
+2025-05-01,Diodes And Transistors,1.9,224463.2
+2025-05-01,Non-Electronic Products,2,9969986.0
+2025-05-01,Specialised Machinery,2.0,1326285.0
+2025-05-01,Total Chemicals,2.1,3317887.0
+2025-05-01,Pharmaceuticals,2.1.1,1001091.0
+2025-05-01,Petrochemicals,2.1.2,967640.0
+2025-05-01,Electrical Circuit Apparatus,2.2,179222.5
+2025-05-01,Electrical Machinery & Apparatus Nes,2.3,134233.8
+2025-06-01,Total Electronic Products,1,3352694.1
+2025-06-01,Disk Drives,1.1,71623.4
+2025-06-01,PCB Assembled,1.2,69831.2
+2025-06-01,Integrated Circuits,1.3,1619167.8
+2025-06-01,Personal Computers,1.4,540728.2
+2025-06-01,Telecommunications Equipment,1.6,184956.6
+2025-06-01,Consumer Electronics,1.7,35937.2
+2025-06-01,Parts Of Integrated Circuits,1.8,74216.8
+2025-06-01,Diodes And Transistors,1.9,192749.7
+2025-06-01,Non-Electronic Products,2,11979674.0
+2025-06-01,Specialised Machinery,2.0,2134866.0
+2025-06-01,Total Chemicals,2.1,3287786.0
+2025-06-01,Pharmaceuticals,2.1.1,877029.0
+2025-06-01,Petrochemicals,2.1.2,1090360.0
+2025-06-01,Electrical Circuit Apparatus,2.2,184307.6
+2025-06-01,Electrical Machinery & Apparatus Nes,2.3,159024.8
+2025-07-01,Total Electronic Products,1,3618401.7
+2025-07-01,Disk Drives,1.1,81148.6
+2025-07-01,PCB Assembled,1.2,77342.6
+2025-07-01,Integrated Circuits,1.3,1703319.1
+2025-07-01,Personal Computers,1.4,646647.5
+2025-07-01,Telecommunications Equipment,1.6,186842.1
+2025-07-01,Consumer Electronics,1.7,48417.6
+2025-07-01,Parts Of Integrated Circuits,1.8,83097.9
+2025-07-01,Diodes And Transistors,1.9,199650.3
+2025-07-01,Non-Electronic Products,2,11992856.0
+2025-07-01,Specialised Machinery,2.0,2554800.0
+2025-07-01,Total Chemicals,2.1,4169349.0
+2025-07-01,Pharmaceuticals,2.1.1,1756979.0
+2025-07-01,Petrochemicals,2.1.2,1045269.0
+2025-07-01,Electrical Circuit Apparatus,2.2,187612.9
+2025-07-01,Electrical Machinery & Apparatus Nes,2.3,148703.0
+2025-08-01,Total Electronic Products,1,3786942.2
+2025-08-01,Disk Drives,1.1,69820.0
+2025-08-01,PCB Assembled,1.2,72770.4
+2025-08-01,Integrated Circuits,1.3,2051681.2
+2025-08-01,Personal Computers,1.4,546641.0
+2025-08-01,Telecommunications Equipment,1.6,164452.6
+2025-08-01,Consumer Electronics,1.7,27043.0
+2025-08-01,Parts Of Integrated Circuits,1.8,60110.4
+2025-08-01,Diodes And Transistors,1.9,199817.5
+2025-08-01,Non-Electronic Products,2,9492814.0
+2025-08-01,Specialised Machinery,2.0,1315737.0
+2025-08-01,Total Chemicals,2.1,3217058.0
+2025-08-01,Pharmaceuticals,2.1.1,927305.0
+2025-08-01,Petrochemicals,2.1.2,943013.0
+2025-08-01,Electrical Circuit Apparatus,2.2,186685.5
+2025-08-01,Electrical Machinery & Apparatus Nes,2.3,143094.6
+2025-09-01,Total Electronic Products,1,3949224.4
+2025-09-01,Disk Drives,1.1,93973.5
+2025-09-01,PCB Assembled,1.2,71677.2
+2025-09-01,Integrated Circuits,1.3,2024296.7
+2025-09-01,Personal Computers,1.4,579973.9
+2025-09-01,Telecommunications Equipment,1.6,223463.8
+2025-09-01,Consumer Electronics,1.7,39055.5
+2025-09-01,Parts Of Integrated Circuits,1.8,73135.4
+2025-09-01,Diodes And Transistors,1.9,206924.3
+2025-09-01,Non-Electronic Products,2,10915838.0
+2025-09-01,Specialised Machinery,2.0,2053375.0
+2025-09-01,Total Chemicals,2.1,3368176.0
+2025-09-01,Pharmaceuticals,2.1.1,1227982.0
+2025-09-01,Petrochemicals,2.1.2,882340.0
+2025-09-01,Electrical Circuit Apparatus,2.2,191434.9
+2025-09-01,Electrical Machinery & Apparatus Nes,2.3,144343.3
+2025-10-01,Total Electronic Products,1,4492835.2
+2025-10-01,Disk Drives,1.1,88599.2
+2025-10-01,PCB Assembled,1.2,67038.2
+2025-10-01,Integrated Circuits,1.3,2310907.2
+2025-10-01,Personal Computers,1.4,811989.5
+2025-10-01,Telecommunications Equipment,1.6,195018.4
+2025-10-01,Consumer Electronics,1.7,30039.6
+2025-10-01,Parts Of Integrated Circuits,1.8,79277.8
+2025-10-01,Diodes And Transistors,1.9,206447.2
+2025-10-01,Non-Electronic Products,2,12550114.0
+2025-10-01,Specialised Machinery,2.0,2292436.0
+2025-10-01,Total Chemicals,2.1,3233052.0
+2025-10-01,Pharmaceuticals,2.1.1,925444.0
+2025-10-01,Petrochemicals,2.1.2,956489.0
+2025-10-01,Electrical Circuit Apparatus,2.2,190680.8
+2025-10-01,Electrical Machinery & Apparatus Nes,2.3,157566.1
+2025-11-01,Total Electronic Products,1,4039994.1
+2025-11-01,Disk Drives,1.1,64264.0
+2025-11-01,PCB Assembled,1.2,72148.2
+2025-11-01,Integrated Circuits,1.3,2238456.7
+2025-11-01,Personal Computers,1.4,498507.6
+2025-11-01,Telecommunications Equipment,1.6,182793.7
+2025-11-01,Consumer Electronics,1.7,26028.1
+2025-11-01,Parts Of Integrated Circuits,1.8,74430.2
+2025-11-01,Diodes And Transistors,1.9,184431.4
+2025-11-01,Non-Electronic Products,2,12655709.0
+2025-11-01,Specialised Machinery,2.0,1336910.0
+2025-11-01,Total Chemicals,2.1,6057254.0
+2025-11-01,Pharmaceuticals,2.1.1,4018606.0
+2025-11-01,Petrochemicals,2.1.2,807031.0
+2025-11-01,Electrical Circuit Apparatus,2.2,164292.2
+2025-11-01,Electrical Machinery & Apparatus Nes,2.3,134728.4
+2025-12-01,Total Electronic Products,1,4155871.1
+2025-12-01,Disk Drives,1.1,80452.9
+2025-12-01,PCB Assembled,1.2,71909.9
+2025-12-01,Integrated Circuits,1.3,2166497.3
+2025-12-01,Personal Computers,1.4,531418.9
+2025-12-01,Telecommunications Equipment,1.6,326585.2
+2025-12-01,Consumer Electronics,1.7,34757.0
+2025-12-01,Parts Of Integrated Circuits,1.8,72588.0
+2025-12-01,Diodes And Transistors,1.9,193920.3
+2025-12-01,Non-Electronic Products,2,12000193.0
+2025-12-01,Specialised Machinery,2.0,2185351.0
+2025-12-01,Total Chemicals,2.1,2914297.0
+2025-12-01,Pharmaceuticals,2.1.1,662417.0
+2025-12-01,Petrochemicals,2.1.2,874459.0
+2025-12-01,Electrical Circuit Apparatus,2.2,188223.5
+2025-12-01,Electrical Machinery & Apparatus Nes,2.3,149069.3
+2026-01-01,Total Electronic Products,1,4908325.1
+2026-01-01,Disk Drives,1.1,91206.0
+2026-01-01,PCB Assembled,1.2,70724.6
+2026-01-01,Integrated Circuits,1.3,2849437.0
+2026-01-01,Personal Computers,1.4,583082.6
+2026-01-01,Telecommunications Equipment,1.6,205171.0
+2026-01-01,Consumer Electronics,1.7,22414.3
+2026-01-01,Parts Of Integrated Circuits,1.8,81556.8
+2026-01-01,Diodes And Transistors,1.9,211691.6
+2026-01-01,Non-Electronic Products,2,11615288.0
+2026-01-01,Specialised Machinery,2.0,2050328.0
+2026-01-01,Total Chemicals,2.1,3320649.0
+2026-01-01,Pharmaceuticals,2.1.1,1151286.0
+2026-01-01,Petrochemicals,2.1.2,833184.0
+2026-01-01,Electrical Circuit Apparatus,2.2,182779.9
+2026-01-01,Electrical Machinery & Apparatus Nes,2.3,119258.9
+2026-02-01,Total Electronic Products,1,4368150.1
+2026-02-01,Disk Drives,1.1,62268.4
+2026-02-01,PCB Assembled,1.2,65117.1
+2026-02-01,Integrated Circuits,1.3,2473318.2
+2026-02-01,Personal Computers,1.4,433461.1
+2026-02-01,Telecommunications Equipment,1.6,213139.4
+2026-02-01,Consumer Electronics,1.7,19200.0
+2026-02-01,Parts Of Integrated Circuits,1.8,61721.9
+2026-02-01,Diodes And Transistors,1.9,158449.0
+2026-02-01,Non-Electronic Products,2,10152281.0
+2026-02-01,Specialised Machinery,2.0,1280686.0
+2026-02-01,Total Chemicals,2.1,2926411.0
+2026-02-01,Pharmaceuticals,2.1.1,993090.0
+2026-02-01,Petrochemicals,2.1.2,788796.0
+2026-02-01,Electrical Circuit Apparatus,2.2,163784.1
+2026-02-01,Electrical Machinery & Apparatus Nes,2.3,104191.5
+2026-03-01,Total Electronic Products,1,5454553.8
+2026-03-01,Disk Drives,1.1,98996.3
+2026-03-01,PCB Assembled,1.2,79948.1
+2026-03-01,Integrated Circuits,1.3,3110905.7
+2026-03-01,Personal Computers,1.4,832225.0
+2026-03-01,Telecommunications Equipment,1.6,236416.4
+2026-03-01,Consumer Electronics,1.7,26500.8
+2026-03-01,Parts Of Integrated Circuits,1.8,77435.6
+2026-03-01,Diodes And Transistors,1.9,200111.1
+2026-03-01,Non-Electronic Products,2,11494326.0
+2026-03-01,Specialised Machinery,2.0,2330466.0
+2026-03-01,Total Chemicals,2.1,3258262.0
+2026-03-01,Pharmaceuticals,2.1.1,894565.0
+2026-03-01,Petrochemicals,2.1.2,911665.0
+2026-03-01,Electrical Circuit Apparatus,2.2,228202.1
+2026-03-01,Electrical Machinery & Apparatus Nes,2.3,131659.7
+2026-04-01,Total Electronic Products,1,6330434.5
+2026-04-01,Disk Drives,1.1,83161.8
+2026-04-01,PCB Assembled,1.2,76294.5
+2026-04-01,Integrated Circuits,1.3,3215011.9
+2026-04-01,Personal Computers,1.4,1077028.3
+2026-04-01,Telecommunications Equipment,1.6,285318.1
+2026-04-01,Consumer Electronics,1.7,26024.4
+2026-04-01,Parts Of Integrated Circuits,1.8,87096.2
+2026-04-01,Diodes And Transistors,1.9,212664.8
+2026-04-01,Non-Electronic Products,2,13099822.0
+2026-04-01,Specialised Machinery,2.0,2900856.0
+2026-04-01,Total Chemicals,2.1,3970928.0
+2026-04-01,Pharmaceuticals,2.1.1,1701712.0
+2026-04-01,Petrochemicals,2.1.2,848910.0
+2026-04-01,Electrical Circuit Apparatus,2.2,246960.1
+2026-04-01,Electrical Machinery & Apparatus Nes,2.3,130426.9

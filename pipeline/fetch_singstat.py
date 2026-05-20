@@ -1,314 +1,437 @@
-"""
-SingStat TableBuilder API fetcher.
-
-Uses urllib.request with browser-like headers — required by SingStat's API.
-Technique from: https://tablebuilder.singstat.gov.sg/view-api/for-developers
-
-API endpoint:
-  GET https://tablebuilder.singstat.gov.sg/api/table/tabledata/{tableId}
-
-Query parameters:
-  seriesNoORrowNo  str   Series number (Time Series) or row number (Cross-Sectional).
-                         Use "1.1", "1.2", etc. Omit to get all series.
-  offset           int   Number of records to skip (default 0). For pagination.
-  limit            int   Max records returned. Hard cap is 3000.
-  sortBy           str   Sort field + direction, e.g. "rowtext asc", "key desc".
-  timeFilter       str   Filter to a specific period, e.g. "2023 1H", "2022 Q1".
-  between          str   Filter values to a range, e.g. "0, 9000" (URL-encode comma).
-  search           str   Text search within row labels.
-"""
-
 import json
 import os
+import asyncio
 import time
-import re
 from urllib.request import Request, urlopen
 from urllib.parse import urlencode
-from urllib.error import HTTPError, URLError
+from datetime import datetime
 
 import pandas as pd
 
-# ── Constants ──────────────────────────────────────────────────────────────────
+# ── Constants ─────────────────────────────────────────────
 
 BASE_URL = "https://tablebuilder.singstat.gov.sg/api/table/tabledata"
-META_URL = "https://tablebuilder.singstat.gov.sg/api/table/metadata"
 RAW_DIR  = "data/raw/singstat"
 
-# Browser-like headers required by SingStat — plain requests without these get blocked.
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
-    "Accept":     "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept": "application/json",
 }
 
-# Tables to fetch: { dataset_name: { tableId, seriesNoORrowNo (optional), ... } }
-SINGSTAT_TABLES = {
-    "gdp_expenditure": {
-        "tableId":        "M014871",
-        "seriesNoORrowNo": None,   # fetch all series
-        "limit":          3000,
-        "sortBy":         "key asc",
-    },
-    "total_manufacturing": {
-        "tableId":        "M354891",
-        "seriesNoORrowNo": None,
-        "limit":          4000,
-        "sortBy":         "key asc",
-    },
-    "manufacturing_va_by_industry": {
-        "tableId":        "M354861",
-        "seriesNoORrowNo": None,
-        "limit":          3000,
-        "sortBy":         "key asc",       
-    },
-    "services_industry" : {
-        "tableId":        "M601481",
-        "seriesNoORrowNo": None,
-        "limit":          3000,
-        "sortBy":         "key asc",          
-    },
-    "merchandise_exports": {
-        "tableId":        "M780141",
-        "seriesNoORrowNo": None,
-        "limit":          3000,
-        "sortBy":         "key asc",
-    },
-    "income_FDI_country" : {
-        "tableId":        "M083901",
-        "seriesNoORrowNo": None,
-        "limit":          3000,
-        "sortBy":         "key asc",        
-    },
-    "return_FDI_country" : {
-        "tableId":        "M084001",
-        "seriesNoORrowNo": None,
-        "limit":          3000,
-        "sortBy":         "key asc",          
-    },
-    "income_FDI_industry" : {
-        "tableId":        "M084871",
-        "seriesNoORrowNo": None,
-        "limit":          3000,
-        "sortBy":         "key asc",        
-    },
-    "return_FDI_industry" : {
-        "tableId":        "M084911",
-        "seriesNoORrowNo": None,
-        "limit":          3000,
-        "sortBy":         "key asc",          
-    },
-    "gdp_growth_sector" : {
-        "tableId":        "M015631",
-        "seriesNoORrowNo": None,
-        "limit":          3000,
-        "sortBy":         "key asc",        
-    },
-    "gdp_industry" : {
-        "tableId":        "M015652",
-        "seriesNoORrowNo": None,
-        "limit":          3000,
-        "sortBy":         "key asc"        
-    },
-    
-    "cpi": {
-        "tableId":        "M212911",
-        "seriesNoORrowNo": None,
-        "limit":          3000,
-        "sortBy":         "key asc",
-    },
-}
+MAX_CONCURRENT_REQUESTS = 8
 
 os.makedirs(RAW_DIR, exist_ok=True)
 
+# ── YOUR CONFIG (UNCHANGED) ───────────────────────────────
 
-# ── Core fetch helpers ─────────────────────────────────────────────────────────
+SINGSTAT_TABLES = {
+    "gdp_expenditure": {
+        "tableId": "M014871",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "total_manufacturing": {
+        "tableId": "M354891",
+        "seriesNoORrowNo": None,
+        "limit": 4000,
+        "sortBy": "key asc",
+    },
+    "IPI (Industrial Production Index)": {
+        "tableId": "M355351",
+        "seriesNoORrowNo": None,
+        "limit": 10000,
+        "sortBy": "key asc",
+    },
+    "Non-Oil Domestic Exports": {
+        "tableId": "M450981",
+        "seriesNoORrowNo": None,
+        "limit": 4000,
+        "sortBy": "key asc",
+    },
+    "merchandise trade by commodity (monthly)": {
+        "tableId": "M451002",
+        "seriesNoORrowNo": None,
+        "limit": 4000,
+        "sortBy": "key asc",
+    },
+    "manufacturing_va_by_industry": {
+        "tableId": "M354861",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "services_industry": {
+        "tableId": "M601481",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "merchandise_exports": {
+        "tableId": "M451031",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "income_FDI_country": {
+        "tableId": "M083901",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "return_FDI_country": {
+        "tableId": "M084001",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "income_FDI_industry": {
+        "tableId": "M084871",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "return_FDI_industry": {
+        "tableId": "M084911",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "gdp_growth_sector": {
+        "tableId": "M015631",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "gdp_industry": {
+        "tableId": "M015652",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc"
+    },
+    "CPI (monthly)": {
+        "tableId": "M213752",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "CPI Percent Change": {
+        "tableId": "M213792",
+        "seriesNoORrowNo": None,
+        "limit": 3000,
+        "sortBy": "key asc",
+    },
+    "FDI flows (Country & Component)": {
+        "tableId": "M085821",
+        "seriesNoORrowNo": None,
+        "limit": 4000,
+        "sortBy": "key asc",
+    },
+    "FDI flows (Country & Industry)": {
+        "tableId": "M085811",
+        "seriesNoORrowNo": None,
+        "limit": 4000,
+        "sortBy": "key asc",
+    },
+}
 
-def _build_url(table_id: str, params: dict) -> str:
-    """Build the full API URL with encoded query parameters."""
+# ── Helpers ───────────────────────────────────────────────
+
+def _build_url(table_id, params):
     clean = {k: v for k, v in params.items() if v is not None}
     return f"{BASE_URL}/{table_id}?{urlencode(clean)}"
 
 
-def _get(url: str, retries: int = 3, backoff: float = 2.0) -> dict:
-    """
-    HTTP GET using urllib.request with browser headers.
-    Retries on transient errors with exponential backoff.
-    """
-    for attempt in range(1, retries + 1):
+def _get(url, retries=3):
+    for i in range(retries):
         try:
-            req  = Request(url, headers=HEADERS)
-            raw  = urlopen(req, timeout=30).read()
+            req = Request(url, headers=HEADERS)
+            raw = urlopen(req, timeout=30).read()
             return json.loads(raw)
-        except HTTPError as e:
-            print(f"  [HTTP {e.code}] {url} (attempt {attempt}/{retries})")
-            if e.code in (400, 403, 404):
-                raise   # Non-retryable
-        except URLError as e:
-            print(f"  [URLError] {e.reason} (attempt {attempt}/{retries})")
-        except json.JSONDecodeError as e:
-            print(f"  [JSONError] {e} (attempt {attempt}/{retries})")
-
-        if attempt < retries:
-            time.sleep(backoff ** attempt)
-
-    raise RuntimeError(f"Failed to fetch after {retries} attempts: {url}")
+        except Exception as e:
+            print(f"[Retry {i+1}] {e}")
+            time.sleep(2)
+    raise RuntimeError(f"Failed to fetch: {url}")
 
 
-# ── Metadata ───────────────────────────────────────────────────────────────────
-
-def fetch_metadata(table_id: str) -> dict:
-    """
-    Fetch table metadata: title, unit, frequency, series descriptions.
-    Endpoint: GET /api/table/metadata/{tableId}
-    """
-    url  = f"{META_URL}/{table_id}"
-    req  = Request(url, headers=HEADERS)
-    raw  = urlopen(req, timeout=30).read()
-    meta = json.loads(raw)
-    return meta
+async def _get_async(url, semaphore, retries=3):
+    for i in range(retries):
+        try:
+            async with semaphore:
+                return await asyncio.to_thread(_get, url, 1)
+        except Exception as e:
+            print(f"[Retry {i+1}] {e}")
+            await asyncio.sleep(2)
+    raise RuntimeError(f"Failed to fetch: {url}")
 
 
-# ── Table data ─────────────────────────────────────────────────────────────────
+# ── 🔥 DATE PARSER (CORE FIX) ─────────────────────────────
 
-def fetch_singstat_table(
-    table_id:          str,
-    dataset_name:      str,
-    series_no:         str | None = None,
-    offset:            int        = 0,
-    limit:             int        = 3000,
-    sort_by:           str        = "key asc",
-    time_filter:       str | None = None,
-    between:           str | None = None,
-    search:            str | None = None,
-    start_year:        int | str | None = 2019 # Defaulting to 2019
-) -> pd.DataFrame:
-    """
-    Fetch a SingStat TableBuilder dataset and return a tidy DataFrame.
+def parse_singstat_date(date_str):
+    date_str = date_str.strip()
 
-    Handles pagination automatically: if the response contains exactly `limit`
-    rows, it re-fetches with incremented offset until exhausted.
-    """
-    all_rows: list[dict] = []
-    current_offset       = offset
-    total_rows: int | None = None          
+    # Monthly: "2019 Jan"
+    try:
+        return pd.to_datetime(date_str, format="%Y %b")
+    except:
+        pass
 
-    # Convert start_year to integer once if provided
-    min_year = int(start_year) if start_year is not None else None
+    # Quarterly: "2019 Q1"
+    if "Q" in date_str:
+        try:
+            year = int(date_str[:4])
+            quarter = int(date_str[-1])
+            month = (quarter - 1) * 3 + 1
+            return pd.Timestamp(year=year, month=month, day=1)
+        except:
+            pass
+
+    # Year: "2019"
+    try:
+        return pd.to_datetime(date_str, format="%Y")
+    except:
+        pass
+
+    return None
+
+# ── Core Fetch ────────────────────────────────────────────
+def get_table_frequency(table_id):
+    url = f"https://tablebuilder.singstat.gov.sg/api/table/metadata/{table_id}"
+
+    try:
+        req = Request(url, headers=HEADERS)
+        raw = urlopen(req, timeout=30).read()
+        data = json.loads(raw)
+
+        freq = (
+            data.get("Data", {})
+                .get("records", {})
+                .get("frequency", "")
+                .lower()
+        )
+
+        if "month" in freq:
+            return "monthly"
+        elif "quarter" in freq:
+            return "quarterly"
+        elif "year" in freq or "annual" in freq:
+            return "annual"
+        else:
+            return "unknown"
+
+    except Exception as e:
+        print(f"[WARN] Metadata fetch failed for {table_id}: {e}")
+        return "unknown"
+    
+def _build_time_tokens(frequency, start_year, current_year):
+    time_tokens = []
+
+    if frequency == "monthly":
+        months = ["Jan","Feb","Mar","Apr","May","Jun",
+                  "Jul","Aug","Sep","Oct","Nov","Dec"]
+
+        for year in range(start_year, current_year + 1):
+            for m in months:
+                time_tokens.append(f"{year}%20{m}")
+
+    elif frequency == "quarterly":
+        quarters = ["1Q","2Q","3Q","4Q"]
+
+        for year in range(start_year, current_year + 1):
+            for q in quarters:
+                time_tokens.append(f"{year}%20{q}")
+
+    elif frequency == "annual":
+        for year in range(start_year, current_year + 1):
+            time_tokens.append(f"{year}")
+
+    else:
+        for year in range(start_year, current_year + 1):
+            time_tokens.append(f"{year}")
+
+    return time_tokens
+
+
+def _build_table_url(table_id, series_no, current_offset, limit, sort_by, token):
+    base_url = f"{BASE_URL}/{table_id}?"
+    query_parts = []
+
+    if series_no is not None:
+        query_parts.append(f"seriesNoORrowNo={series_no}")
+
+    query_parts.append(f"offset={current_offset}")
+    query_parts.append(f"limit={limit}")
+    query_parts.append(f"sortBy={sort_by.replace(' ', '%20')}")
+    query_parts.append(f"timeFilter={token}")
+
+    return base_url + "&".join(query_parts)
+
+
+def _extract_rows(rows):
+    parsed_rows = []
+
+    for row in rows:
+        variable = row.get("rowText", "")
+        series_no_val = row.get("seriesNo", "")
+
+        for col in row.get("columns", []):
+            raw_date = str(col.get("key", "")).strip()
+
+            parsed_date = parse_singstat_date(raw_date)
+
+            if parsed_date is None:
+                parsed_date = pd.to_datetime(raw_date, errors="coerce")
+
+            if pd.isna(parsed_date):
+                continue
+
+            raw_val = col.get("value", "")
+
+            try:
+                value = float(raw_val)
+            except:
+                value = float("nan")
+
+            parsed_rows.append({
+                "date": parsed_date,
+                "variable": variable,
+                "seriesNo": series_no_val,
+                "value": value,
+            })
+
+    return parsed_rows
+
+
+async def _fetch_token_rows(
+    table_id,
+    dataset_name,
+    token,
+    semaphore,
+    series_no=None,
+    limit=3000,
+    sort_by="key asc",
+):
+    token_rows = []
+    current_offset = 0
+    print(f"Fetching {dataset_name} -> {token}")
 
     while True:
-        params = {
-            "seriesNoORrowNo": series_no,
-            "offset":          current_offset,
-            "limit":           limit,
-            "sortBy":          sort_by,
-            "timeFilter":      time_filter,
-            "between":         between,
-            "search":          search,
-        }
-        url  = _build_url(table_id, params)
-        print(f"  Fetching {dataset_name} (offset={current_offset}"
-              + (f"/{total_rows}" if total_rows is not None else "") + f"): {url}")
-        data = _get(url)
+        url = _build_table_url(
+            table_id=table_id,
+            series_no=series_no,
+            current_offset=current_offset,
+            limit=limit,
+            sort_by=sort_by,
+            token=token,
+        )
 
-        data_block = data.get("Data", {})
-        rows       = data_block.get("row", [])
+        data = await _get_async(url, semaphore)
+        rows = data.get("Data", {}).get("row", [])
 
         if not rows:
             break
 
-        if total_rows is None:
-            total_rows = data_block.get("totalRow")
-
-        for row in rows:
-            row_text      = row.get("rowText", "")
-            series_no_val = row.get("seriesNo", "")
-            for col in row.get("columns", []):
-                date_key = str(col.get("key", "")).strip()
-                
-                # Regex filtering to enforce start_year
-                if min_year is not None:
-                    year_match = re.search(r'\d{4}', date_key)
-                    if year_match:
-                        extracted_year = int(year_match.group(0))
-                        if extracted_year < min_year:
-                            continue  # Skip this specific date
-
-                raw_val = col.get("value", "")
-                try:
-                    value = float(raw_val)
-                except (ValueError, TypeError):
-                    value = float("nan")  # "na", "", blanks
-
-                all_rows.append({
-                    "date":     date_key,
-                    "variable": row_text,
-                    "seriesNo": series_no_val,
-                    "value":    value,
-                })
-
+        token_rows.extend(_extract_rows(rows))
         current_offset += len(rows)
 
-        if total_rows is not None and current_offset >= total_rows:
-            break
         if len(rows) < limit:
             break
 
+    return token_rows
+
+
+async def fetch_singstat_table_async(
+    table_id,
+    dataset_name,
+    series_no=None,
+    offset=0,
+    limit=3000,
+    sort_by="key asc",
+    start_year=2019
+):
+    all_rows = []
+    current_year = datetime.now().year
+
+    # Detect frequency dynamically.
+    frequency = await asyncio.to_thread(get_table_frequency, table_id)
+    print(f"[INFO] {dataset_name} -> detected frequency: {frequency}")
+
+    # Optional override (for SingStat inconsistencies).
+    FORCE_OVERRIDE = {
+        # "IPI (Industrial Production Index)": "monthly"
+    }
+
+    if dataset_name in FORCE_OVERRIDE:
+        frequency = FORCE_OVERRIDE[dataset_name]
+        print(f"[OVERRIDE] {dataset_name} -> forced to {frequency}")
+
+    if frequency == "unknown":
+        print(f"[WARN] Unknown frequency -> fallback yearly for {dataset_name}")
+
+    time_tokens = _build_time_tokens(frequency, start_year, current_year)
+    semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
+    tasks = [
+        _fetch_token_rows(
+            table_id=table_id,
+            dataset_name=dataset_name,
+            token=token,
+            semaphore=semaphore,
+            series_no=series_no,
+            limit=limit,
+            sort_by=sort_by,
+        )
+        for token in time_tokens
+    ]
+
+    for token_rows in await asyncio.gather(*tasks):
+        all_rows.extend(token_rows)
+
+    # Finalize.
     if not all_rows:
-        print(f"  [WARN] No data returned for {dataset_name}")
-        return pd.DataFrame(columns=["date", "variable", "seriesNo", "value"])
+        print(f"[WARN] No data returned for {dataset_name}")
+        return pd.DataFrame()
 
-    df = pd.DataFrame(all_rows)
+    df = pd.DataFrame(all_rows).drop_duplicates()
 
-    out_csv  = os.path.join(RAW_DIR, f"{dataset_name}.csv")
+    out_csv = os.path.join(RAW_DIR, f"{dataset_name}.csv")
     out_json = os.path.join(RAW_DIR, f"{dataset_name}.json")
     df.to_csv(out_csv, index=False)
-    with open(out_json, "w") as f:
-        json.dump(all_rows, f, indent=2)
+    df.to_json(out_json, orient="records", date_format="iso", indent=2)
 
-    print(f"  [OK] {dataset_name}: {len(df)} records -> {out_csv}")
+    print(f"[OK] {dataset_name}: {len(df)} rows")
+
     return df
 
 
-# ── Fetch all ──────────────────────────────────────────────────────────────────
+def fetch_singstat_table(*args, **kwargs):
+    return asyncio.run(fetch_singstat_table_async(*args, **kwargs))
 
-def fetch_all_singstat() -> dict[str, pd.DataFrame]:
-    """Fetch every table defined in SINGSTAT_TABLES."""
+# ── Fetch All ─────────────────────────────────────────────
+
+def fetch_all():
     results = {}
+
     for name, cfg in SINGSTAT_TABLES.items():
         print(f"\n--- {name} ({cfg['tableId']}) ---")
+
         try:
             results[name] = fetch_singstat_table(
-                table_id     = cfg["tableId"],
-                dataset_name = name,
-                series_no    = cfg.get("seriesNoORrowNo"),
-                limit        = cfg.get("limit", 3000),
-                sort_by      = cfg.get("sortBy", "key asc"),
-                time_filter  = cfg.get("timeFilter"),
-                between      = cfg.get("between"),
-                search       = cfg.get("search"),
-                start_year   = 2019 # Passed strictly here to enforce 2019 start
+                table_id=cfg["tableId"],
+                dataset_name=name,
+                series_no=cfg.get("seriesNoORrowNo"),
+                limit=cfg.get("limit", 3000),
+                sort_by=cfg.get("sortBy", "key asc"),
             )
         except Exception as e:
-            print(f"  [ERROR] {name}: {e}")
+            print(f"[ERROR] {name}: {e}")
             results[name] = pd.DataFrame()
 
     return results
 
 
-# ── Quick test ─────────────────────────────────────────────────────────────────
+fetch_all_singstat = fetch_all
+
+# ── Run ───────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    # Test with Merchandise Exports of Machinery & Equipment
-    print("=== Single-table test (Merchandise Exports of Machinery & Equipment) ===")
-    df = fetch_singstat_table(
-        table_id     = "M451121",
-        dataset_name = "merch_exports_machinery_test",
-        limit        = 4000,        
-        sort_by      = "key desc",  
-        start_year   = 2019         
-    )
-    # Output the bottom of the dataframe to verify oldest entries
-    print(df.tail(10).to_string(index=False))
-
-    print("\n=== Commencing Full Fetch ===")
-    # Automatically fetch all tables defined in SINGSTAT_TABLES
-    fetch_all_singstat()
+    fetch_all()

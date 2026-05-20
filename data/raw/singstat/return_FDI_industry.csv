@@ -1,225 +1,225 @@
 date,variable,seriesNo,value
-2019,Total,1,10.3
-2020,Total,1,9.5
-2021,Total,1,12.6
-2022,Total,1,13.3
-2023,Total,1,12.3
-2024,Total,1,12.7
-2019,Manufacturing,1.1,24.2
-2020,Manufacturing,1.1,17.6
-2021,Manufacturing,1.1,26.3
-2022,Manufacturing,1.1,26.9
-2023,Manufacturing,1.1,17.7
-2024,Manufacturing,1.1,21.2
-2019,"Food, Beverages & Tobacco",1.1.1,15.1
-2020,"Food, Beverages & Tobacco",1.1.1,8.9
-2021,"Food, Beverages & Tobacco",1.1.1,8.9
-2022,"Food, Beverages & Tobacco",1.1.1,13.7
-2023,"Food, Beverages & Tobacco",1.1.1,6.7
-2024,"Food, Beverages & Tobacco",1.1.1,11.5
-2019,"Paper, Paper Products & Printing",1.1.2,5.7
-2020,"Paper, Paper Products & Printing",1.1.2,13.0
-2021,"Paper, Paper Products & Printing",1.1.2,0.7
-2022,"Paper, Paper Products & Printing",1.1.2,-3.0
-2023,"Paper, Paper Products & Printing",1.1.2,10.3
-2024,"Paper, Paper Products & Printing",1.1.2,-4.1
-2021,Refined Petroleum Products,1.1.3,43.8
-2022,Refined Petroleum Products,1.1.3,17.4
-2023,Refined Petroleum Products,1.1.3,20.7
-2024,Refined Petroleum Products,1.1.3,24.8
-2019,Chemical & Chemical Products,1.1.4,23.4
-2020,Chemical & Chemical Products,1.1.4,23.7
-2021,Chemical & Chemical Products,1.1.4,30.8
-2022,Chemical & Chemical Products,1.1.4,19.9
-2023,Chemical & Chemical Products,1.1.4,16.0
-2024,Chemical & Chemical Products,1.1.4,4.8
-2019,Pharmaceutical & Biological Products,1.1.5,25.1
-2020,Pharmaceutical & Biological Products,1.1.5,44.6
-2021,Pharmaceutical & Biological Products,1.1.5,38.6
-2022,Pharmaceutical & Biological Products,1.1.5,41.0
-2023,Pharmaceutical & Biological Products,1.1.5,47.7
-2024,Pharmaceutical & Biological Products,1.1.5,0.8
-2019,Rubber & Plastic Products,1.1.6,8.1
-2020,Rubber & Plastic Products,1.1.6,7.5
-2021,Rubber & Plastic Products,1.1.6,8.3
-2022,Rubber & Plastic Products,1.1.6,15.8
-2023,Rubber & Plastic Products,1.1.6,8.6
-2024,Rubber & Plastic Products,1.1.6,13.4
-2022,Basic Metals,1.1.7,11.6
-2023,Basic Metals,1.1.7,0.5
-2024,Basic Metals,1.1.7,7.7
-2019,Fabricated Metal Products,1.1.8,8.6
-2020,Fabricated Metal Products,1.1.8,8.1
-2021,Fabricated Metal Products,1.1.8,11.9
-2022,Fabricated Metal Products,1.1.8,12.7
-2023,Fabricated Metal Products,1.1.8,5.4
-2024,Fabricated Metal Products,1.1.8,7.4
-2019,Machinery & Equipment,1.1.9,7.4
-2020,Machinery & Equipment,1.1.9,6.9
-2021,Machinery & Equipment,1.1.9,8.1
-2022,Machinery & Equipment,1.1.9,20.8
-2023,Machinery & Equipment,1.1.9,2.2
-2024,Machinery & Equipment,1.1.9,14.4
-2019,Electrical Machinery & Apparatus,1.1.10,14.4
-2020,Electrical Machinery & Apparatus,1.1.10,20.0
-2021,Electrical Machinery & Apparatus,1.1.10,22.1
-2022,Electrical Machinery & Apparatus,1.1.10,19.9
-2023,Electrical Machinery & Apparatus,1.1.10,15.5
-2024,Electrical Machinery & Apparatus,1.1.10,14.7
-2019,"Computer, Electronic And Optical Products",1.1.11,34.4
-2020,"Computer, Electronic And Optical Products",1.1.11,22.0
-2021,"Computer, Electronic And Optical Products",1.1.11,31.5
-2022,"Computer, Electronic And Optical Products",1.1.11,36.1
-2023,"Computer, Electronic And Optical Products",1.1.11,19.1
-2024,"Computer, Electronic And Optical Products",1.1.11,33.9
-2019,Semiconductor Devices,1.1.11.1,35.5
-2020,Semiconductor Devices,1.1.11.1,17.6
-2021,Semiconductor Devices,1.1.11.1,29.1
-2022,Semiconductor Devices,1.1.11.1,36.5
-2023,Semiconductor Devices,1.1.11.1,16.7
-2024,Semiconductor Devices,1.1.11.1,29.2
-2019,Computers & Peripheral Equipment,1.1.11.2,63.4
-2023,Computers & Peripheral Equipment,1.1.11.2,71.8
-2024,Computers & Peripheral Equipment,1.1.11.2,299.2
-2019,"Instrumentation, Photographic & Optical Goods",1.1.11.3,16.1
-2020,"Instrumentation, Photographic & Optical Goods",1.1.11.3,35.4
-2021,"Instrumentation, Photographic & Optical Goods",1.1.11.3,18.5
-2022,"Instrumentation, Photographic & Optical Goods",1.1.11.3,18.3
-2023,"Instrumentation, Photographic & Optical Goods",1.1.11.3,8.1
-2024,"Instrumentation, Photographic & Optical Goods",1.1.11.3,3.0
-2019,Other Electronics Nec,1.1.11.4,24.9
-2020,Other Electronics Nec,1.1.11.4,25.0
-2021,Other Electronics Nec,1.1.11.4,22.3
-2022,Other Electronics Nec,1.1.11.4,15.2
-2023,Other Electronics Nec,1.1.11.4,25.1
-2024,Other Electronics Nec,1.1.11.4,23.3
-2019,Transport Equipment,1.1.12,26.7
-2020,Transport Equipment,1.1.12,3.8
-2021,Transport Equipment,1.1.12,5.8
-2022,Transport Equipment,1.1.12,21.3
-2023,Transport Equipment,1.1.12,21.9
-2024,Transport Equipment,1.1.12,27.3
-2019,Construction,1.2,3.3
-2020,Construction,1.2,-8.4
-2021,Construction,1.2,-5.1
-2022,Construction,1.2,-5.7
-2023,Construction,1.2,1.2
-2024,Construction,1.2,3.0
-2019,Wholesale & Retail Trade,1.3,17.2
-2020,Wholesale & Retail Trade,1.3,15.6
-2021,Wholesale & Retail Trade,1.3,20.7
-2022,Wholesale & Retail Trade,1.3,23.5
-2023,Wholesale & Retail Trade,1.3,24.4
-2024,Wholesale & Retail Trade,1.3,23.6
-2019,Wholesale Trade,1.3.1,17.5
-2020,Wholesale Trade,1.3.1,15.8
-2021,Wholesale Trade,1.3.1,20.9
-2022,Wholesale Trade,1.3.1,23.7
-2023,Wholesale Trade,1.3.1,24.6
-2024,Wholesale Trade,1.3.1,23.7
-2019,Retail Trade,1.3.2,2.3
-2020,Retail Trade,1.3.2,0.1
-2021,Retail Trade,1.3.2,5.7
-2022,Retail Trade,1.3.2,2.6
-2023,Retail Trade,1.3.2,5.0
-2024,Retail Trade,1.3.2,10.7
-2019,Accommodation & Food Services,1.4,3.3
-2020,Accommodation & Food Services,1.4,-1.9
-2021,Accommodation & Food Services,1.4,-3.8
-2022,Accommodation & Food Services,1.4,6.0
-2023,Accommodation & Food Services,1.4,3.1
-2024,Accommodation & Food Services,1.4,5.1
-2019,Transportation & Storage,1.5,9.9
-2020,Transportation & Storage,1.5,27.6
-2021,Transportation & Storage,1.5,74.4
-2022,Transportation & Storage,1.5,69.6
-2023,Transportation & Storage,1.5,6.8
-2024,Transportation & Storage,1.5,26.7
-2019,Water Transport & Supporting Services,1.5.1,10.9
-2020,Water Transport & Supporting Services,1.5.1,31.5
-2021,Water Transport & Supporting Services,1.5.1,88.3
-2022,Water Transport & Supporting Services,1.5.1,77.2
-2023,Water Transport & Supporting Services,1.5.1,5.8
-2024,Water Transport & Supporting Services,1.5.1,27.6
-2019,Freight Water Transport,1.5.1.1,10.7
-2020,Freight Water Transport,1.5.1.1,31.4
-2021,Freight Water Transport,1.5.1.1,89.4
-2022,Freight Water Transport,1.5.1.1,78.1
-2023,Freight Water Transport,1.5.1.1,5.1
-2024,Freight Water Transport,1.5.1.1,27.3
-2019,Other Water Transport Nec,1.5.1.2,12.2
-2020,Other Water Transport Nec,1.5.1.2,31.7
-2021,Other Water Transport Nec,1.5.1.2,53.4
-2022,Other Water Transport Nec,1.5.1.2,40.9
-2023,Other Water Transport Nec,1.5.1.2,29.9
-2024,Other Water Transport Nec,1.5.1.2,36.1
-2020,Land & Air Transport & Supporting Services,1.5.2,20.5
-2021,Land & Air Transport & Supporting Services,1.5.2,7.2
-2022,Land & Air Transport & Supporting Services,1.5.2,7.6
-2023,Land & Air Transport & Supporting Services,1.5.2,37.1
-2019,"Warehousing, Post & Courier Services",1.5.3,9.9
-2020,"Warehousing, Post & Courier Services",1.5.3,14.3
-2021,"Warehousing, Post & Courier Services",1.5.3,13.2
-2022,"Warehousing, Post & Courier Services",1.5.3,19.4
-2023,"Warehousing, Post & Courier Services",1.5.3,11.5
-2024,"Warehousing, Post & Courier Services",1.5.3,12.5
-2019,Information & Communications,1.6,0.6
-2020,Information & Communications,1.6,-4.6
-2021,Information & Communications,1.6,-4.9
-2022,Information & Communications,1.6,-9.8
-2023,Information & Communications,1.6,0.9
-2024,Information & Communications,1.6,6.4
-2019,Finance & Insurance,1.7,6.9
-2020,Finance & Insurance,1.7,8.0
-2021,Finance & Insurance,1.7,8.1
-2022,Finance & Insurance,1.7,6.6
-2023,Finance & Insurance,1.7,9.5
-2024,Finance & Insurance,1.7,8.7
-2019,Financial Services,1.7.1,7.5
-2020,Financial Services,1.7.1,8.4
-2021,Financial Services,1.7.1,8.2
-2022,Financial Services,1.7.1,6.6
-2023,Financial Services,1.7.1,9.5
-2024,Financial Services,1.7.1,8.6
-2019,Banks,1.7.1.1,13.7
-2020,Banks,1.7.1.1,17.6
-2021,Banks,1.7.1.1,27.2
-2022,Banks,1.7.1.1,32.7
-2023,Banks,1.7.1.1,36.8
-2024,Banks,1.7.1.1,50.0
-2019,Holding Companies,1.7.1.2,6.5
-2020,Holding Companies,1.7.1.2,8.1
-2021,Holding Companies,1.7.1.2,7.8
-2022,Holding Companies,1.7.1.2,6.1
-2023,Holding Companies,1.7.1.2,8.6
-2024,Holding Companies,1.7.1.2,8.0
-2019,Other Financial Services,1.7.1.3,16.6
-2020,Other Financial Services,1.7.1.3,9.8
-2021,Other Financial Services,1.7.1.3,9.0
-2022,Other Financial Services,1.7.1.3,7.0
-2023,Other Financial Services,1.7.1.3,14.2
-2024,Other Financial Services,1.7.1.3,8.9
-2019,Insurance Services,1.7.2,-18.3
-2020,Insurance Services,1.7.2,-11.7
-2021,Insurance Services,1.7.2,1.1
-2022,Insurance Services,1.7.2,9.8
-2023,Insurance Services,1.7.2,11.3
-2024,Insurance Services,1.7.2,14.4
-2019,Real Estate,1.8,4.8
-2020,Real Estate,1.8,1.2
-2021,Real Estate,1.8,2.4
-2022,Real Estate,1.8,5.7
-2023,Real Estate,1.8,1.9
-2024,Real Estate,1.8,6.0
-2019,Professional And Administrative & Support Services,1.9,4.7
-2020,Professional And Administrative & Support Services,1.9,2.0
-2021,Professional And Administrative & Support Services,1.9,1.3
-2022,Professional And Administrative & Support Services,1.9,3.6
-2023,Professional And Administrative & Support Services,1.9,6.9
-2024,Professional And Administrative & Support Services,1.9,12.9
-2019,Others,1.10,5.3
-2020,Others,1.10,-1.8
-2021,Others,1.10,3.2
-2022,Others,1.10,19.8
-2023,Others,1.10,28.8
-2024,Others,1.10,16.4
+2019-01-01,Total,1,10.3
+2019-01-01,Manufacturing,1.1,24.2
+2019-01-01,"Food, Beverages & Tobacco",1.1.1,15.1
+2019-01-01,"Paper, Paper Products & Printing",1.1.2,5.7
+2019-01-01,Chemical & Chemical Products,1.1.4,23.4
+2019-01-01,Pharmaceutical & Biological Products,1.1.5,25.1
+2019-01-01,Rubber & Plastic Products,1.1.6,8.1
+2019-01-01,Fabricated Metal Products,1.1.8,8.6
+2019-01-01,Machinery & Equipment,1.1.9,7.4
+2019-01-01,Electrical Machinery & Apparatus,1.1.10,14.4
+2019-01-01,"Computer, Electronic And Optical Products",1.1.11,34.4
+2019-01-01,Semiconductor Devices,1.1.11.1,35.5
+2019-01-01,Computers & Peripheral Equipment,1.1.11.2,63.4
+2019-01-01,"Instrumentation, Photographic & Optical Goods",1.1.11.3,16.1
+2019-01-01,Other Electronics Nec,1.1.11.4,24.9
+2019-01-01,Transport Equipment,1.1.12,26.7
+2019-01-01,Construction,1.2,3.3
+2019-01-01,Wholesale & Retail Trade,1.3,17.2
+2019-01-01,Wholesale Trade,1.3.1,17.5
+2019-01-01,Retail Trade,1.3.2,2.3
+2019-01-01,Accommodation & Food Services,1.4,3.3
+2019-01-01,Transportation & Storage,1.5,9.9
+2019-01-01,Water Transport & Supporting Services,1.5.1,10.9
+2019-01-01,Freight Water Transport,1.5.1.1,10.7
+2019-01-01,Other Water Transport Nec,1.5.1.2,12.2
+2019-01-01,"Warehousing, Post & Courier Services",1.5.3,9.9
+2019-01-01,Information & Communications,1.6,0.6
+2019-01-01,Finance & Insurance,1.7,6.9
+2019-01-01,Financial Services,1.7.1,7.5
+2019-01-01,Banks,1.7.1.1,13.7
+2019-01-01,Holding Companies,1.7.1.2,6.5
+2019-01-01,Other Financial Services,1.7.1.3,16.6
+2019-01-01,Insurance Services,1.7.2,-18.3
+2019-01-01,Real Estate,1.8,4.8
+2019-01-01,Professional And Administrative & Support Services,1.9,4.7
+2019-01-01,Others,1.10,5.3
+2020-01-01,Total,1,9.5
+2020-01-01,Manufacturing,1.1,17.6
+2020-01-01,"Food, Beverages & Tobacco",1.1.1,8.9
+2020-01-01,"Paper, Paper Products & Printing",1.1.2,13.0
+2020-01-01,Chemical & Chemical Products,1.1.4,23.7
+2020-01-01,Pharmaceutical & Biological Products,1.1.5,44.6
+2020-01-01,Rubber & Plastic Products,1.1.6,7.5
+2020-01-01,Fabricated Metal Products,1.1.8,8.1
+2020-01-01,Machinery & Equipment,1.1.9,6.9
+2020-01-01,Electrical Machinery & Apparatus,1.1.10,20.0
+2020-01-01,"Computer, Electronic And Optical Products",1.1.11,22.0
+2020-01-01,Semiconductor Devices,1.1.11.1,17.6
+2020-01-01,"Instrumentation, Photographic & Optical Goods",1.1.11.3,35.4
+2020-01-01,Other Electronics Nec,1.1.11.4,25.0
+2020-01-01,Transport Equipment,1.1.12,3.8
+2020-01-01,Construction,1.2,-8.4
+2020-01-01,Wholesale & Retail Trade,1.3,15.6
+2020-01-01,Wholesale Trade,1.3.1,15.8
+2020-01-01,Retail Trade,1.3.2,0.1
+2020-01-01,Accommodation & Food Services,1.4,-1.9
+2020-01-01,Transportation & Storage,1.5,27.6
+2020-01-01,Water Transport & Supporting Services,1.5.1,31.5
+2020-01-01,Freight Water Transport,1.5.1.1,31.4
+2020-01-01,Other Water Transport Nec,1.5.1.2,31.7
+2020-01-01,Land & Air Transport & Supporting Services,1.5.2,20.5
+2020-01-01,"Warehousing, Post & Courier Services",1.5.3,14.3
+2020-01-01,Information & Communications,1.6,-4.6
+2020-01-01,Finance & Insurance,1.7,8.0
+2020-01-01,Financial Services,1.7.1,8.4
+2020-01-01,Banks,1.7.1.1,17.6
+2020-01-01,Holding Companies,1.7.1.2,8.1
+2020-01-01,Other Financial Services,1.7.1.3,9.8
+2020-01-01,Insurance Services,1.7.2,-11.7
+2020-01-01,Real Estate,1.8,1.2
+2020-01-01,Professional And Administrative & Support Services,1.9,2.0
+2020-01-01,Others,1.10,-1.8
+2021-01-01,Total,1,12.6
+2021-01-01,Manufacturing,1.1,26.3
+2021-01-01,"Food, Beverages & Tobacco",1.1.1,8.9
+2021-01-01,"Paper, Paper Products & Printing",1.1.2,0.7
+2021-01-01,Refined Petroleum Products,1.1.3,43.8
+2021-01-01,Chemical & Chemical Products,1.1.4,30.8
+2021-01-01,Pharmaceutical & Biological Products,1.1.5,38.6
+2021-01-01,Rubber & Plastic Products,1.1.6,8.3
+2021-01-01,Fabricated Metal Products,1.1.8,11.9
+2021-01-01,Machinery & Equipment,1.1.9,8.1
+2021-01-01,Electrical Machinery & Apparatus,1.1.10,22.1
+2021-01-01,"Computer, Electronic And Optical Products",1.1.11,31.5
+2021-01-01,Semiconductor Devices,1.1.11.1,29.1
+2021-01-01,"Instrumentation, Photographic & Optical Goods",1.1.11.3,18.5
+2021-01-01,Other Electronics Nec,1.1.11.4,22.3
+2021-01-01,Transport Equipment,1.1.12,5.8
+2021-01-01,Construction,1.2,-5.1
+2021-01-01,Wholesale & Retail Trade,1.3,20.7
+2021-01-01,Wholesale Trade,1.3.1,20.9
+2021-01-01,Retail Trade,1.3.2,5.7
+2021-01-01,Accommodation & Food Services,1.4,-3.8
+2021-01-01,Transportation & Storage,1.5,74.4
+2021-01-01,Water Transport & Supporting Services,1.5.1,88.3
+2021-01-01,Freight Water Transport,1.5.1.1,89.4
+2021-01-01,Other Water Transport Nec,1.5.1.2,53.4
+2021-01-01,Land & Air Transport & Supporting Services,1.5.2,7.2
+2021-01-01,"Warehousing, Post & Courier Services",1.5.3,13.2
+2021-01-01,Information & Communications,1.6,-4.9
+2021-01-01,Finance & Insurance,1.7,8.1
+2021-01-01,Financial Services,1.7.1,8.2
+2021-01-01,Banks,1.7.1.1,27.2
+2021-01-01,Holding Companies,1.7.1.2,7.8
+2021-01-01,Other Financial Services,1.7.1.3,9.0
+2021-01-01,Insurance Services,1.7.2,1.1
+2021-01-01,Real Estate,1.8,2.4
+2021-01-01,Professional And Administrative & Support Services,1.9,1.3
+2021-01-01,Others,1.10,3.2
+2022-01-01,Total,1,13.3
+2022-01-01,Manufacturing,1.1,26.9
+2022-01-01,"Food, Beverages & Tobacco",1.1.1,13.7
+2022-01-01,"Paper, Paper Products & Printing",1.1.2,-3.0
+2022-01-01,Refined Petroleum Products,1.1.3,17.4
+2022-01-01,Chemical & Chemical Products,1.1.4,19.9
+2022-01-01,Pharmaceutical & Biological Products,1.1.5,41.0
+2022-01-01,Rubber & Plastic Products,1.1.6,15.8
+2022-01-01,Basic Metals,1.1.7,11.6
+2022-01-01,Fabricated Metal Products,1.1.8,12.7
+2022-01-01,Machinery & Equipment,1.1.9,20.8
+2022-01-01,Electrical Machinery & Apparatus,1.1.10,19.9
+2022-01-01,"Computer, Electronic And Optical Products",1.1.11,36.1
+2022-01-01,Semiconductor Devices,1.1.11.1,36.5
+2022-01-01,"Instrumentation, Photographic & Optical Goods",1.1.11.3,18.3
+2022-01-01,Other Electronics Nec,1.1.11.4,15.2
+2022-01-01,Transport Equipment,1.1.12,21.3
+2022-01-01,Construction,1.2,-5.7
+2022-01-01,Wholesale & Retail Trade,1.3,23.5
+2022-01-01,Wholesale Trade,1.3.1,23.7
+2022-01-01,Retail Trade,1.3.2,2.6
+2022-01-01,Accommodation & Food Services,1.4,6.0
+2022-01-01,Transportation & Storage,1.5,69.6
+2022-01-01,Water Transport & Supporting Services,1.5.1,77.2
+2022-01-01,Freight Water Transport,1.5.1.1,78.1
+2022-01-01,Other Water Transport Nec,1.5.1.2,40.9
+2022-01-01,Land & Air Transport & Supporting Services,1.5.2,7.6
+2022-01-01,"Warehousing, Post & Courier Services",1.5.3,19.4
+2022-01-01,Information & Communications,1.6,-9.8
+2022-01-01,Finance & Insurance,1.7,6.6
+2022-01-01,Financial Services,1.7.1,6.6
+2022-01-01,Banks,1.7.1.1,32.7
+2022-01-01,Holding Companies,1.7.1.2,6.1
+2022-01-01,Other Financial Services,1.7.1.3,7.0
+2022-01-01,Insurance Services,1.7.2,9.8
+2022-01-01,Real Estate,1.8,5.7
+2022-01-01,Professional And Administrative & Support Services,1.9,3.6
+2022-01-01,Others,1.10,19.8
+2023-01-01,Total,1,12.3
+2023-01-01,Manufacturing,1.1,17.7
+2023-01-01,"Food, Beverages & Tobacco",1.1.1,6.7
+2023-01-01,"Paper, Paper Products & Printing",1.1.2,10.3
+2023-01-01,Refined Petroleum Products,1.1.3,20.7
+2023-01-01,Chemical & Chemical Products,1.1.4,16.0
+2023-01-01,Pharmaceutical & Biological Products,1.1.5,47.7
+2023-01-01,Rubber & Plastic Products,1.1.6,8.6
+2023-01-01,Basic Metals,1.1.7,0.5
+2023-01-01,Fabricated Metal Products,1.1.8,5.4
+2023-01-01,Machinery & Equipment,1.1.9,2.2
+2023-01-01,Electrical Machinery & Apparatus,1.1.10,15.5
+2023-01-01,"Computer, Electronic And Optical Products",1.1.11,19.1
+2023-01-01,Semiconductor Devices,1.1.11.1,16.7
+2023-01-01,Computers & Peripheral Equipment,1.1.11.2,71.8
+2023-01-01,"Instrumentation, Photographic & Optical Goods",1.1.11.3,8.1
+2023-01-01,Other Electronics Nec,1.1.11.4,25.1
+2023-01-01,Transport Equipment,1.1.12,21.9
+2023-01-01,Construction,1.2,1.2
+2023-01-01,Wholesale & Retail Trade,1.3,24.4
+2023-01-01,Wholesale Trade,1.3.1,24.6
+2023-01-01,Retail Trade,1.3.2,5.0
+2023-01-01,Accommodation & Food Services,1.4,3.1
+2023-01-01,Transportation & Storage,1.5,6.8
+2023-01-01,Water Transport & Supporting Services,1.5.1,5.8
+2023-01-01,Freight Water Transport,1.5.1.1,5.1
+2023-01-01,Other Water Transport Nec,1.5.1.2,29.9
+2023-01-01,Land & Air Transport & Supporting Services,1.5.2,37.1
+2023-01-01,"Warehousing, Post & Courier Services",1.5.3,11.5
+2023-01-01,Information & Communications,1.6,0.9
+2023-01-01,Finance & Insurance,1.7,9.5
+2023-01-01,Financial Services,1.7.1,9.5
+2023-01-01,Banks,1.7.1.1,36.8
+2023-01-01,Holding Companies,1.7.1.2,8.6
+2023-01-01,Other Financial Services,1.7.1.3,14.2
+2023-01-01,Insurance Services,1.7.2,11.3
+2023-01-01,Real Estate,1.8,1.9
+2023-01-01,Professional And Administrative & Support Services,1.9,6.9
+2023-01-01,Others,1.10,28.8
+2024-01-01,Total,1,12.7
+2024-01-01,Manufacturing,1.1,21.2
+2024-01-01,"Food, Beverages & Tobacco",1.1.1,11.5
+2024-01-01,"Paper, Paper Products & Printing",1.1.2,-4.1
+2024-01-01,Refined Petroleum Products,1.1.3,24.8
+2024-01-01,Chemical & Chemical Products,1.1.4,4.8
+2024-01-01,Pharmaceutical & Biological Products,1.1.5,0.8
+2024-01-01,Rubber & Plastic Products,1.1.6,13.4
+2024-01-01,Basic Metals,1.1.7,7.7
+2024-01-01,Fabricated Metal Products,1.1.8,7.4
+2024-01-01,Machinery & Equipment,1.1.9,14.4
+2024-01-01,Electrical Machinery & Apparatus,1.1.10,14.7
+2024-01-01,"Computer, Electronic And Optical Products",1.1.11,33.9
+2024-01-01,Semiconductor Devices,1.1.11.1,29.2
+2024-01-01,Computers & Peripheral Equipment,1.1.11.2,299.2
+2024-01-01,"Instrumentation, Photographic & Optical Goods",1.1.11.3,3.0
+2024-01-01,Other Electronics Nec,1.1.11.4,23.3
+2024-01-01,Transport Equipment,1.1.12,27.3
+2024-01-01,Construction,1.2,3.0
+2024-01-01,Wholesale & Retail Trade,1.3,23.6
+2024-01-01,Wholesale Trade,1.3.1,23.7
+2024-01-01,Retail Trade,1.3.2,10.7
+2024-01-01,Accommodation & Food Services,1.4,5.1
+2024-01-01,Transportation & Storage,1.5,26.7
+2024-01-01,Water Transport & Supporting Services,1.5.1,27.6
+2024-01-01,Freight Water Transport,1.5.1.1,27.3
+2024-01-01,Other Water Transport Nec,1.5.1.2,36.1
+2024-01-01,"Warehousing, Post & Courier Services",1.5.3,12.5
+2024-01-01,Information & Communications,1.6,6.4
+2024-01-01,Finance & Insurance,1.7,8.7
+2024-01-01,Financial Services,1.7.1,8.6
+2024-01-01,Banks,1.7.1.1,50.0
+2024-01-01,Holding Companies,1.7.1.2,8.0
+2024-01-01,Other Financial Services,1.7.1.3,8.9
+2024-01-01,Insurance Services,1.7.2,14.4
+2024-01-01,Real Estate,1.8,6.0
+2024-01-01,Professional And Administrative & Support Services,1.9,12.9
+2024-01-01,Others,1.10,16.4

@@ -1,11 +1,11 @@
-name: Monthly Data Pipeline
+name: Data Pipeline with Notification
 
 on:
-  # Runs at 02:00 UTC on the 1st of every month
+  # Weekly run: Monday 00:00 UTC
   schedule:
-    - cron: "0 2 1 * *"
+    - cron: "0 0 * * 1"
 
-  # Allow manual trigger from GitHub UI (Actions tab → Run workflow)
+  # Manual trigger
   workflow_dispatch:
     inputs:
       source:
@@ -14,7 +14,7 @@ on:
         default: ""
         type: choice
         options:
-          - ""           # all sources
+          - ""
           - singstat
           - mas
           - worldbank
@@ -24,55 +24,60 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # needed to commit data files back to the repo
+      contents: write
 
     steps:
-      # 1. Check out the full repo
+      # 1. Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # full history so git log works correctly
+          fetch-depth: 0
 
-      # 2. Set up Python
-      - name: Set up Python 3.11
+      # 2. Setup Python
+      - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
           cache: "pip"
 
       # 3. Install dependencies
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # 4. Validate imports before doing real work
+      # 4. Dry-run validation
       - name: Dry-run validation
         run: python pipeline/run_pipeline.py --dry-run
 
-      # 5. Run the pipeline (all sources, or the one selected manually)
+      # 5. Run pipeline
       - name: Run data pipeline
+        id: run_pipeline
         run: |
           if [ -n "${{ github.event.inputs.source }}" ]; then
+            echo "Running specific source: ${{ github.event.inputs.source }}"
             python pipeline/run_pipeline.py --source ${{ github.event.inputs.source }}
           else
+            echo "Running full pipeline (YAML controlled)"
             python pipeline/run_pipeline.py
           fi
 
-      # 6. Commit any new/updated data files back to the repo
+      # 6. Commit data
       - name: Commit updated data
+        id: commit_step
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add data/raw/
           git add data/processed/
-          git add data/pipeline_log.json || true   # ok if log doesn't exist yet
+          git add data/pipeline_log.json || true
 
-          # Only commit if something actually changed
           if git diff --staged --quiet; then
-            echo "No data changes — nothing to commit."
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No data changes"
           else
-            MONTH=$(date '+%Y-%m')
-            git commit -m "data: monthly refresh ${MONTH} [skip ci]"
+            DATE=$(date '+%Y-%m-%d')
+            git commit -m "data: update ${DATE} [skip ci]"
             git push
-            echo "Data committed and pushed."
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Data committed"
           fi

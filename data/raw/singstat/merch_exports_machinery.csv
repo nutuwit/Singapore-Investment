@@ -1,8 +1,7 @@
 date,variable,seriesNo,value
-2026 Apr,Total Electronic Products,1,43244672.9
-2026 Mar,Total Electronic Products,1,40516132.5
-2026 Feb,Total Electronic Products,1,26357019.7
-2026 Jan,Total Electronic Products,1,39026874.8
+2026 Mar,Total Electronic Products,1,40633566.8
+2026 Feb,Total Electronic Products,1,26357848.2
+2026 Jan,Total Electronic Products,1,39027338.1
 2025 Dec,Total Electronic Products,1,29461722.5
 2025 Nov,Total Electronic Products,1,27409355.4
 2025 Oct,Total Electronic Products,1,30407858.6
@@ -87,8 +86,7 @@ date,variable,seriesNo,value
 2019 Mar,Total Electronic Products,1,12791382.8
 2019 Feb,Total Electronic Products,1,11915424.3
 2019 Jan,Total Electronic Products,1,13982711.5
-2026 Apr,Integrated Circuits,1.1,20631961.1
-2026 Mar,Integrated Circuits,1.1,21434973.6
+2026 Mar,Integrated Circuits,1.1,21436204.3
 2026 Feb,Integrated Circuits,1.1,14230393.2
 2026 Jan,Integrated Circuits,1.1,19840232.8
 2025 Dec,Integrated Circuits,1.1,16021930.8
@@ -175,8 +173,7 @@ date,variable,seriesNo,value
 2019 Mar,Integrated Circuits,1.1,8038758.4
 2019 Feb,Integrated Circuits,1.1,8013818.3
 2019 Jan,Integrated Circuits,1.1,9014134.4
-2026 Apr,Parts Of Personal Computer,1.2,3058866.7
-2026 Mar,Parts Of Personal Computer,1.2,2544824.0
+2026 Mar,Parts Of Personal Computer,1.2,2499698.5
 2026 Feb,Parts Of Personal Computer,1.2,1541393.9
 2026 Jan,Parts Of Personal Computer,1.2,2179056.9
 2025 Dec,Parts Of Personal Computer,1.2,2789417.4
@@ -263,9 +260,8 @@ date,variable,seriesNo,value
 2019 Mar,Parts Of Personal Computer,1.2,1043994.2
 2019 Feb,Parts Of Personal Computer,1.2,887238.8
 2019 Jan,Parts Of Personal Computer,1.2,980670.2
-2026 Apr,Disk Drives,1.3,449263.6
-2026 Mar,Disk Drives,1.3,349742.0
-2026 Feb,Disk Drives,1.3,355917.9
+2026 Mar,Disk Drives,1.3,349742.9
+2026 Feb,Disk Drives,1.3,356540.7
 2026 Jan,Disk Drives,1.3,359999.1
 2025 Dec,Disk Drives,1.3,302987.8
 2025 Nov,Disk Drives,1.3,206940.8
@@ -351,10 +347,9 @@ date,variable,seriesNo,value
 2019 Mar,Disk Drives,1.3,234569.3
 2019 Feb,Disk Drives,1.3,178259.4
 2019 Jan,Disk Drives,1.3,246029.4
-2026 Apr,Telecommunications Equipment,1.4,4932905.6
-2026 Mar,Telecommunications Equipment,1.4,3824548.4
-2026 Feb,Telecommunications Equipment,1.4,3150780.4
-2026 Jan,Telecommunications Equipment,1.4,3665014.4
+2026 Mar,Telecommunications Equipment,1.4,3850807.1
+2026 Feb,Telecommunications Equipment,1.4,3150858.4
+2026 Jan,Telecommunications Equipment,1.4,3665477.8
 2025 Dec,Telecommunications Equipment,1.4,3814563.9
 2025 Nov,Telecommunications Equipment,1.4,3143537.1
 2025 Oct,Telecommunications Equipment,1.4,4358165.3
@@ -439,8 +434,7 @@ date,variable,seriesNo,value
 2019 Mar,Telecommunications Equipment,1.4,1213345.2
 2019 Feb,Telecommunications Equipment,1.4,949614.1
 2019 Jan,Telecommunications Equipment,1.4,1327525.7
-2026 Apr,Consumer Electronics,1.5,279580.7
-2026 Mar,Consumer Electronics,1.5,250199.5
+2026 Mar,Consumer Electronics,1.5,250202.8
 2026 Feb,Consumer Electronics,1.5,194276.2
 2026 Jan,Consumer Electronics,1.5,238693.0
 2025 Dec,Consumer Electronics,1.5,275419.6
@@ -527,9 +521,8 @@ date,variable,seriesNo,value
 2019 Mar,Consumer Electronics,1.5,268694.3
 2019 Feb,Consumer Electronics,1.5,205223.7
 2019 Jan,Consumer Electronics,1.5,244205.1
-2026 Apr,Personal Computers,1.6,8161338.9
-2026 Mar,Personal Computers,1.6,7594234.8
-2026 Feb,Personal Computers,1.6,3975924.8
+2026 Mar,Personal Computers,1.6,7596605.1
+2026 Feb,Personal Computers,1.6,3976054.5
 2026 Jan,Personal Computers,1.6,9124370.7
 2025 Dec,Personal Computers,1.6,3104617.2
 2025 Nov,Personal Computers,1.6,3647099.6
@@ -615,7 +608,6 @@ date,variable,seriesNo,value
 2019 Mar,Personal Computers,1.6,479231.7
 2019 Feb,Personal Computers,1.6,466423.7
 2019 Jan,Personal Computers,1.6,602346.8
-2026 Apr,Parts Of Integrated Circuits,1.7,240638.4
 2026 Mar,Parts Of Integrated Circuits,1.7,192303.8
 2026 Feb,Parts Of Integrated Circuits,1.7,172832.5
 2026 Jan,Parts Of Integrated Circuits,1.7,238236.9
@@ -703,7 +695,6 @@ date,variable,seriesNo,value
 2019 Mar,Parts Of Integrated Circuits,1.7,121079.4
 2019 Feb,Parts Of Integrated Circuits,1.7,100573.0
 2019 Jan,Parts Of Integrated Circuits,1.7,162823.6
-2026 Apr,Diodes And Transistors,1.8,1276008.8
 2026 Mar,Diodes And Transistors,1.8,1383965.7
 2026 Feb,Diodes And Transistors,1.8,1129635.9
 2026 Jan,Diodes And Transistors,1.8,1269491.3
@@ -791,10 +782,9 @@ date,variable,seriesNo,value
 2019 Mar,Diodes And Transistors,1.8,837086.7
 2019 Feb,Diodes And Transistors,1.8,653187.8
 2019 Jan,Diodes And Transistors,1.8,824100.0
-2026 Apr,Non-Electronic Products,2,13005224.0
-2026 Mar,Non-Electronic Products,2,12639599.2
-2026 Feb,Non-Electronic Products,2,10266971.8
-2026 Jan,Non-Electronic Products,2,12092302.9
+2026 Mar,Non-Electronic Products,2,12717091.0
+2026 Feb,Non-Electronic Products,2,10266984.9
+2026 Jan,Non-Electronic Products,2,12093480.2
 2025 Dec,Non-Electronic Products,2,11957943.5
 2025 Nov,Non-Electronic Products,2,10882997.2
 2025 Oct,Non-Electronic Products,2,11901820.1
@@ -879,8 +869,7 @@ date,variable,seriesNo,value
 2019 Mar,Non-Electronic Products,2,8502498.9
 2019 Feb,Non-Electronic Products,2,6274795.2
 2019 Jan,Non-Electronic Products,2,7603320.1
-2026 Apr,Electrical Circuit Apparatus,2.1,980306.3
-2026 Mar,Electrical Circuit Apparatus,2.1,880359.6
+2026 Mar,Electrical Circuit Apparatus,2.1,880334.1
 2026 Feb,Electrical Circuit Apparatus,2.1,664249.8
 2026 Jan,Electrical Circuit Apparatus,2.1,762770.9
 2025 Dec,Electrical Circuit Apparatus,2.1,772938.2
@@ -967,8 +956,7 @@ date,variable,seriesNo,value
 2019 Mar,Electrical Circuit Apparatus,2.1,737786.6
 2019 Feb,Electrical Circuit Apparatus,2.1,569542.9
 2019 Jan,Electrical Circuit Apparatus,2.1,658835.7
-2026 Apr,Electrical Machinery & Apparatus Nes,2.2,462789.9
-2026 Mar,Electrical Machinery & Apparatus Nes,2.2,459967.1
+2026 Mar,Electrical Machinery & Apparatus Nes,2.2,459974.6
 2026 Feb,Electrical Machinery & Apparatus Nes,2.2,372332.4
 2026 Jan,Electrical Machinery & Apparatus Nes,2.2,531477.9
 2025 Dec,Electrical Machinery & Apparatus Nes,2.2,577762.2

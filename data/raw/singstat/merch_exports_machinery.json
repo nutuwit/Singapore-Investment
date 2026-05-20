@@ -1,27 +1,21 @@
 [
   {
-    "date": "2026 Apr",
-    "variable": "Total Electronic Products",
-    "seriesNo": "1",
-    "value": 43244672.9
-  },
-  {
     "date": "2026 Mar",
     "variable": "Total Electronic Products",
     "seriesNo": "1",
-    "value": 40516132.5
+    "value": 40633566.8
   },
   {
     "date": "2026 Feb",
     "variable": "Total Electronic Products",
     "seriesNo": "1",
-    "value": 26357019.7
+    "value": 26357848.2
   },
   {
     "date": "2026 Jan",
     "variable": "Total Electronic Products",
     "seriesNo": "1",
-    "value": 39026874.8
+    "value": 39027338.1
   },
   {
     "date": "2025 Dec",
@@ -528,16 +522,10 @@
     "value": 13982711.5
   },
   {
-    "date": "2026 Apr",
-    "variable": "Integrated Circuits",
-    "seriesNo": "1.1",
-    "value": 20631961.1
-  },
-  {
     "date": "2026 Mar",
     "variable": "Integrated Circuits",
     "seriesNo": "1.1",
-    "value": 21434973.6
+    "value": 21436204.3
   },
   {
     "date": "2026 Feb",
@@ -1056,16 +1044,10 @@
     "value": 9014134.4
   },
   {
-    "date": "2026 Apr",
-    "variable": "Parts Of Personal Computer",
-    "seriesNo": "1.2",
-    "value": 3058866.7
-  },
-  {
     "date": "2026 Mar",
     "variable": "Parts Of Personal Computer",
     "seriesNo": "1.2",
-    "value": 2544824.0
+    "value": 2499698.5
   },
   {
     "date": "2026 Feb",
@@ -1584,22 +1566,16 @@
     "value": 980670.2
   },
   {
-    "date": "2026 Apr",
-    "variable": "Disk Drives",
-    "seriesNo": "1.3",
-    "value": 449263.6
-  },
-  {
     "date": "2026 Mar",
     "variable": "Disk Drives",
     "seriesNo": "1.3",
-    "value": 349742.0
+    "value": 349742.9
   },
   {
     "date": "2026 Feb",
     "variable": "Disk Drives",
     "seriesNo": "1.3",
-    "value": 355917.9
+    "value": 356540.7
   },
   {
     "date": "2026 Jan",
@@ -2112,28 +2088,22 @@
     "value": 246029.4
   },
   {
-    "date": "2026 Apr",
-    "variable": "Telecommunications Equipment",
-    "seriesNo": "1.4",
-    "value": 4932905.6
-  },
-  {
     "date": "2026 Mar",
     "variable": "Telecommunications Equipment",
     "seriesNo": "1.4",
-    "value": 3824548.4
+    "value": 3850807.1
   },
   {
     "date": "2026 Feb",
     "variable": "Telecommunications Equipment",
     "seriesNo": "1.4",
-    "value": 3150780.4
+    "value": 3150858.4
   },
   {
     "date": "2026 Jan",
     "variable": "Telecommunications Equipment",
     "seriesNo": "1.4",
-    "value": 3665014.4
+    "value": 3665477.8
   },
   {
     "date": "2025 Dec",
@@ -2640,16 +2610,10 @@
     "value": 1327525.7
   },
   {
-    "date": "2026 Apr",
-    "variable": "Consumer Electronics",
-    "seriesNo": "1.5",
-    "value": 279580.7
-  },
-  {
     "date": "2026 Mar",
     "variable": "Consumer Electronics",
     "seriesNo": "1.5",
-    "value": 250199.5
+    "value": 250202.8
   },
   {
     "date": "2026 Feb",
@@ -3168,22 +3132,16 @@
     "value": 244205.1
   },
   {
-    "date": "2026 Apr",
-    "variable": "Personal Computers",
-    "seriesNo": "1.6",
-    "value": 8161338.9
-  },
-  {
     "date": "2026 Mar",
     "variable": "Personal Computers",
     "seriesNo": "1.6",
-    "value": 7594234.8
+    "value": 7596605.1
   },
   {
     "date": "2026 Feb",
     "variable": "Personal Computers",
     "seriesNo": "1.6",
-    "value": 3975924.8
+    "value": 3976054.5
   },
   {
     "date": "2026 Jan",
@@ -3694,12 +3652,6 @@
     "variable": "Personal Computers",
     "seriesNo": "1.6",
     "value": 602346.8
-  },
-  {
-    "date": "2026 Apr",
-    "variable": "Parts Of Integrated Circuits",
-    "seriesNo": "1.7",
-    "value": 240638.4
   },
   {
     "date": "2026 Mar",
@@ -4224,12 +4176,6 @@
     "value": 162823.6
   },
   {
-    "date": "2026 Apr",
-    "variable": "Diodes And Transistors",
-    "seriesNo": "1.8",
-    "value": 1276008.8
-  },
-  {
     "date": "2026 Mar",
     "variable": "Diodes And Transistors",
     "seriesNo": "1.8",
@@ -4752,28 +4698,22 @@
     "value": 824100.0
   },
   {
-    "date": "2026 Apr",
-    "variable": "Non-Electronic Products",
-    "seriesNo": "2",
-    "value": 13005224.0
-  },
-  {
     "date": "2026 Mar",
     "variable": "Non-Electronic Products",
     "seriesNo": "2",
-    "value": 12639599.2
+    "value": 12717091.0
   },
   {
     "date": "2026 Feb",
     "variable": "Non-Electronic Products",
     "seriesNo": "2",
-    "value": 10266971.8
+    "value": 10266984.9
   },
   {
     "date": "2026 Jan",
     "variable": "Non-Electronic Products",
     "seriesNo": "2",
-    "value": 12092302.9
+    "value": 12093480.2
   },
   {
     "date": "2025 Dec",
@@ -5280,16 +5220,10 @@
     "value": 7603320.1
   },
   {
-    "date": "2026 Apr",
-    "variable": "Electrical Circuit Apparatus",
-    "seriesNo": "2.1",
-    "value": 980306.3
-  },
-  {
     "date": "2026 Mar",
     "variable": "Electrical Circuit Apparatus",
     "seriesNo": "2.1",
-    "value": 880359.6
+    "value": 880334.1
   },
   {
     "date": "2026 Feb",
@@ -5808,16 +5742,10 @@
     "value": 658835.7
   },
   {
-    "date": "2026 Apr",
-    "variable": "Electrical Machinery & Apparatus Nes",
-    "seriesNo": "2.2",
-    "value": 462789.9
-  },
-  {
     "date": "2026 Mar",
     "variable": "Electrical Machinery & Apparatus Nes",
     "seriesNo": "2.2",
-    "value": 459967.1
+    "value": 459974.6
   },
   {
     "date": "2026 Feb",
